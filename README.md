@@ -1,9 +1,10 @@
-[2021-08-07][16:20:40][marinade][INFO] Cluster: Mainnet, commitment: processed
-[2021-08-07][16:20:40][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-08-07][16:20:40][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-08-07][16:20:41][marinade::show][INFO] Epoch EpochInfo { epoch: 209, slot_index: 320495, slots_in_epoch: 432000, absolute_slot: 90608495, block_height: 80934191, transaction_count: Some(23237830760) }
-[2021-08-07][16:20:41][marinade::show][INFO] Staking CAPPED TVL 100000 SOL
-[2021-08-07][16:20:41][marinade::show][INFO] Liquidity CAPPED TVL 10000 SOL
+<pre>
+[2021-08-07][16:24:45][marinade][INFO] Cluster: Mainnet, commitment: processed
+[2021-08-07][16:24:45][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-08-07][16:24:45][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-08-07][16:24:46][marinade::show][INFO] Epoch EpochInfo { epoch: 209, slot_index: 320943, slots_in_epoch: 432000, absolute_slot: 90608943, block_height: 80934607, transaction_count: Some(23238177040) }
+[2021-08-07][16:24:46][marinade::show][INFO] Staking CAPPED TVL 100000 SOL
+[2021-08-07][16:24:46][marinade::show][INFO] Liquidity CAPPED TVL 10000 SOL
 -- Treasury ---------------
 reserve PDA 427.342906324 SOL Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
 treasury mSOL account 5.27600794 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
@@ -198,3 +199,4 @@ List account: DwFYJNnhLmw19FBTrVaLWZ8SZJpxdPoSYVSJaio9tjbY with 731/3000 validat
 --------------------------
  total_staked 99606.226523108 total_staked_fully_activated 84254.317534567, delta to be staked in this epoch:15351.908988541
 --
+</pre>

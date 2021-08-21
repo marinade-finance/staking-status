@@ -1,14 +1,14 @@
 ---
 <pre>
-[2021-08-20][03:50:59][marinade][INFO] Cluster: Mainnet, commitment: processed
-[2021-08-20][03:50:59][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-08-20][03:50:59][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-08-20][03:51:00][marinade::show][INFO] Epoch EpochInfo { epoch: 214, slot_index: 40947, slots_in_epoch: 432000, absolute_slot: 92488947, block_height: 82586498, transaction_count: Some(24593467813) }
-[2021-08-20][03:51:00][marinade::show][INFO] Staking CAPPED TVL 300000 SOL
-[2021-08-20][03:51:00][marinade::show][INFO] Liquidity CAPPED TVL 20000 SOL
+[2021-08-21][11:23:26][marinade][INFO] Cluster: Mainnet, commitment: processed
+[2021-08-21][11:23:26][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-08-21][11:23:26][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-08-21][11:23:27][marinade::show][INFO] Epoch EpochInfo { epoch: 214, slot_index: 240401, slots_in_epoch: 432000, absolute_slot: 92688401, block_height: 82764755, transaction_count: Some(24747414401) }
+[2021-08-21][11:23:27][marinade::show][INFO] Staking CAPPED TVL 300000 SOL
+[2021-08-21][11:23:27][marinade::show][INFO] Liquidity CAPPED TVL 20000 SOL
 -- Treasury ---------------
-reserve PDA 13823.060282963 SOL Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
-treasury mSOL account 71.070570439 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
+reserve PDA 13657.110014482 SOL Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
+treasury mSOL account 71.655278083 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
 admin_authority Eh8zjgsZgwpbgNq8XZzFZttaGUCPgFu5WuMJmd3fm2ig
 validator_manager_authority VaLV7StdK6A3KfqyePbHyaBefjeibq9gakECFtXNM4m
 -- Config ---------------
@@ -16,27 +16,27 @@ rent_exempt_for_token_acc 2039280
 min_deposit 0.000000001 SOL
 min_stake 1 SOL
 reward_fee 2%
-mSOL supply 286319.134754505
+mSOL supply 287306.020970044
 -- mSOL token ---------------
 mSOL price 1.002525125 SOL (start epoch price 1.002525124931708 SOL)
-mSOL supply 285597.964173003 mint mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So auth 3JLPCS1qM2zRw3Dp6V4hZnYHd4toMNPkNesXdX9tg6KM
+mSOL supply 286582.364654183 mint mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So auth 3JLPCS1qM2zRw3Dp6V4hZnYHd4toMNPkNesXdX9tg6KM
 -- Liq-Pool ---------------
-mSOL-SOL-LP supply 14388.72690465 mint LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj auth HZsepB79dnpvH6qfVgvMpS738EndHw3qSHo4Gv5WX1KA
-mSOL  10309.292094254 account 7GgPYjS5Dza89wV6FpZ23kUJRG5vbQ1GM25ezspYFSoE auth EyaSjUtSgo9aRD1f8LWXwdvkpDTmXAW54yoSHZRF14WL
-SOL   4601.261948238 account UefNb6z6yvArqe4cJHTXCqStRsKmWhGxnZzuHbikP5Q 
+mSOL-SOL-LP supply 14338.666135046 mint LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj auth HZsepB79dnpvH6qfVgvMpS738EndHw3qSHo4Gv5WX1KA
+mSOL  5.900092071 account 7GgPYjS5Dza89wV6FpZ23kUJRG5vbQ1GM25ezspYFSoE auth EyaSjUtSgo9aRD1f8LWXwdvkpDTmXAW54yoSHZRF14WL
+SOL   14880.46455242 account UefNb6z6yvArqe4cJHTXCqStRsKmWhGxnZzuHbikP5Q 
 Liquidity Target: 3000
 Current-fee: 0.3%
 Min-Max-Fee: 0.3%-3%
 --------------------------
-reserve balance: 13823.060282963
+reserve balance: 13657.110014482
 cooling down: 0
-Circulating ticket accounts: 13821.275460187 (29 tickets)
-stake-delta: 1.782783496
+Circulating ticket accounts: 12693.87440712 (25 tickets)
+stake-delta: 963.233568082
 Stake list account: Anv3XE7e5saNdm16MU6bniYS59Mpv7DzQXHAhxJUmAKW with 147/10000 stakes
-[2021-08-20][03:51:02][marinade::show][INFO] Update Scores from ../stake-o-matic/db/score-all-mainnet-beta/mainnet-beta-validator-detail.csv
+[2021-08-21][11:23:29][marinade::show][INFO] Update Scores from ../stake-o-matic/db/score-all-mainnet-beta/mainnet-beta-validator-detail.csv
 -----------------
 -- Validators ---
-Total staked: 286317.351971009 SOL
+Total staked: 286342.787401962 SOL
 List account: DwFYJNnhLmw19FBTrVaLWZ8SZJpxdPoSYVSJaio9tjbY with 777/3000 validators
 -------------------------------------------------------------
 1) Validator BLADE1qNA1uNjRgER6DtUFf7FU3c1TWLLdpPeEcKatZ2, balance 8027.064092408 SOL, score-pct:0%, 1 stake-accounts
@@ -46,16 +46,16 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "zantetsu", name: "Shinobi System
  should_have 0 next-operation -UNSTAKE 8027.064092408
 
 -------------------------------------------------------------
-2) Validator AKoVXpZmi8wSz3sGvCYEygbpdHvSRysWsh36b97iPvKh, balance 3141.010192217 SOL, score-pct:1.85661%, 1 stake-accounts
+2) Validator AKoVXpZmi8wSz3sGvCYEygbpdHvSRysWsh36b97iPvKh, balance 3141.010192217 SOL, score-pct:1.9620037%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "genesysgo", name: "GenesysGo", identity: "wWf94sVnaXHzBYrePsRUyesq6ofndocfBH6EmzdgKMS", vote_address: "AKoVXpZmi8wSz3sGvCYEygbpdHvSRysWsh36b97iPvKh", score: 8217049, average_position: 55.681998232462824, commission: 2, active_stake: 161004.46356006, epoch_credits: 316286, data_center_concentration: 0.0417, can_halt_the_network_group: false, stake_state: "Baseline", stake_state_reason: "Poor block production during epoch 213: 25 blocks in 80 slots, 69% skip rate", www_url: "https://genesysgo.com" }
   2. Stake 5WxnPzq9VyaQ1zu3QLJcZqdRariE9v7rBB6HGvtjeSBv delegated 3141.010192217 activation_epoch:201
- should_have 5315.79633589 next-operation +STAKE 2174.786143673
+ should_have 5618.055928668 next-operation +STAKE 2477.045736451
 
 -------------------------------------------------------------
-3) Validator 6anBvYWGwkkZPAaPF6BmzF6LUPfP2HFVhQUAWckKH9LZ, balance 2608.591090139 SOL, score-pct:1.1270844%, 1 stake-accounts
+3) Validator 6anBvYWGwkkZPAaPF6BmzF6LUPfP2HFVhQUAWckKH9LZ, balance 2608.591090139 SOL, score-pct:1.2980471%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "4blockteam", name: "4BLOCK.TEAM", identity: "GZNnph4EvmyjjL5uzF9xNNTHyV46RzbkW4w4HYU8BQCW", vote_address: "6anBvYWGwkkZPAaPF6BmzF6LUPfP2HFVhQUAWckKH9LZ", score: 6575727, average_position: 54.49912151289915, commission: 0, active_stake: 320797.293661377, epoch_credits: 309567, data_center_concentration: 0.083, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 98 blocks in 120 slots, 19% skip rate", www_url: "http://4block.team/" }
   3. Stake 8QupYC69LJcKt9cGUdVfLF8hLgXqQZRn6UpnmezdwAxb delegated 2608.591090139 activation_epoch:199
- should_have 3227.038132563 next-operation +STAKE 618.447042424
+ should_have 3716.864062566 next-operation +STAKE 1108.272972427
 
 -------------------------------------------------------------
 4) Validator F5b1wSUtpaYDnpjLQonCZC7iyFvizLcNqTactZbwSEXK, balance 2550.001619868 SOL, score-pct:0%, 1 stake-accounts
@@ -82,10 +82,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "maricalucian", name: "Coverlet",
  should_have 0 next-operation -UNSTAKE 2325.871323835
 
 -------------------------------------------------------------
-8) Validator GJQjnyhSG9jN1AdMHTSyTxUR44hJHEGCmNzkidw9z3y8, balance 1716.943877554 SOL, score-pct:0.9827423%, 1 stake-accounts
+8) Validator GJQjnyhSG9jN1AdMHTSyTxUR44hJHEGCmNzkidw9z3y8, balance 1716.943877554 SOL, score-pct:1.1181626%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "J5AsxaHfWn6KpEcPRT9EZ9szvEMBQeHRe947UeaMPG3z", vote_address: "GJQjnyhSG9jN1AdMHTSyTxUR44hJHEGCmNzkidw9z3y8", score: 6440743, average_position: 54.46338346049977, commission: 10, active_stake: 174604.438755688, epoch_credits: 309364, data_center_concentration: 0.5138, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 35 blocks in 36 slots, 3% skip rate", www_url: "" }
   76. Stake CDdpquJioMA9NHWWDeeEhvsbX1Y17u2hhdsTCPACRLfj delegated 1716.943877554 activation_epoch:210
- should_have 2813.761586372 next-operation +STAKE 1096.817708818
+ should_have 3201.778055817 next-operation +STAKE 1484.834178263
 
 -------------------------------------------------------------
 9) Validator 6F5xdRXh2W3B2vhte12VG79JVUkUSLYrHydGX1SAadfZ, balance 2135.911557565 SOL, score-pct:0%, 1 stake-accounts
@@ -108,10 +108,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "beevault", name: "BeeVault - 0%"
  should_have 0 next-operation -UNSTAKE 2110.470617809
 
 -------------------------------------------------------------
-12) Validator 4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN, balance 2124.107378279 SOL, score-pct:0%, 1 stake-accounts
+12) Validator 4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN, balance 2149.542809232 SOL, score-pct:0%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "stakin", name: "Stakin", identity: "23SUe5fzmLws1M58AnGnvnUBRUKJmzCpnFQwv4M4b9Er", vote_address: "4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN", score: 0, average_position: 54.055828823531485, commission: 0, active_stake: 2433580.798551573, epoch_credits: 307049, data_center_concentration: 10.4182, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 2348 blocks in 2644 slots, 12% skip rate", www_url: "http://stakin.com/" }
-  6. Stake FTKgFEm9fYr4EZLy832JivZ5zsDUPtZDWj7zo5XnfT22 delegated 2124.107378279 activation_epoch:198
- should_have 0 next-operation -UNSTAKE 2124.107378279
+  6. Stake FTKgFEm9fYr4EZLy832JivZ5zsDUPtZDWj7zo5XnfT22 delegated 2149.542809232 activation_epoch:198
+ should_have 0 next-operation -UNSTAKE 2149.542809232
 
 -------------------------------------------------------------
 13) Validator 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru, balance 2223.104097524 SOL, score-pct:0%, 1 stake-accounts
@@ -120,10 +120,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "ownage", name: "Stake.su - Polan
  should_have 0 next-operation -UNSTAKE 2223.104097524
 
 -------------------------------------------------------------
-14) Validator Bwkz1ddKoGE8hgiSV6HZLXi9RBLqfBi3HZb2QujzVGgz, balance 2191.318518779 SOL, score-pct:1.0615066%, 1 stake-accounts
+14) Validator Bwkz1ddKoGE8hgiSV6HZLXi9RBLqfBi3HZb2QujzVGgz, balance 2191.318518779 SOL, score-pct:1.2266496%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "mipool", name: "StakeBowl", identity: "EUcJwf7jXskRE6NZBtFPVH2EedNvNYko8LL2WT62XctB", vote_address: "Bwkz1ddKoGE8hgiSV6HZLXi9RBLqfBi3HZb2QujzVGgz", score: 6422261, average_position: 54.45669357876983, commission: 10, active_stake: 5869.941502004, epoch_credits: 309326, data_center_concentration: 0.0015, can_halt_the_network_group: false, stake_state: "Baseline", stake_state_reason: "Poor block production during epoch 213: 4 blocks in 8 slots, 50% skip rate", www_url: "https://www.stakebowl.io" }
   30. Stake 4ysEioCp7bB8yLr2Hx2uq1xHhUBYHKD4ZXWiYv7dTCnS delegated 2191.318518779 activation_epoch:207
- should_have 3039.27757769 next-operation +STAKE 847.959058911
+ should_have 3512.42279807 next-operation +STAKE 1321.104279291
 
 -------------------------------------------------------------
 16) Validator GHRvDXj9BfACkJ9CoLWbpi2UkMVti9DwXJGsaFT9XDcD, balance 2199.452823086 SOL, score-pct:0%, 1 stake-accounts
@@ -156,10 +156,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "nbolam", name: "Alpha Virtual", 
  should_have 0 next-operation -UNSTAKE 6705.510721315
 
 -------------------------------------------------------------
-23) Validator BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg, balance 2087.084463495 SOL, score-pct:1.1451329%, 1 stake-accounts
+23) Validator BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg, balance 2087.084463495 SOL, score-pct:1.1967983%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "clawmvp", name: "01node", identity: "3KNGMiXwhy2CAWVNpLoUt25sNngFnX1mZpaiEeVccBA6", vote_address: "BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg", score: 6829418, average_position: 54.59172356000296, commission: 5, active_stake: 260668.448118962, epoch_credits: 310093, data_center_concentration: 2.0991, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 262 blocks in 320 slots, 19% skip rate", www_url: "https://01node.com/" }
   38. Stake GYwNkLEQcTVMdKWbSdj6s6RgJCSrZq2gmpa995dSoQKG delegated 2087.084463495 activation_epoch:207
- should_have 3278.71386896 next-operation +STAKE 1191.629405465
+ should_have 3426.945694231 next-operation +STAKE 1339.861230736
 
 -------------------------------------------------------------
 24) Validator 9c5bpzVRbfsYY2fannb4hyX5CJUPg3BfH2cL6sR7kJM4, balance 3782.368932911 SOL, score-pct:0%, 1 stake-accounts
@@ -275,10 +275,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "stakedotfish", name: "stake·fis
  should_have 0 next-operation -UNSTAKE 2649.945733313
 
 -------------------------------------------------------------
-43) Validator 7NwjYBhHVqEbqmMHqMqUnQ4thomaX9qXytMEULQFkAny, balance 1637.538846864 SOL, score-pct:1.0405912%, 1 stake-accounts
+43) Validator 7NwjYBhHVqEbqmMHqMqUnQ4thomaX9qXytMEULQFkAny, balance 1637.538846864 SOL, score-pct:0.6987235%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "pkrasam", name: "w3m", identity: "6BDNnr38moGRQyvx1Ehs9cM6tJDFK7LF6mUvLziyNrzW", vote_address: "7NwjYBhHVqEbqmMHqMqUnQ4thomaX9qXytMEULQFkAny", score: 6580049, average_position: 54.5144378210703, commission: 8, active_stake: 253613.787228389, epoch_credits: 309654, data_center_concentration: 10.4182, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 196 blocks in 260 slots, 25% skip rate", www_url: "" }
   50. Stake 7mMNS9ot4dvuYhiMJXQzTkVa25HMCxnRrfET5MHnDLxS delegated 1637.538846864 activation_epoch:207
- should_have 2979.393270514 next-operation +STAKE 1341.85442365
+ should_have 2000.74421148 next-operation +STAKE 363.205364616
 
 -------------------------------------------------------------
 44) Validator xSGajeS6niLPNiHGJBuy3nzQVUfyEAQV1yydrg74u4v, balance 2046.237780078 SOL, score-pct:0%, 1 stake-accounts
@@ -324,10 +324,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "hammerfest", identity:
  should_have 0 next-operation -UNSTAKE 2855.369688761
 
 -------------------------------------------------------------
-90) Validator a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV, balance 2338.710853113 SOL, score-pct:0.9633082%, 1 stake-accounts
+90) Validator a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV, balance 2338.710853113 SOL, score-pct:1.0613123%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "Sirius", identity: "siriXy5CcarNiz4XL8ssBQGiy2PwReVLny3Bcxq6Ymb", vote_address: "a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV", score: 6333435, average_position: 54.42641306146593, commission: 10, active_stake: 177209.040378488, epoch_credits: 309154, data_center_concentration: 1.3999, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 199 blocks in 240 slots, 18% skip rate", www_url: "" }
   125. Stake 7peC6udH32P1Mj9LwWicL848Ai1yKxD5nxVXYoSX1GPD delegated 2338.710853113 activation_epoch:211
- should_have 2758.118464761 next-operation +STAKE 419.407611648
+ should_have 3038.991047456 next-operation +STAKE 700.280194343
 
 -------------------------------------------------------------
 97) Validator 5BAi9YGCipHq4ZcXuen5vagRQqRTVTRszXNqBZC6uBPZ, balance 2343.296952021 SOL, score-pct:0%, 1 stake-accounts
@@ -336,10 +336,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "0basevc", name: "0base.VC", iden
  should_have 0 next-operation -UNSTAKE 2343.296952021
 
 -------------------------------------------------------------
-107) Validator CbjQjEFBiLF4F2UrGVGEpesYemgXRhFzFTZHwAP5PbHm, balance 1701.612203098 SOL, score-pct:0.95738727%, 1 stake-accounts
+107) Validator CbjQjEFBiLF4F2UrGVGEpesYemgXRhFzFTZHwAP5PbHm, balance 1701.612203098 SOL, score-pct:1.0735286%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "OksyGen", identity: "2FMWJN52AeqnoTECeicyk724fJbMZLXVyMopBWThyZ1U", vote_address: "CbjQjEFBiLF4F2UrGVGEpesYemgXRhFzFTZHwAP5PbHm", score: 6547462, average_position: 54.50052990905282, commission: 10, active_stake: 176057.731313236, epoch_credits: 309575, data_center_concentration: 1.0177, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 206 blocks in 224 slots, 9% skip rate", www_url: "" }
   82. Stake 6zoac6adExdUCxZtdqW33psSjZjJzwuEy3aCyCE7ePuB delegated 1701.612203098 activation_epoch:210
- should_have 2741.165810815 next-operation +STAKE 1039.553607717
+ should_have 3073.971982659 next-operation +STAKE 1372.359779561
 
 -------------------------------------------------------------
 116) Validator DqxQuDD9BZERufL2gTCipHhAqj7Bb2zoAEKfvHuXWNUL, balance 12.011650548 SOL, score-pct:0%, 1 stake-accounts
@@ -421,10 +421,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "4vKAo5Q5
  should_have 0 next-operation -UNSTAKE 2851.219145377
 
 -------------------------------------------------------------
-207) Validator CU3C5v6q6WsKxz7rbNvLsLeJwnMCpNMBZMm5BCpvSVWa, balance 2339.277117758 SOL, score-pct:1.0734285%, 1 stake-accounts
+207) Validator CU3C5v6q6WsKxz7rbNvLsLeJwnMCpNMBZMm5BCpvSVWa, balance 2339.277117758 SOL, score-pct:0.908478%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "58zMEh4gf2yL9wKd56BjSW6xCYnfs6tEyjrBfLo35eby", vote_address: "CU3C5v6q6WsKxz7rbNvLsLeJwnMCpNMBZMm5BCpvSVWa", score: 7093677, average_position: 54.686966349894895, commission: 10, active_stake: 177218.790409433, epoch_credits: 310634, data_center_concentration: 6.5294, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 192 blocks in 208 slots, 8% skip rate", www_url: "" }
   123. Stake J7BT1bJ4BnDnaK5PwNiiVAj3tPQoGJ1E2kbWBCHVCkXR delegated 2339.277117758 activation_epoch:211
- should_have 3073.411959165 next-operation +STAKE 734.134841407
+ should_have 2601.361208557 next-operation +STAKE 262.084090799
 
 -------------------------------------------------------------
 228) Validator 7ZJHBz4SzQw1GDQZRaCMLvo7uoUo7cY1BUioA7mdfD65, balance 1749.160109924 SOL, score-pct:0%, 1 stake-accounts
@@ -464,10 +464,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "melea", name: "melea.xyz One ◎
  should_have 0 next-operation -UNSTAKE 2700.931652475
 
 -------------------------------------------------------------
-273) Validator EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw, balance 1848.584598559 SOL, score-pct:0.053575903%, 1 stake-accounts
+273) Validator EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw, balance 1848.584598559 SOL, score-pct:0%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "Moonshot Networks/SOL Validator", identity: "722RdWmHC5TGXBjTejzNjbc8xEiduVDLqZvoUGz6Xzbp", vote_address: "EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw", score: 6938413, average_position: 54.63239099894018, commission: 10, active_stake: 350737.101328529, epoch_credits: 310324, data_center_concentration: 0.0907, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 351 blocks in 412 slots, 15% skip rate", www_url: "https://blockdaemon.com" }
   64. Stake 5KokBfBXrCV69kD3a3m9CT7Mr525zNgZb3cKuycVxo4H delegated 1848.584598559 activation_epoch:210
- should_have 153.397099815 next-operation -UNSTAKE 1695.187498744
+ should_have 0 next-operation -UNSTAKE 1848.584598559
 
 -------------------------------------------------------------
 294) Validator 2jevuBmk1TrXA36bRZ4bhdJGPzGqcCDoVzRcyYtxzKHY, balance 2855.13111495 SOL, score-pct:0%, 1 stake-accounts
@@ -548,16 +548,16 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "9JZXYs5T
  should_have 0 next-operation -UNSTAKE 2339.87310558
 
 -------------------------------------------------------------
-367) Validator 9DUTDovSg7Tfc2C9mBHvtGfqfgaBY7srBb2ZYPCDgUPY, balance 1708.717690232 SOL, score-pct:1.0467784%, 1 stake-accounts
+367) Validator 9DUTDovSg7Tfc2C9mBHvtGfqfgaBY7srBb2ZYPCDgUPY, balance 1708.717690232 SOL, score-pct:0.6992347%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "georgeburduhos", name: "Metisado", identity: "9YGn24qD8ZCU1EKZEsPLSEv7SVAJ4kpbCTmj7fR5TXYv", vote_address: "9DUTDovSg7Tfc2C9mBHvtGfqfgaBY7srBb2ZYPCDgUPY", score: 6892833, average_position: 54.62235617634528, commission: 10, active_stake: 179762.073865828, epoch_credits: 310267, data_center_concentration: 10.4182, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 233 blocks in 244 slots, 5% skip rate", www_url: "" }
   79. Stake H496SK8xXEjk3ZJH6QRzQppyP95bDQjgscs4JxonTUE2 delegated 1708.717690232 activation_epoch:210
- should_have 2997.108092765 next-operation +STAKE 1288.390402533
+ should_have 2002.20820324 next-operation +STAKE 293.490513008
 
 -------------------------------------------------------------
-369) Validator 6W8yrMwtDU5G6ErazhZHfLjqZV8cMvajpSRGYgrZ3d4v, balance 1813.998870155 SOL, score-pct:1.03158%, 1 stake-accounts
+369) Validator 6W8yrMwtDU5G6ErazhZHfLjqZV8cMvajpSRGYgrZ3d4v, balance 1813.998870155 SOL, score-pct:1.1765584%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "legendsv1", name: "Legends", identity: "9bkyxgYxRrysC1ijd6iByp9idn112CnYTw243fdH2Uvr", vote_address: "6W8yrMwtDU5G6ErazhZHfLjqZV8cMvajpSRGYgrZ3d4v", score: 6595803, average_position: 54.51672646482002, commission: 10, active_stake: 382179.500634633, epoch_credits: 309667, data_center_concentration: 0.239, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 325 blocks in 376 slots, 14% skip rate", www_url: "" }
   65. Stake 6uSVUkUSuuGRCStuqhhSkgwLTfaF6H2LVt5PCrevnjoZ delegated 1813.998870155 activation_epoch:210
- should_have 2953.592573887 next-operation +STAKE 1139.593703732
+ should_have 3368.990095877 next-operation +STAKE 1554.991225722
 
 -------------------------------------------------------------
 372) Validator 6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1, balance 1916.234482058 SOL, score-pct:0%, 1 stake-accounts
@@ -572,16 +572,16 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "lazurit", identity: "9
  should_have 0 next-operation -UNSTAKE 1236.503239063
 
 -------------------------------------------------------------
-386) Validator GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC, balance 2252.868150966 SOL, score-pct:1.0287019%, 1 stake-accounts
+386) Validator GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC, balance 2252.868150966 SOL, score-pct:1.159184%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "jb273", name: "JB273 | P-OPS Team", identity: "9q16BB7WGmBxf1nJTdxH5zPnBUhtHqdqXqRFjSjuM4k7", vote_address: "GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC", score: 6820436, average_position: 54.593131956156626, commission: 10, active_stake: 181533.709590413, epoch_credits: 310101, data_center_concentration: 0.5417, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 241 blocks in 264 slots, 9% skip rate", www_url: "https://pops.one" }
   21. Stake ES6NDjoZoqWgx4SGLAX5qwkiLR2WJ4oXNiLPRUibWXXA delegated 2252.868150966 activation_epoch:207
- should_have 2945.35196907 next-operation +STAKE 692.483818104
+ should_have 3319.239734364 next-operation +STAKE 1066.371583398
 
 -------------------------------------------------------------
-398) Validator EkLA4nA5jtM2t2FkNWo6XWAyvQyaJJUZoX5p7LMawoaz, balance 1742.158975657 SOL, score-pct:0.9090283%, 1 stake-accounts
+398) Validator EkLA4nA5jtM2t2FkNWo6XWAyvQyaJJUZoX5p7LMawoaz, balance 1742.158975657 SOL, score-pct:1.0679293%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "natashmor", name: "❄❄❄\u{fe0f}", identity: "A31PGH4i5xGn7SHWpsQRhpBYUwanRuqNrHBp8bSeCSEr", vote_address: "EkLA4nA5jtM2t2FkNWo6XWAyvQyaJJUZoX5p7LMawoaz", score: 6351475, average_position: 54.432046646080614, commission: 10, active_stake: 197010.857129969, epoch_credits: 309186, data_center_concentration: 0.0971, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 182 blocks in 212 slots, 15% skip rate", www_url: "" }
   103. Stake BDzEdfb5NfEE9MKaeEaH1pA5m8SdMKWv1toryNCcHQ2i delegated 1742.158975657 activation_epoch:210
- should_have 2602.705638302 next-operation +STAKE 860.546662645
+ should_have 3057.938261576 next-operation +STAKE 1315.779285919
 
 -------------------------------------------------------------
 401) Validator 7yNU282YdE6Hvim7DyG5uyDrbsJQu8zEiza9tRejgYyY, balance 1726.084314342 SOL, score-pct:0%, 1 stake-accounts
@@ -651,10 +651,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "yumorit", name: "Yumorito", iden
  should_have 0 next-operation -UNSTAKE 20.019444583
 
 -------------------------------------------------------------
-482) Validator XBtfuT5gYU27UAukT3pEzgiKgHpHNQhSoa3zX2PYtiT, balance 1781.729612068 SOL, score-pct:1.0111428%, 1 stake-accounts
+482) Validator XBtfuT5gYU27UAukT3pEzgiKgHpHNQhSoa3zX2PYtiT, balance 1781.729612068 SOL, score-pct:1.1585497%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "troo", name: "troo", identity: "CVAAQGA8GBzKi4kLdmpDuJnpkSik6PMWSvRk3RDds9K8", vote_address: "XBtfuT5gYU27UAukT3pEzgiKgHpHNQhSoa3zX2PYtiT", score: 6369403, average_position: 54.438384428772125, commission: 10, active_stake: 178079.809119364, epoch_credits: 309222, data_center_concentration: 0.227, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 227 blocks in 244 slots, 7% skip rate", www_url: "" }
   100. Stake CRN5MFbXhDTqS1ibjiKXCvSYgyPhPBYqUhPT3Ugm1ptR delegated 1781.729612068 activation_epoch:210
- should_have 2895.077268464 next-operation +STAKE 1113.347656396
+ should_have 3317.423442699 next-operation +STAKE 1535.693830631
 
 -------------------------------------------------------------
 484) Validator AddV9GtVTtepbNa7MBNDx81wTMRgnXf8nzhRuyinVab5, balance 2853.234591718 SOL, score-pct:0%, 1 stake-accounts
@@ -688,10 +688,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "sarmina", name: "Sarmya", identi
  should_have 0 next-operation -UNSTAKE 22.165938267
 
 -------------------------------------------------------------
-523) Validator CpXiPXr4B3p6LtpFzpQ7RgZFok39eEWNLpFvF8eGQa7c, balance 1695.750194257 SOL, score-pct:0.98809576%, 1 stake-accounts
+523) Validator CpXiPXr4B3p6LtpFzpQ7RgZFok39eEWNLpFvF8eGQa7c, balance 1695.750194257 SOL, score-pct:0.8492665%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "DMJ6YN8JVm9DeUuBTVycu7VQ1Jzob7b4RpjGz3jwFyME", vote_address: "CpXiPXr4B3p6LtpFzpQ7RgZFok39eEWNLpFvF8eGQa7c", score: 6387189, average_position: 54.4478911028094, commission: 10, active_stake: 176540.343817173, epoch_credits: 309276, data_center_concentration: 6.5294, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 126 blocks in 136 slots, 8% skip rate", www_url: "" }
   91. Stake 6ptjgJAeYxp1TUwRsMKnTRvbfEM6WiinMLWwDRjeTnFe delegated 1695.750194257 activation_epoch:210
- should_have 2829.089570688 next-operation +STAKE 1133.339376431
+ should_have 2431.813483529 next-operation +STAKE 736.063289272
 
 -------------------------------------------------------------
 526) Validator 61dX6srk1WmiGtd9UM4SHttUDzfWrY8zXg4h8gSmhYMq, balance 993.668602527 SOL, score-pct:0%, 1 stake-accounts
@@ -713,10 +713,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "krutoy8282", name: "Siberia Hard
  should_have 0 next-operation -UNSTAKE 353.621667827
 
 -------------------------------------------------------------
-534) Validator BAwT35sgoZrCeEPbJU37vNCYGNYugoXJubnRGHJxchay, balance 2856.924639597 SOL, score-pct:1.0400118%, 1 stake-accounts
+534) Validator BAwT35sgoZrCeEPbJU37vNCYGNYugoXJubnRGHJxchay, balance 2856.924639597 SOL, score-pct:1.1752787%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "Dcsj8i8NJv6UDmhXvnuxEiPZ5VqzYEARmxFxUwuz4kNG", vote_address: "BAwT35sgoZrCeEPbJU37vNCYGNYugoXJubnRGHJxchay", score: 6911486, average_position: 54.62358852297975, commission: 10, active_stake: 177728.35199201, epoch_credits: 310274, data_center_concentration: 0.444, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 237 blocks in 260 slots, 9% skip rate", www_url: "" }
   133. Stake Ax82XQLzgJqzAhJNXHYFrvBgsWe2gWUpV42q41yjauoM delegated 2856.924639597 activation_epoch:212
- should_have 2977.734149183 next-operation +STAKE 120.809509586
+ should_have 3365.325361785 next-operation +STAKE 508.400722188
 
 -------------------------------------------------------------
 542) Validator H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc, balance 1605.654307583 SOL, score-pct:0%, 1 stake-accounts
@@ -732,10 +732,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "cyberili", name: "Cyberili", ide
  should_have 0 next-operation -UNSTAKE 2340.018410617
 
 -------------------------------------------------------------
-560) Validator 8NQEDxYxwUEPQk1yKFJEGHvYj22Je5xUQWLPkHfKkwrD, balance 1838.35777203 SOL, score-pct:1.0650321%, 1 stake-accounts
+560) Validator 8NQEDxYxwUEPQk1yKFJEGHvYj22Je5xUQWLPkHfKkwrD, balance 1838.35777203 SOL, score-pct:0.7091638%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "andreinovac", name: "Venovi", identity: "EUVBn58XXTX9RBTm1R7Wd8n8JkvBMQfc9uSn5wPhbdBL", vote_address: "8NQEDxYxwUEPQk1yKFJEGHvYj22Je5xUQWLPkHfKkwrD", score: 6964745, average_position: 54.64629891095767, commission: 10, active_stake: 180559.243758173, epoch_credits: 310403, data_center_concentration: 10.4182, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 176 blocks in 204 slots, 14% skip rate", www_url: "" }
   109. Stake 4E32jhANG7FdJSJk261ckkA7fyBkRwJaUg5rdxV3TKar delegated 1838.35777203 activation_epoch:210
- should_have 3049.371925721 next-operation +STAKE 1211.014153691
+ should_have 2030.639439455 next-operation +STAKE 192.281667425
 
 -------------------------------------------------------------
 567) Validator 8sNLx7RinHfPWeoYE1N4dixtNACvgiUrj9Ty81p7iMhb, balance 1690.981890893 SOL, score-pct:0%, 1 stake-accounts
@@ -757,10 +757,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "cotikon", name: "cotikon", ident
  should_have 0 next-operation -UNSTAKE 15.931274449
 
 -------------------------------------------------------------
-587) Validator EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL, balance 2857.061050883 SOL, score-pct:1.0218354%, 1 stake-accounts
+587) Validator EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL, balance 2857.061050883 SOL, score-pct:1.1748614%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "FLWc77X8dKh5RdJe5xMFxry8kvSVUbo9G4MQ8hCAg5ve", vote_address: "EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL", score: 6635124, average_position: 54.5301062282799, commission: 10, active_stake: 176416.589036843, epoch_credits: 309743, data_center_concentration: 0.0991, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 164 blocks in 192 slots, 15% skip rate", www_url: "" }
   132. Stake 74NDjDRGoJLH6Aa56KzxrMmVstuHiGiLazY4zXaUMfcj delegated 2857.061050883 activation_epoch:212
- should_have 2925.692136821 next-operation +STAKE 68.631085938
+ should_have 3364.130802471 next-operation +STAKE 507.069751588
 
 -------------------------------------------------------------
 596) Validator CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1, balance 2043.522041793 SOL, score-pct:0%, 1 stake-accounts
@@ -823,10 +823,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "HrpWeJSY
  should_have 0 next-operation -UNSTAKE 1839.392602454
 
 -------------------------------------------------------------
-676) Validator 2YNubqM7eHLEL7JnygJYSWPq42LXYKiL5GkXfvEbZGQW, balance 1698.016829602 SOL, score-pct:1.0056597%, 1 stake-accounts
+676) Validator 2YNubqM7eHLEL7JnygJYSWPq42LXYKiL5GkXfvEbZGQW, balance 1698.016829602 SOL, score-pct:1.1544675%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "pafnutij", identity: "J2ofWwssE7YEMrpN5waPQgboWgLdwprsfXUu7vXaBona", vote_address: "2YNubqM7eHLEL7JnygJYSWPq42LXYKiL5GkXfvEbZGQW", score: 6405276, average_position: 54.450883944635954, commission: 10, active_stake: 176568.778366747, epoch_credits: 309293, data_center_concentration: 0.1976, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 162 blocks in 184 slots, 12% skip rate", www_url: "" }
   88. Stake Hk9fLfqBeBdePDiBtdDn81arkAgeonY862d6psHqx35v delegated 1698.016829602 activation_epoch:210
- should_have 2879.378172857 next-operation +STAKE 1181.361343255
+ should_have 3305.734149996 next-operation +STAKE 1607.717320394
 
 -------------------------------------------------------------
 680) Validator AT1kLQm1uYB5XZVocNUn9QkH3NPJRjRvf5orGS469xuy, balance 1691.091525878 SOL, score-pct:0%, 1 stake-accounts
@@ -853,10 +853,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "ZzMzEhzj
  should_have 0 next-operation -UNSTAKE 1698.831287047
 
 -------------------------------------------------------------
-693) Validator 6rC1zg98a89eQurdnvXz6uJ3zZZa2f683WwCDB41Us8w, balance 2865.636010424 SOL, score-pct:1.558543%, 1 stake-accounts
+693) Validator 6rC1zg98a89eQurdnvXz6uJ3zZZa2f683WwCDB41Us8w, balance 2865.636010424 SOL, score-pct:1.5688543%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "evgeny32", name: "buba", identity: "3W3NxpDqirkLbdm76zPV9giJycwFF9K18f6YgwHpma8P", vote_address: "6rC1zg98a89eQurdnvXz6uJ3zZZa2f683WwCDB41Us8w", score: 8140346, average_position: 55.342222660389915, commission: 10, active_stake: 35575.114399162, epoch_credits: 314356, data_center_concentration: 0.9834, can_halt_the_network_group: false, stake_state: "Baseline", stake_state_reason: "Poor block production during epoch 213: 12 blocks in 36 slots, 67% skip rate", www_url: "https://t.me/buba_ru" }
   63. Stake 4PVwJpNpZg5SJica7m3LU5eVn2jkGigpCqduaA4t2DJf delegated 2865.636010424 activation_epoch:210
- should_have 4462.378775099 next-operation +STAKE 1596.742764675
+ should_have 4492.301056885 next-operation +STAKE 1626.665046461
 
 -------------------------------------------------------------
 694) Validator 21woj4foMcsfrg9Pks1RDw7oPSp6SvnXom6VqwpYNsVF, balance 3036.945571613 SOL, score-pct:0%, 1 stake-accounts
@@ -871,10 +871,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "darijn", name: "darijn", identit
  should_have 0 next-operation -UNSTAKE 2852.824161678
 
 -------------------------------------------------------------
-699) Validator DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU, balance 2337.887341654 SOL, score-pct:0.9834458%, 1 stake-accounts
+699) Validator DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU, balance 2337.887341654 SOL, score-pct:1.1404307%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "9bZMAtgfcbaPrDC2kh7vi9DmQVSzPD7qWkLokc1kAQAy", vote_address: "DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU", score: 6699298, average_position: 54.55193636866178, commission: 10, active_stake: 168152.472342601, epoch_credits: 309867, data_center_concentration: 0.0435, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 163 blocks in 196 slots, 17% skip rate", www_url: "" }
   127. Stake CZExodPzjFmbcHmoBpuriN1rYeW2TX14imTg88YFiAxF delegated 2337.887341654 activation_epoch:211
- should_have 2815.776104185 next-operation +STAKE 477.888762531
+ should_have 3265.540715828 next-operation +STAKE 927.653374174
 
 -------------------------------------------------------------
 700) Validator 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6, balance 1698.99301376 SOL, score-pct:0%, 1 stake-accounts
@@ -883,16 +883,16 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "9cYyjirW
  should_have 0 next-operation -UNSTAKE 1698.99301376
 
 -------------------------------------------------------------
-704) Validator 6KZjN35XHMUgJp1aVV4ZCtB9Pb1MNWAP58mawHTPKPfL, balance 1696.85091798 SOL, score-pct:1.022952%, 1 stake-accounts
+704) Validator 6KZjN35XHMUgJp1aVV4ZCtB9Pb1MNWAP58mawHTPKPfL, balance 1696.85091798 SOL, score-pct:0.87351125%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "Bf6Bjfpz4bPD8C4X9BttiGkfgyGUT24PzNzWf9zA4Eeh", vote_address: "6KZjN35XHMUgJp1aVV4ZCtB9Pb1MNWAP58mawHTPKPfL", score: 6481003, average_position: 54.480460263863016, commission: 10, active_stake: 174690.578663125, epoch_credits: 309461, data_center_concentration: 6.5294, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 28 blocks in 28 slots, 0% skip rate", www_url: "" }
   89. Stake 4HDaQkEqtxiTSAgvRYx49zfq8YpnpaM6pDiDm2FTiBjQ delegated 1696.85091798 activation_epoch:210
- should_have 2928.88889191 next-operation +STAKE 1232.03797393
+ should_have 2501.236489041 next-operation +STAKE 804.385571061
 
 -------------------------------------------------------------
-706) Validator F2aGhv2o1j6zzBPrfdiXuSSek17nPwXqHqwKMdW8Rfxc, balance 209.164554221 SOL, score-pct:0.9662471%, 1 stake-accounts
+706) Validator F2aGhv2o1j6zzBPrfdiXuSSek17nPwXqHqwKMdW8Rfxc, balance 209.164554221 SOL, score-pct:1.0639291%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "Ccw4n1JNzcjdEUTYorfZPATWHfmBKV7BHnJ8YDyzqh5s", vote_address: "F2aGhv2o1j6zzBPrfdiXuSSek17nPwXqHqwKMdW8Rfxc", score: 6413080, average_position: 54.45422888550091, commission: 10, active_stake: 174909.468885857, epoch_credits: 309312, data_center_concentration: 1.3999, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 26 blocks in 32 slots, 19% skip rate", www_url: "" }
   72. Stake AwpFoxeLcZPytKY9HEbqoJTyh3Fmt76SxX2p8SnyU4Tu delegated 209.164554221 activation_epoch:211
- should_have 2766.533141324 next-operation +STAKE 2557.368587103
+ should_have 3046.483986418 next-operation +STAKE 2837.319432197
 
 -------------------------------------------------------------
 708) Validator 9xxDBRFbBabQ3ZDJbpjEymkN7oCMg7jhwjX3f2k8Uix7, balance 1702.132015304 SOL, score-pct:0%, 1 stake-accounts
@@ -907,10 +907,10 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "E5j5YwUZ
  should_have 0 next-operation -UNSTAKE 1694.208736008
 
 -------------------------------------------------------------
-712) Validator ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N, balance 2338.139871522 SOL, score-pct:0.9958643%, 1 stake-accounts
+712) Validator ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N, balance 2338.139871522 SOL, score-pct:1.0902699%, 1 stake-accounts
 ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "EKyyFjT8QF4j9nQWvM1TKTtisAbubZAyKAp43eD2B78W", vote_address: "ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N", score: 6494810, average_position: 54.482572858093526, commission: 10, active_stake: 175215.683444316, epoch_credits: 309473, data_center_concentration: 1.3999, can_halt_the_network_group: false, stake_state: "Bonus", stake_state_reason: "Good block production during epoch 213: 8 blocks in 8 slots, 0% skip rate", www_url: "" }
   126. Stake 7BvgGhkfDStN4tSQBD7Qzx7tyzw3r3rAmNfL4vVhEnHA delegated 2338.139871522 activation_epoch:211
- should_have 2851.332071587 next-operation +STAKE 513.192200065
+ should_have 3121.909222301 next-operation +STAKE 783.769350779
 
 -------------------------------------------------------------
 723) Validator edu1fZt5i82cFm6ujUoyXLMdujWxZyWYC8fkydWHRNT, balance 7.018414413 SOL, score-pct:0%, 1 stake-accounts
@@ -937,7 +937,7 @@ ValidatorScoreRecord { epoch: 214, keybase_id: "", name: "", identity: "6c8W8mou
  should_have 0 next-operation -UNSTAKE 3043.306109588
 
 --------------------------
- 147 validators with stake, total_staked 286317.351971009 total_staked_fully_activated 283274.045861421, warming-up in this epoch:3043.306109588
-[2021-08-20][03:51:05][marinade::show][INFO] Writing data/marinade_staking.csv
+ 147 validators with stake, total_staked 286342.787401962 total_staked_fully_activated 283299.481292374, warming-up in this epoch:3043.306109588
+[2021-08-21][11:23:33][marinade::show][INFO] Writing data/marinade_staking.csv
 --
 </pre>

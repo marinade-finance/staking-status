@@ -1,11 +1,11 @@
 ---
 <pre>
-[2021-09-03][01:06:02][marinade][INFO] Cluster: Other, commitment: processed
-[2021-09-03][01:06:02][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-09-03][01:06:02][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-09-03][01:06:03][marinade::show][INFO] Epoch EpochInfo { epoch: 219, slot_index: 53902, slots_in_epoch: 432000, absolute_slot: 94661902, block_height: 84551390, transaction_count: Some(26328347938) }
-[2021-09-03][01:06:03][marinade::show][INFO] Staking CAPPED TVL 1000000 SOL
-[2021-09-03][01:06:03][marinade::show][INFO] Liquidity CAPPED TVL 100000 SOL
+[2021-09-03][01:07:05][marinade][INFO] Cluster: Other, commitment: processed
+[2021-09-03][01:07:05][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-09-03][01:07:05][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-09-03][01:07:06][marinade::show][INFO] Epoch EpochInfo { epoch: 219, slot_index: 54035, slots_in_epoch: 432000, absolute_slot: 94662035, block_height: 84551516, transaction_count: Some(26328464143) }
+[2021-09-03][01:07:06][marinade::show][INFO] Staking CAPPED TVL 1000000 SOL
+[2021-09-03][01:07:06][marinade::show][INFO] Liquidity CAPPED TVL 100000 SOL
 -- Treasury ---------------
 reserve PDA 41529.126186098 SOL Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
 treasury mSOL account 136.989807658 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
@@ -33,7 +33,7 @@ cooling down: 1655.970678368
 Circulating ticket accounts: 33061.101430501 (41 tickets)
 stake-delta: 10123.993394685
 Stake list account: Anv3XE7e5saNdm16MU6bniYS59Mpv7DzQXHAhxJUmAKW with 263/10000 stakes
-[2021-09-03][01:06:06][marinade::show][INFO] reading scores from ../stake-o-matic/db/score-all-mainnet-beta/mainnet-beta-validator-detail.csv
+[2021-09-03][01:07:11][marinade::show][INFO] reading scores from ../stake-o-matic/db/score-all-mainnet-beta/mainnet-beta-validator-detail.csv
 -----------------
 -- Validators ---
 Total staked: 723497.326264501 SOL
@@ -1609,5 +1609,5 @@ ValidatorScoreRecord { epoch: 218, keybase_id: "", name: "", identity: "Ee4qAkGp
 
 --------------------------
  255 validators with stake, total_staked 723497.326264501 total_staked_fully_activated 511573.305556953, warming-up in this epoch:211924.020707548
-[2021-09-03][01:06:12][marinade::show][INFO] Writing data/marinade_staking.csv
+[2021-09-03][01:07:17][marinade::show][INFO] Writing data/marinade_staking.csv
 </pre>

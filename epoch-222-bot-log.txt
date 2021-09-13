@@ -1,0 +1,181 @@
+[2021-09-13][00:30:01][marcrank::stake_delta][INFO] About to loop over 855 validators...
+[2021-09-13][00:30:01][marcrank::stake_delta][INFO] to stake additional 663107.547281581 SOL, 663107547281581 lamports
+[2021-09-13][00:30:01][marcrank::stake_delta][INFO] Stake 9724990848080 (9724.99084808 SOL) into validator ADtPTGjLAvdb7y4bYT1zo9GqWbCgbZJHHSSWu3zd5eeq
+[2021-09-13][00:30:03][cli_common::rpc_client_helpers][INFO] Transaction 2W4SPXngnc4eNp4eArT4wXESBt8zGwJBmz4SbZ3qB2o1RUtZaFVvNPxY6SuMYvXB6W6Nh5kcsidtcxL2RcQsU2wn
+[2021-09-13][00:30:08][marcrank::stake_delta][INFO] Stake 9723211842600 (9723.2118426 SOL) into validator jUrdmnME4hMjAGW3QkC8AetchgNdBzfN3WbPv7kXXv7
+[2021-09-13][00:30:09][cli_common::rpc_client_helpers][INFO] Transaction 46GNAbUDyEwQqCFmymDvTFVKSJouKdzQWvpcH877BhSvwooEXuTKQSXKxJP7Sm3zDCoT1FPvHk4vgE3VWNMT1GJx
+[2021-09-13][00:30:14][marcrank::stake_delta][INFO] Stake 9718642667878 (9718.642667878 SOL) into validator HCHMhXLB5S3R9xDq8SN2RoDcbnvToxxsGEZJPcT7SoDL
+[2021-09-13][00:30:17][cli_common::rpc_client_helpers][INFO] Transaction 3ZEWCVzUC61NesPfWhqJAsajNX8DaKBYn6PhGh9cnFZ2F69W5YL45KDvyuxVxLDXP1acAknAUdR1A7oiS24jQqBh
+[2021-09-13][00:30:22][marcrank::stake_delta][INFO] Stake 9717224054475 (9717.224054475 SOL) into validator 6YhwLXrsoAF7veKQf5Wkni7Ui5ZGSuNKDGAoFCPERpfy
+[2021-09-13][00:30:25][cli_common::rpc_client_helpers][INFO] Transaction 5oKtjSXC5aR83vrD1H5krY1Do33vjtQD27huBejLyNjSgc1Rqy7WL9XgpufahbfwNXMEDECWevAFds9s5UU6HWGe
+[2021-09-13][00:30:30][marcrank::stake_delta][INFO] Stake 9695135692876 (9695.135692876 SOL) into validator E27ovWovAA7UfwqezdPry9Dav5cSYh9Bpzz7s3JSAkJb
+[2021-09-13][00:30:32][cli_common::rpc_client_helpers][INFO] Transaction 5svqS6Lw51AXE2VDtjCypaV7Hf3AjVj9PgYehUeMyWUw6QdiCLHz7mEzrbcKGtrQ8bJubzQxkiue3eDRbdFSHdKH
+[2021-09-13][00:30:37][marcrank::stake_delta][INFO] Stake 9685988764531 (9685.988764531 SOL) into validator AKoVXpZmi8wSz3sGvCYEygbpdHvSRysWsh36b97iPvKh
+[2021-09-13][00:30:38][cli_common::rpc_client_helpers][INFO] Transaction fSBdvLuXHzXYo2wmnqKZ6NvXhtiPbvrhzD2hiATMm75G21Z78gUG9ebFyo3oZjaJEcDS9pEgtdHncc3mF7P7zse
+[2021-09-13][00:30:43][marcrank::stake_delta][INFO] Stake 9671402612017 (9671.402612017 SOL) into validator FK466vE8ZPSuntKFT415H16qRJ26UPzmXZXb3jq42jaE
+[2021-09-13][00:30:44][cli_common::rpc_client_helpers][INFO] Transaction 5ebxaNKjCz2GKanymQcdgdZx592c4XvTBabYGTL8im3sfn4LtbgeChfH1D6HDpwpV4eWnRGKuU78DdLTXJPcrWKE
+[2021-09-13][00:30:50][marcrank::stake_delta][INFO] Stake 9666090845975 (9666.090845975 SOL) into validator 4aibvoup84a5H2HTKjjnLGh6SQm5JqegvTG9kWjs36Xs
+[2021-09-13][00:30:51][cli_common::rpc_client_helpers][INFO] Transaction jydHTWKunKdQELxCNw2hDx2izadKGaMGD5tEd1Upw7dYinp1aD4Prq7MDMvUS9nZWAPetd3hmKYQHqo6iUiQjZQ
+[2021-09-13][00:30:56][marcrank::stake_delta][INFO] Stake 9665748817824 (9665.748817824 SOL) into validator HfNRr1D5PkETkPj1YnQa56PosCTGMXwZBaPjeV4B4NB2
+[2021-09-13][00:30:57][cli_common::rpc_client_helpers][INFO] Transaction 4e7pDL4jgcKzsvF2ncGnni69zkNun7ZuRwWcu4fZbt7ZbyV7gBXFGTSCjQR1LGBtsHUzWpv3pW3b6hyx2MUNve9A
+[2021-09-13][00:31:02][marcrank::stake_delta][INFO] Stake 9663507270918 (9663.507270918 SOL) into validator 6WeYy8AYNrC1KPDyqjyPDXCURKnhXQnvznQ5GxngyFUW
+[2021-09-13][00:31:04][cli_common::rpc_client_helpers][INFO] Transaction 2PGqqRag3wf2pGXq9Lm8DLT2nFtquAzzxg4W17hf5dLrUcDjusMQUL6b1UTwxnsiFcNFmjgL5h1EUVQugZqteUbP
+[2021-09-13][00:31:09][marcrank::stake_delta][INFO] Stake 9647332093989 (9647.332093989 SOL) into validator 5xk3gjstftRwZRqQdme4vTuZonpkgs2wsm734M68Bq1Y
+[2021-09-13][00:31:11][cli_common::rpc_client_helpers][INFO] Transaction 3AC7oufbsKJQfSpTUmYsbs7hWiS5ZCJhrZuc354NV82ati96zJqpQfroaW4bfojc4e99HVWvj6Rxt4jrKcaJZeZj
+[2021-09-13][00:31:16][marcrank::stake_delta][INFO] Stake 9643606512188 (9643.606512188 SOL) into validator 9HvcpT4vGkgDU3TUXuJFtC5DPjMt5jb8MXFFTNTg9Mim
+[2021-09-13][00:31:17][cli_common::rpc_client_helpers][INFO] Transaction 2qEzBhqQHvf7QctHpCs1WpCZPfqnsU3UJSw7yxbnkmsQv9e31EXcEinXfxwGe3R4vzDLJSCMJSaK73cbAg7jL363
+[2021-09-13][00:31:22][marcrank::stake_delta][INFO] Stake 9640858809530 (9640.85880953 SOL) into validator 51dbk5MAe9XpNurR5nKYc7fr8ti9k4vB6LW2jVzN1zuf
+[2021-09-13][00:31:25][cli_common::rpc_client_helpers][INFO] Transaction 2o6scXPUk6dhb3RkAFhrBp4rRmwVdxNp4GNr2C4BcdkfxGVw8bFLhLBUzF7NQt2gA3L7P1DiohMJ8xckaeqW1DN9
+[2021-09-13][00:31:30][marcrank::stake_delta][INFO] Stake 9639998000426 (9639.998000426 SOL) into validator CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN
+[2021-09-13][00:31:33][cli_common::rpc_client_helpers][INFO] Transaction 2ess3zEU3vRn962RQSuHsEemwYapn89AKSX7rBSQ1MznQ9E3Uy6CqpSXcqAoLipBypcoMfn3uFYd4WzWALuhGHFA
+[2021-09-13][00:31:38][marcrank::stake_delta][INFO] Stake 9635279618793 (9635.279618793 SOL) into validator 8vrKvjW3FAWxHkUu82VSyeJhGsPp9Y4v3g7nR9JrReqh
+[2021-09-13][00:31:40][cli_common::rpc_client_helpers][ERROR] Transaction error: unable to confirm transaction. This can happen in situations such as transaction expiration and insufficient fee-payer funds
+[2021-09-13][00:31:45][marcrank::stake_delta][INFO] Stake 9060071646169 (9060.071646169 SOL) into validator 8MMpxmaVXswFA9i7yVG8SYEpsG3NF7ZGjMaWxDk2Y5EK
+[2021-09-13][00:31:46][cli_common::rpc_client_helpers][INFO] Transaction 3vMdhgUcS8jhkCyuHeoQsQZdrQ2mwDfy6AqeqZRHSjjc2LDhEWPW4cmDnjamS8YiyE1ygXzcXKC889zWFh5SjNif
+[2021-09-13][00:31:51][marcrank::stake_delta][INFO] Stake 9011447962496 (9011.447962496 SOL) into validator GHRvDXj9BfACkJ9CoLWbpi2UkMVti9DwXJGsaFT9XDcD
+[2021-09-13][00:31:52][cli_common::rpc_client_helpers][INFO] Transaction 64eRLKt4FqfjaW32fpBDEVJpp8GrFT9xCq83ZvRDmxShWZV39VAZHN6QrBiDcfZ92G789awJLev6MnuAnSXNCEfB
+[2021-09-13][00:31:57][marcrank::stake_delta][INFO] Stake 8976741076080 (8976.74107608 SOL) into validator 7aE66BtyfPELpp6hnb6qb3PjQzmzMqXRMKx9EU7tHak6
+[2021-09-13][00:31:59][cli_common::rpc_client_helpers][INFO] Transaction 5m9vUcDcfnNvkLDEVKDEgU9Bb7r94ALq2KhWo96rfdbuG7AZLpGdKxpUd6KfqyvSroPhvPbDquQbrnzqhjdk96e7
+[2021-09-13][00:32:04][marcrank::stake_delta][INFO] Stake 8801129222514 (8801.129222514 SOL) into validator 2vxNDV7aAbrb4Whnxs9LiuxCsm9oubX3c1hozXPsoD97
+[2021-09-13][00:32:05][cli_common::rpc_client_helpers][INFO] Transaction 2CE7vfwHQsZ45sJoTTLTgpAPA2tdaRGdrQyf2wZWro9znngpU4fyhfixVt9qa33CoPBUiz37fST2rDYLPof8Yn6F
+[2021-09-13][00:32:10][marcrank::stake_delta][INFO] Stake 8587954474437 (8587.954474437 SOL) into validator 7opSZGmevWhRDyLt5Wu38FZFjUyredGmMki4DNmxDnjd
+[2021-09-13][00:32:12][cli_common::rpc_client_helpers][INFO] Transaction LpTETw4ubS33gotqgKzrkJ4ckAbv7f3QrDw7R4tJ6Zvp8mHDwT3bWYuuNWDjBNxQyjBk2XvQto3tc3Fb6dFVEhh
+[2021-09-13][00:32:17][marcrank::stake_delta][INFO] Stake 8567007044280 (8567.00704428 SOL) into validator EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw
+[2021-09-13][00:32:19][cli_common::rpc_client_helpers][INFO] Transaction 66QPLD15KgB2gj8CvqZMXK9DHrPtogMZTgzBNsVQpLg921fR3fbuT3qjNKp4Don9bCsMWDvhCoQjGTmdqY2Y7amp
+[2021-09-13][00:32:24][marcrank::stake_delta][INFO] Stake 8514985801805 (8514.985801805 SOL) into validator 2dCciM6aFdDXeiirHNTmkxh9Sda1DwfPfF1HVNZSrPcE
+[2021-09-13][00:32:25][cli_common::rpc_client_helpers][INFO] Transaction 33WTdfWgRGQXNytpPWxf3rgBJJiHLGxn3Qb7nSL7cA1H5ynczHXMusCZcH9QRMKbgyLyj6rrgrUwYYJrGXUrCZNR
+[2021-09-13][00:32:30][marcrank::stake_delta][INFO] Stake 8461994585165 (8461.994585165 SOL) into validator 2YNubqM7eHLEL7JnygJYSWPq42LXYKiL5GkXfvEbZGQW
+[2021-09-13][00:32:32][cli_common::rpc_client_helpers][INFO] Transaction 3TW6v2S8xQkNr5i6rJDbNGDa1nv6XgGtQQNqT6HzA6BwEoh39UFHUfzyRVtQqyv5B6PoydDyM4dPTkViMvGjnQC3
+[2021-09-13][00:32:37][marcrank::stake_delta][INFO] Stake 8326194527252 (8326.194527252 SOL) into validator EkLA4nA5jtM2t2FkNWo6XWAyvQyaJJUZoX5p7LMawoaz
+[2021-09-13][00:32:40][cli_common::rpc_client_helpers][INFO] Transaction 3HjLAFZte2seRQmTY5SQfs7Nr4SUYkfN6dXw97kdvaXJ5xJyJ4uFd7nCcwHxH2RBc7tZPyU48Hm62Ayg8eRjmJdy
+[2021-09-13][00:32:45][marcrank::stake_delta][INFO] Stake 8292565103937 (8292.565103937 SOL) into validator 3VpRubsCkx6ENRQJiRZ7JKEwERumjVV4qmJbAiVY6VVF
+[2021-09-13][00:32:46][cli_common::rpc_client_helpers][INFO] Transaction mBhtSBPg9gDMHMgLTwKC2mJuPkJx7mSXd1p3A7PCbKYMCWdeBPfiEpmf1gFt6HeizBm2KUzQTqD3cKLVsCJCRVe
+[2021-09-13][00:32:51][marcrank::stake_delta][INFO] Stake 8214034290937 (8214.034290937 SOL) into validator GEJAHbdmspMk1VTnRmQ9GNuHwLFmqsQENywkbtvTMP3Y
+[2021-09-13][00:32:52][cli_common::rpc_client_helpers][INFO] Transaction 362JPPSf57nvZUv46MtC33m2CbF3zoMujgXWMdXBx3iB9K5hCk3ZSDmmt9VdSKztnqdCLa7MrV1oFwy1zuJ1sbdZ
+[2021-09-13][00:32:57][marcrank::stake_delta][INFO] Stake 8137185358841 (8137.185358841 SOL) into validator 3fAvmL3MsMCu5iw1FMujiBSZGFEXzq6S8bY5vHrp5mZk
+[2021-09-13][00:32:58][cli_common::rpc_client_helpers][INFO] Transaction 3r8UZRticuPsDrAvNDMcD7ZrSUX4ifWMqTWvtPe2XrKkTjG1UDgEsAQ15Xgvqdgi2buqCdJ1BXtVrJEcYoQ9kpbX
+[2021-09-13][00:33:03][marcrank::stake_delta][INFO] Stake 8104247654191 (8104.247654191 SOL) into validator BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg
+[2021-09-13][00:33:04][cli_common::rpc_client_helpers][INFO] Transaction xvzKj2ZhFo7dxpAA1LJ3LGsw53EDv4dPSuNSJtfDkEQYxWvNbfgqKERrWd7dantgsMfX65qAWPxtCD67wQcbjjw
+[2021-09-13][00:33:09][marcrank::stake_delta][INFO] Stake 8028385165527 (8028.385165527 SOL) into validator BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R
+[2021-09-13][00:33:12][cli_common::rpc_client_helpers][INFO] Transaction 47yaKbWMb2cRF9g6qT6T79ziRjEViTqwXiwHLQA1w1CtZ4KfFn4snDPKUMwSXhAes2xWosrs9oposgrqrMTHFrF4
+[2021-09-13][00:33:17][marcrank::stake_delta][INFO] Stake 7998920525917 (7998.920525917 SOL) into validator 5HMtU9ngrq7vhQn4qPxFHzaVJRjbnT2VQxTTPdfwvbUL
+[2021-09-13][00:33:18][cli_common::rpc_client_helpers][INFO] Transaction 55gkHjBxGsP9hsmgR8oGNFcjLFbiA3DAkcserfn9dtUdKUGPTRtoTYW9z14a66pGL3GmaQEQZagjR4KAmwQpiv78
+[2021-09-13][00:33:23][marcrank::stake_delta][INFO] Stake 7994688082833 (7994.688082833 SOL) into validator E8ajDvUp25ibh2S5YDpLHABKNJA6JSAuymFGn4zaxPSn
+[2021-09-13][00:33:24][cli_common::rpc_client_helpers][INFO] Transaction 4cPDc9p5M5yhgYitxGDLLuWtfGUNQjAqdn1mmHgfXGKYB1i5SDuU9asWkTY3zaEXCEd1WEnagrtqTsg44vvrxGwe
+[2021-09-13][00:33:29][marcrank::stake_delta][INFO] Stake 7923364848576 (7923.364848576 SOL) into validator B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv
+[2021-09-13][00:33:31][cli_common::rpc_client_helpers][INFO] Transaction 8YXn7nC9uFuVabP6voYDvMsykDYHmRPhLcmJmVK8NC8bQ3Uw3DZfDScDUFjYBJWeTGrHnAzCAVigdyHk5nstNwV
+[2021-09-13][00:33:36][marcrank::stake_delta][INFO] Stake 7797603985614 (7797.603985614 SOL) into validator 13zyX9jfGy1RvM28LcdqfLwR4VSowXx6whAL6AcFERCk
+[2021-09-13][00:33:37][cli_common::rpc_client_helpers][INFO] Transaction 2UHuirw96cmFpGbf1BAAe7Nxzqd2BqDLA2AVXFWYW3bA9ZqWR3avsMK5LjdggP3PEvJJWoKAPYRbAcog1Vjsw91N
+[2021-09-13][00:33:42][marcrank::stake_delta][INFO] Stake 7785322683991 (7785.322683991 SOL) into validator BohPTSY4vvjGd9ARFqDJjRaHZKP4bde7ewBq65WgRGmA
+[2021-09-13][00:33:45][cli_common::rpc_client_helpers][INFO] Transaction bXsWXG9373wmHiy3Va4qZG1aiv2ZcY51Eb4MKk4Fo5XfB9xHHcri9BZTbVTqiLiYETLRFXiqtpq2m3gYtnZpKDH
+[2021-09-13][00:33:50][marcrank::stake_delta][INFO] Stake 7764117740203 (7764.117740203 SOL) into validator 42QPziW5fPVjK2HWX89UE3BbyChbJD5tze2VazQU1qvw
+[2021-09-13][00:33:53][cli_common::rpc_client_helpers][INFO] Transaction 5XzUrxrHKpYS13FzHVJ3iaNn1WNLrZxPvP6BbeQz2sg7HzEZMG1MYb9NBJ8Wgy8eQYtthVz4a2naSxsTMwwn4PBf
+[2021-09-13][00:33:58][marcrank::stake_delta][INFO] Stake 7755317516727 (7755.317516727 SOL) into validator EwrqSY9iGTeMSfPKz2LGegdWCdXmfMyb4Ef49AjMiJER
+[2021-09-13][00:33:59][cli_common::rpc_client_helpers][INFO] Transaction 5nvfbL9UewWwnnynCLaEUoSd1Su1mYVfUcPUkDUBPj1Q6WettMbEfkXAtX2mf5SaVxbojk2YYsUSgnnuzPdjCUG3
+[2021-09-13][00:34:04][marcrank::stake_delta][INFO] Stake 7626559460827 (7626.559460827 SOL) into validator 4GAmUQ8FvKcTzeYGqxu2oSBMStYNwDTmBo7LC1Csg6SE
+[2021-09-13][00:34:06][cli_common::rpc_client_helpers][INFO] Transaction PPa4zeXpTyxa8jcxptrSgSTvU6xAc1mYZgE4v8vJjHmt42o1BboiCdEHFyueJZHaZsCfdFz2cWUX2HkPU1A4nyv
+[2021-09-13][00:34:11][marcrank::stake_delta][INFO] Stake 7501852174862 (7501.852174862 SOL) into validator 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
+[2021-09-13][00:34:12][cli_common::rpc_client_helpers][INFO] Transaction 3mZfFCpo1Ere6fj19X5SpL5CSS33ZaXjp6QzBppwweGUD1nVZHBQfVJdBBARdE4ixQ8DaK2KNo4kALHWhUqd7mqA
+[2021-09-13][00:34:17][marcrank::stake_delta][INFO] Stake 7468953936048 (7468.953936048 SOL) into validator 7k2ysYjSheYCamBximJsfCHSivXNyGobD3gBrVMK423G
+[2021-09-13][00:34:17][cli_common::rpc_client_helpers][INFO] Transaction 5ecxan4tQibLSUgW1VXAf7M4e68jBus7Def4uB8vd7jaa9CRVVmdNPCe3JntwKrCykjUfMfLoRdwbNdp6kwH3Hsj
+[2021-09-13][00:34:22][marcrank::stake_delta][INFO] Stake 7413478398266 (7413.478398266 SOL) into validator XBtfuT5gYU27UAukT3pEzgiKgHpHNQhSoa3zX2PYtiT
+[2021-09-13][00:34:24][cli_common::rpc_client_helpers][INFO] Transaction PjZ1waFeVsvdeV8XcpxTKPxXfe81JMQgjPxroiB6Xiv1iC5tkXejHzhcipdshrnabMBAKb5LMDZv4saEGxtCzGQ
+[2021-09-13][00:34:29][marcrank::stake_delta][INFO] Stake 7399833308901 (7399.833308901 SOL) into validator 2ikGwX24ATJQHPtWpHupEAJvAyp63niaFL5R2sGXwfnd
+[2021-09-13][00:34:32][cli_common::rpc_client_helpers][INFO] Transaction 4GphMfb5dWdCSN73HHmud5G96TuyrGrHSvseZScJSUb8xsVSxzn3xWE5qEWd2b8F1Ud8BjiowPDMj43ga4a9ns3j
+[2021-09-13][00:34:37][marcrank::stake_delta][INFO] Stake 7398665356187 (7398.665356187 SOL) into validator a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV
+[2021-09-13][00:34:39][cli_common::rpc_client_helpers][INFO] Transaction 2ydQRNwRXpKDjsCPUPm8ZzuUQj8saejU8vYouSKnniT1MFxWvSKouBGpM8TbDwwqWbNVF1MJuXEVdtg7dgCSJC3k
+[2021-09-13][00:34:44][marcrank::stake_delta][INFO] Stake 7343988450226 (7343.988450226 SOL) into validator CwEsA6kkUZHnuCK2HC1WVpriBpZWFJSKW9xxrdednm6J
+[2021-09-13][00:34:46][cli_common::rpc_client_helpers][INFO] Transaction 5mvy5hG5xVecaQsPjwWgPYLPFxCM7LzDwd6vpcKRnm46L46wFdXR7BjZDsU2CMBufjmyukNsDQaq8rUNKcdvxHtH
+[2021-09-13][00:34:51][marcrank::stake_delta][INFO] Stake 7304570222140 (7304.57022214 SOL) into validator DHasctf9Gs2hRY2QzSoRiLuJnuEkRcGHSrh2JUxthxwa
+[2021-09-13][00:34:53][cli_common::rpc_client_helpers][INFO] Transaction 65fa81WhZaFUYp7gm3eqZ1PSYxGk1htirXCZB9KT2A3ymqBheaQDTF4q2Wvew64AmVdDLKr35XLBxnkwi9GqLnpx
+[2021-09-13][00:34:58][marcrank::stake_delta][INFO] Stake 7184696116439 (7184.696116439 SOL) into validator BCAJXBV1jCJA1KPfn4u8f19qmoVWJiRStudbxVi5rW5b
+[2021-09-13][00:35:00][cli_common::rpc_client_helpers][INFO] Transaction 4rrKvYkQphkuZZ4vbH7HNpt5ofGDtgu4BXFaJ8Ty3JjNkdNdi8tEGJ9Hnt7NEW2fkZefF87Diu6ugDrubrhcrrEZ
+[2021-09-13][00:35:05][marcrank::stake_delta][INFO] Stake 7083729916145 (7083.729916145 SOL) into validator CjxgHgyBPkUo6GWoKn6RWEprCVRqhKxDsyKKYV4GMBz
+[2021-09-13][00:35:07][cli_common::rpc_client_helpers][INFO] Transaction YyGbBxYR6wVuoQuJdwyscyRMYRGhRmwjB48WaNVfX1FA8U1dSCx2cjewF1j9dYRaxNJ4rZCWuK9WCdDNkAASWRe
+[2021-09-13][00:35:12][marcrank::stake_delta][INFO] Stake 7076878464548 (7076.878464548 SOL) into validator DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE
+[2021-09-13][00:35:15][cli_common::rpc_client_helpers][INFO] Transaction 2aLDApXQGzPr2eeu5iPfv3hkJ9Y2PoUmmW2z8Ed7N1wZya1GDwJJv4eEBnwCx1vcPdq6dMiWD8gNZHtqzLXZddZK
+[2021-09-13][00:35:20][marcrank::stake_delta][INFO] Stake 6977761702844 (6977.761702844 SOL) into validator 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
+[2021-09-13][00:35:22][cli_common::rpc_client_helpers][INFO] Transaction uXTFzjbuknG2iaknpo5JCQuz3hgg8GjLMuJY7fq5jWVeqXtf5feTDJgdQUnveYmBWV1A3xHTtiwMgpmTeCJvKA4
+[2021-09-13][00:35:27][marcrank::stake_delta][INFO] Stake 6884318298686 (6884.318298686 SOL) into validator 964w4qykexipZ7aCur1BEeJtexTMa1ehMUc9tCcxm9J3
+[2021-09-13][00:35:29][cli_common::rpc_client_helpers][INFO] Transaction 5bhXHfU8WjhtHB8dvAcstVEvvYKw741d1t23g33ihVVZp2SoTh6fWxfbLwibS7B23TeupswQiDps2JJDpZ18UMvJ
+[2021-09-13][00:35:34][marcrank::stake_delta][INFO] Stake 6882928918254 (6882.928918254 SOL) into validator 9nyiCpH8tfzSDXWP5BX5u5Fyi7Mz1DcMPp5a7aUhDybE
+[2021-09-13][00:35:37][cli_common::rpc_client_helpers][INFO] Transaction 3qABirYKhZn2PLZrwQfxQn4jLRxi6yzvpcv43b2CdcMdgcsFpp6q5McsP7xLr9DRVw2BxRPrAgMQARMGNhLwV28h
+[2021-09-13][00:35:42][marcrank::stake_delta][INFO] Stake 6819376648049 (6819.376648049 SOL) into validator Dyuwspj5UMn6tKPLdHH9JPQShdhJSED4HGdAQ7wm7uq2
+[2021-09-13][00:35:43][cli_common::rpc_client_helpers][INFO] Transaction 4vE74h9DUo7Kr1FbnuALXFierheqTFNQzWNu4NBBLKW2qkhj7SbMUvCafHm3JfryBQaYyNUs6iT7XyrdajpKrPfr
+[2021-09-13][00:35:48][marcrank::stake_delta][INFO] Stake 6792361580633 (6792.361580633 SOL) into validator 2jevuBmk1TrXA36bRZ4bhdJGPzGqcCDoVzRcyYtxzKHY
+[2021-09-13][00:35:50][cli_common::rpc_client_helpers][INFO] Transaction 3N3R3ywU6qCWZcwdQsYpAXDaSikDcdfNUe8U7Vkfq7cfRtC44WvWqvmE12b1YdWPv6H4Vd3FwYccjKWTJchWRBpp
+[2021-09-13][00:35:55][marcrank::stake_delta][INFO] Stake 6756403695506 (6756.403695506 SOL) into validator Dp9gpMr68ZG6gKi1ByGq1oACwWrmRe7cvBWBHhRbdHxr
+[2021-09-13][00:35:57][cli_common::rpc_client_helpers][INFO] Transaction ipcx8HcwPkrnwtCYfWC1BetRNys85TsDPrbUupWRJhU7HLyx1iznzrCVFGNFSy2pdoEufyACZ7czreFTh1NoW2w
+[2021-09-13][00:36:02][marcrank::stake_delta][INFO] Stake 6753103076477 (6753.103076477 SOL) into validator 2nj17ZX4Mwj9yFx7ATBzhN7RzVQfWiSjCdMeeH6NBXe8
+[2021-09-13][00:36:03][cli_common::rpc_client_helpers][INFO] Transaction 5EUFexZQYuahAaY9PtxCmYajvYaGSeQUajZ4eLGqGYuhrdzYE31WBeW2HCg76tHztfAucJJ986YuchmFDCkMVUNz
+[2021-09-13][00:36:08][marcrank::stake_delta][INFO] Stake 6746577484484 (6746.577484484 SOL) into validator 78fkh4nwnU9TSUEavnX6VCyLNWZ3yVe6Xqzeeq99TAb8
+[2021-09-13][00:36:09][cli_common::rpc_client_helpers][INFO] Transaction 5dQbsLuvsS56YHx3qPvmSHvDtCKxT2GFDfrF2TwQgQnGSGWHczc5BjQUX98GbTyWMFW1QZi9Z6ptzvnvSXRbBjG9
+[2021-09-13][00:36:14][marcrank::stake_delta][INFO] Stake 6739756378670 (6739.75637867 SOL) into validator A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
+[2021-09-13][00:36:16][cli_common::rpc_client_helpers][INFO] Transaction 4tAkCWetCzCAiFuoZdsGFAW46DfJtxp1xXaEXQUaeTxYGCfDe9RQxvAuPe7mrXdPxsZgv2K3SV3H8EgdMQZ7aLA7
+[2021-09-13][00:36:21][marcrank::stake_delta][INFO] Stake 6703162175262 (6703.162175262 SOL) into validator DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU
+[2021-09-13][00:36:23][cli_common::rpc_client_helpers][INFO] Transaction KQYrBk57pmM3Rh7HSS6jw6MMHNXAF6rVMGirHHZfqHEZmaNzHAw8kuRQNmUEZaEVaU7ZbGDvFJVUu7Qk6oAsdK4
+[2021-09-13][00:36:28][marcrank::stake_delta][INFO] Stake 6701925277118 (6701.925277118 SOL) into validator CHUF69YeA3gZv484izYuhKk1EjaJYjv1pNoJJ6QeFDQc
+[2021-09-13][00:36:30][cli_common::rpc_client_helpers][INFO] Transaction 5iAUw7CP25UHCqhSwZqo1zrZfpKwmTuMXxm6mG5CkytPJ61vqVYfd3e1vAim7TN2spP9ZXaAcBR88y8GD73cLmT7
+[2021-09-13][00:36:35][marcrank::stake_delta][INFO] Stake 6691883464058 (6691.883464058 SOL) into validator 53RJBy7aBGA7Aag6AryxEmBbsHDgwfBWagLrPbGHnfvR
+[2021-09-13][00:36:36][cli_common::rpc_client_helpers][INFO] Transaction 3b1nwgY3ZNJikrJ3vmwnxCoWJTuAQJmNeTSk1ro4F611q2WbXQpLj5ndgwwBJDBZGUc3CwnJNeZpNtDoK9ZWggf9
+[2021-09-13][00:36:41][marcrank::stake_delta][INFO] Stake 6685162693472 (6685.162693472 SOL) into validator 437jBWng7563yC8LForExeWZ8LVMQSkqqBEbzAFjfpVx
+[2021-09-13][00:36:44][cli_common::rpc_client_helpers][INFO] Transaction 49KU3UZJSfvYM27d8sPDd57tgoREcBPgzg5YUxChT7z3jHMKSeHee4PkWvk4bP8LNea4vowye81m1fhKBwooc6SC
+[2021-09-13][00:36:49][marcrank::stake_delta][INFO] Stake 6677317281266 (6677.317281266 SOL) into validator 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
+[2021-09-13][00:36:51][cli_common::rpc_client_helpers][INFO] Transaction 3X1bF7tAXMR4KPjNBJAoiFvfJARPLuCyLJAeiLAomwbjenAKdxp8uMPnaFAHe6K8PHQ1kWiDgwFXjjTUHzUfnbfW
+[2021-09-13][00:36:56][marcrank::stake_delta][INFO] Stake 6630890514197 (6630.890514197 SOL) into validator Hp1Eieo4bm5u94AG26mybZJB6NsKaB1KYR8DCPriupDA
+[2021-09-13][00:36:58][cli_common::rpc_client_helpers][INFO] Transaction 4FQPVf9Ln66yRQVezk1c9eEts43x7XX312sGQuZtmYWZGo7y63L5j7DBzuxhjn7f1UfJ8EDELKEXUUAS4n3U5uG6
+[2021-09-13][00:37:03][marcrank::stake_delta][INFO] Stake 6630160573176 (6630.160573176 SOL) into validator BqXmcTyPCCJ2FCnaSZikrH2z61DVjrNsUNs1mqve9Eai
+[2021-09-13][00:37:08][cli_common::rpc_client_helpers][INFO] Transaction 3huZL9A7c3ngCvpLfBTvHw4Aucn5WVEeT86FK2Tt5df6yqqJBJpzSEH4Gj9tptXCi8HTzJRjXD8JxTaYCxdXR8pB
+[2021-09-13][00:37:13][marcrank::stake_delta][INFO] Stake 6606650393633 (6606.650393633 SOL) into validator 49DJjUX3cwFvaZD5rCAwubiz7qdRWDez9xmB381XdHru
+[2021-09-13][00:37:15][cli_common::rpc_client_helpers][INFO] Transaction 58MAvzF7qFrSNWorHaoPgK3THBqDofjvHNsZpCxPJ6cuguRm5SsLiKTQRgS1MYHPoN3vT2vzfH5B6Xu5LxnQAB2k
+[2021-09-13][00:37:20][marcrank::stake_delta][INFO] Stake 6578216601004 (6578.216601004 SOL) into validator 9VbhvHvobqyo4a7nghpMKHnuuaiCwmVeH7AikKrS5q4N
+[2021-09-13][00:37:22][cli_common::rpc_client_helpers][INFO] Transaction 5sx4jhrtj7dPU2p3MEGBWwxpBo45z3WJ5tspYtsRBsXwmE42QjrFtUqkFMZjUzokVuHUSkZF1f8ZT1GVPgcdQuUi
+[2021-09-13][00:37:27][marcrank::stake_delta][INFO] Stake 6564212651358 (6564.212651358 SOL) into validator FNsmGoqQm6wxcAnCtmvuLQNY915WEfh1dZS6tMeP25kd
+[2021-09-13][00:37:29][cli_common::rpc_client_helpers][INFO] Transaction y5RLE595pJWLaxvkpJTNGgjbokf2nmPq9GeVxs1UDkadiLjXfiXdFY1kaE2WdweL6PQWRp8xooY86QQyPrDEqZd
+[2021-09-13][00:37:34][marcrank::stake_delta][INFO] Stake 6545996491099 (6545.996491099 SOL) into validator EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL
+[2021-09-13][00:37:34][cli_common::rpc_client_helpers][INFO] Transaction ZbsCdMTinjyoFwZQY7PvnYJCEnB1FpLgUCuqMQjKJfga9mKvn9qkNcogKsDbFEcaRkVkCxxm7SFttG6yFG6pkVa
+[2021-09-13][00:37:39][marcrank::stake_delta][INFO] Stake 6542124520659 (6542.124520659 SOL) into validator 5RCD4pZcKH3NHN4XHxvsnVAawSaConLgsZbreSN5dXpZ
+[2021-09-13][00:37:41][cli_common::rpc_client_helpers][INFO] Transaction 3PyUinaE4VxnEasPqhYCgurrbbyr23U8ZLvFQToaFU7M62Hrdfw7j7we6o2yk3M5r4HVhDQDxafgXegrWCfSFy7B
+[2021-09-13][00:37:46][marcrank::stake_delta][INFO] Stake 6509093245878 (6509.093245878 SOL) into validator 7ZJHBz4SzQw1GDQZRaCMLvo7uoUo7cY1BUioA7mdfD65
+[2021-09-13][00:37:47][cli_common::rpc_client_helpers][INFO] Transaction 4hAyTGjKdL65wMmrNq9fKQXWDx8m3maDpnm2SkFkHS11FaEGfCaND5fVnDTWuZdTnF64gKt7QzmrmGrnqNzxHDsw
+[2021-09-13][00:37:52][marcrank::stake_delta][INFO] Stake 6483603833002 (6483.603833002 SOL) into validator aoYUtVYYZd8q5cEKnsKmvbM381VxFTnZbWakJ39GMci
+[2021-09-13][00:37:54][cli_common::rpc_client_helpers][INFO] Transaction 4WNx2hjHzXPSzyNbgYSh4D2hCYGMLa4bUCwvxHsTnaj4FQdcJAw9qH966rzw9fhWwA6FSkrFDBJ1fAkdLapnLDZs
+[2021-09-13][00:37:59][marcrank::stake_delta][INFO] Stake 6472935477199 (6472.935477199 SOL) into validator FyFUiXY9JLFp2iPxvy3Jkv2BVcyEN39RDrJngTPLZ62L
+[2021-09-13][00:38:01][cli_common::rpc_client_helpers][INFO] Transaction 5meuPUrR9XNVERFMgCpVUzcDU9AnH6G5yLJ8Ra239EjsamkueB7SqabbtvUmaiYy8evB2P4dDFY2qL73ntsKGCVd
+[2021-09-13][00:38:06][marcrank::stake_delta][INFO] Stake 6456610787929 (6456.610787929 SOL) into validator kWEiSEQZMeLAbMUiz1njRTZEjuSpJDCgVynB6pJHpcr
+[2021-09-13][00:38:09][cli_common::rpc_client_helpers][INFO] Transaction 2NXGh16PsWZfZoXeu6PTDfMLhNunhPAq6Awvkt1VEzfCDWJmCz4jnAaaPYUvZoBvczHnDUozDy85ddGWuQ6ZoNTd
+[2021-09-13][00:38:14][marcrank::stake_delta][INFO] Stake 6443685386391 (6443.685386391 SOL) into validator 9FNVvTw3kPyb3239RKakAXUfkmZzi5TDnH4hdwksRBig
+[2021-09-13][00:38:18][cli_common::rpc_client_helpers][INFO] Transaction 3Z7F3RgspWciLWDr4S7irQ4ss9bj3oce3cBCnYRqx36hf6jk3wL6w2Vq4Yb4XtDU1d3ZC8BiNPZRuDvXDXENN6Tr
+[2021-09-13][00:38:23][marcrank::stake_delta][INFO] Stake 6427342456344 (6427.342456344 SOL) into validator ennomYMmVHey3KmNZCks4AnM1SEoimKoYzd1P1H72GN
+[2021-09-13][00:38:24][cli_common::rpc_client_helpers][INFO] Transaction 5fS7RkUs9uGZbfnRXApQCXwceoKG4USwEDusCc4BxhH28oVyw7BJjCzRrf7ydDUnerZJ9GiCqWPsijQS41KnaixU
+[2021-09-13][00:38:29][marcrank::stake_delta][INFO] Stake 6407863485784 (6407.863485784 SOL) into validator 6af6c11dJbUAoUupxLGR3Y6CGsf8HMiYU4QCA5pYmDuo
+[2021-09-13][00:38:31][cli_common::rpc_client_helpers][INFO] Transaction 4rXAgpVceqrWN3qX1BNiP7TFFsV6nSgt4api2hB5Q75XMqe21wEwKHiuhusxnTgjEhc3K7DifSYVpbtFFwLfxMSs
+[2021-09-13][00:38:36][marcrank::stake_delta][INFO] Stake 6363491746259 (6363.491746259 SOL) into validator 8HfXSEtpDodzLrWvbUuLhH2nU6axzAzL8eoLNZK4GCbM
+[2021-09-13][00:38:37][cli_common::rpc_client_helpers][INFO] Transaction 5A96jWxi4prUAbYr1sRrxN7NKhSmZfXaueJX9WrYxirVR4WmDFHFsfiAGDHqQz1uKeXFCEZewmrRT7TWsakTgYpi
+[2021-09-13][00:38:42][marcrank::stake_delta][INFO] Stake 6347529075797 (6347.529075797 SOL) into validator BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
+[2021-09-13][00:38:44][cli_common::rpc_client_helpers][INFO] Transaction 2vWcxo8rM2AQqaVQMU5tQbkWuBYufN7Bb3SorXXd89GRX3At9EK6q4mvXSvc3zwWCLPkUjHVdNY62LbqRRf2LXv5
+[2021-09-13][00:38:49][marcrank::stake_delta][INFO] Stake 6345122134468 (6345.122134468 SOL) into validator BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
+[2021-09-13][00:38:50][cli_common::rpc_client_helpers][INFO] Transaction 3bRVXtCoaEr9eZBmPp5e4ySFm6Lkq8eJHw7oR7xYWXRE58FX8bWxZci7iBa3Pgzt57WCotDCGNoUVswWuu4q4MDo
+[2021-09-13][00:38:55][marcrank::stake_delta][INFO] Stake 6337390324222 (6337.390324222 SOL) into validator 36jVWrHfpyN2RvXCkGA75qdzcBqFfMcyKbC2qg4o2gA8
+[2021-09-13][00:38:57][cli_common::rpc_client_helpers][INFO] Transaction 4QWGPkWpqKvMBHCWkpjDNGt5jy4qdixNADcwmFPMfqsrDMwDuLQSzRFiBJdAsnjHN3eNoNoiLXsWz5MUSKze8NTk
+[2021-09-13][00:39:02][marcrank::stake_delta][INFO] Stake 6316647512828 (6316.647512828 SOL) into validator GW26xx7728na3saWrqbuwtzn7mfNYv18rhUETzod5UsZ
+[2021-09-13][00:39:05][cli_common::rpc_client_helpers][INFO] Transaction 4vkdDhM2LDr59YYCV6XoRRDzacs4h3rUeSvbRyPDWmCeN3nSxpm5wVA5dJPe5kK3aTyoqPRSohFqu5AFrs5zBthm
+[2021-09-13][00:39:10][marcrank::stake_delta][INFO] Stake 6312227146729 (6312.227146729 SOL) into validator 5iJDEVRi1nMLwKAWhYbEokZnvBAe15rgFaHGkggVEP9z
+[2021-09-13][00:39:12][cli_common::rpc_client_helpers][INFO] Transaction 3PX66Qa4jqbFMfj5ZXtBfTRQgiHYQAA2QQu7QXt9jsCxqt4W6az2G74Zni3nsPRV7sJmCGms11X2H1gYX8FyN23Z
+[2021-09-13][00:39:17][marcrank::stake_delta][INFO] Stake 6282223978848 (6282.223978848 SOL) into validator 7y4wStv8XxUkuBgwNkidfxdy1V6TMYr4UjaTDwcS3MUr
+[2021-09-13][00:39:19][cli_common::rpc_client_helpers][INFO] Transaction 3tV1Eftii6sibUCzti3GEoA8i64dM9UpQgkuXsmjC6SEXQXfkTxg4cMsghz9cGruj36kzyt11p2qKUHR1G1rUZC7
+[2021-09-13][00:39:24][marcrank::stake_delta][INFO] Stake 6264245116314 (6264.245116314 SOL) into validator CKLRSR1fxYybR553rjwknHdnShRFmYAcCZWvoTExBqBp
+[2021-09-13][00:39:26][cli_common::rpc_client_helpers][INFO] Transaction 2AMDWZftTo1tm7QVgtCF5jFa1tBde6p2B7okb3xqyGNtcwHcaG7sRFJKKQJNcUJSttpqgPHwJxwU4UQAUhHdohoL
+[2021-09-13][00:39:31][marcrank::stake_delta][INFO] Stake 6260121455507 (6260.121455507 SOL) into validator 5ZySjU8k4tS32ekHm3PFDiSyVgKm6sp83YRBjVtqnJ8a
+[2021-09-13][00:39:32][cli_common::rpc_client_helpers][INFO] Transaction TFRpDuuhNytaCEjuqmU9jBhkiTf7j12MCcdzvfKQ5W4BKPkXD3zUF6s5LVjQ3R5ntMksqMBDaPE8G7BBA1Bj3Fd
+[2021-09-13][00:39:38][marcrank::stake_delta][INFO] Stake 6205282183393 (6205.282183393 SOL) into validator 5TFdzjKE6LnkhQArxWjt26yVCXskPo3fUXE8F351Cfn7
+[2021-09-13][00:39:39][cli_common::rpc_client_helpers][INFO] Transaction 5tsgz5DJRZgv6XkPgCALBkyfCLZJ4Vy22F89gxAeyoV89ksVZAHjTGRdeWoc3a8qT8UNcj8QUakXCWQKH4GXUpmw
+[2021-09-13][00:39:44][marcrank::stake_delta][INFO] Stake 6188363473925 (6188.363473925 SOL) into validator 8jxSHbS4qAnh5yueFp4D9ABXubKqMwXqF3HtdzQGuphp
+[2021-09-13][00:39:45][cli_common::rpc_client_helpers][INFO] Transaction 4DT9KLuFXuMf4LgV5s7HgFYsh5sBmCc4iW4HtQWXNVP4ya9KLFTXCyQjGUFA3DLX1PKKUJf5g9mZK6i5rjWVs6fG
+[2021-09-13][00:39:50][marcrank::stake_delta][INFO] Stake 6177514414848 (6177.514414848 SOL) into validator EhRyVaus1NYqYbAvvsK7EF6iGmEFatdWFP1CZZ7bvyQn
+[2021-09-13][00:39:52][cli_common::rpc_client_helpers][INFO] Transaction 2XtSA4T6Nqjv2MQLPTZeiH1Pxr4dtgGcoQ5EThr4q1jyZ77oWPcXqvDs42Pb1DtgEH9PUfjvfYmCnhvqkkDGPq1m
+[2021-09-13][00:39:57][marcrank::stake_delta][INFO] Stake 6172879379319 (6172.879379319 SOL) into validator 8Dfm249TXe9Wd3wYEnpBdSme659gecoEMH8zx1YWN79v
+[2021-09-13][00:39:59][cli_common::rpc_client_helpers][INFO] Transaction 4zE7b2DoMqC9fmgaPSJveHseAs6g2p2LhANycwrXtstF7X1gX7s61eg1ejVGk5GUvpRPeRi9DKKmLbXSKihaT4vz
+[2021-09-13][00:40:02][marcrank::stake_delta][INFO] Stake 9635279618793 (9635.279618793 SOL) into validator 8vrKvjW3FAWxHkUu82VSyeJhGsPp9Y4v3g7nR9JrReqh
+[2021-09-13][00:40:08][cli_common::rpc_client_helpers][INFO] Transaction 4gopSCwSmW2ahzonzNAeqWA5PWQHPpG4XZeqg39KX6duRve52YXYuT7aqmAcg9Q3zYFUP9EpTtbhECjLTBQoDbCf
+[2021-09-13][00:40:14][marcrank::stake_delta][WARN] stake_delta is now = 0. Nothing to do

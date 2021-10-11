@@ -1,15 +1,15 @@
 ---
 <pre>
-[2021-10-10][22:51:21][marinade][INFO] Cluster: Mainnet, commitment: processed
-[2021-10-10][22:51:21][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-10-10][22:51:21][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-10-10][22:51:22][marinade::show][INFO] Epoch EpochInfo { epoch: 233, slot_index: 168683, slots_in_epoch: 432000, absolute_slot: 100824683, block_height: 90379466, transaction_count: Some(32373580379) }
-[2021-10-10][22:51:22][marinade::show][INFO] Stake Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
-[2021-10-10][22:51:22][marinade::show][INFO] Staking CAPPED TVL 5500000 SOL
-[2021-10-10][22:51:22][marinade::show][INFO] Liquidity CAPPED TVL 550000 SOL
+[2021-10-10][22:51:49][marinade][INFO] Cluster: Mainnet, commitment: processed
+[2021-10-10][22:51:49][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-10-10][22:51:49][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-10-10][22:51:50][marinade::show][INFO] Epoch EpochInfo { epoch: 233, slot_index: 168742, slots_in_epoch: 432000, absolute_slot: 100824742, block_height: 90379525, transaction_count: Some(32373648326) }
+[2021-10-10][22:51:50][marinade::show][INFO] Stake Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
+[2021-10-10][22:51:50][marinade::show][INFO] Staking CAPPED TVL 5500000 SOL
+[2021-10-10][22:51:50][marinade::show][INFO] Liquidity CAPPED TVL 550000 SOL
 -- Treasury ---------------
 reserve 2193343.503731677 SOL (PDA) Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
-treasury mSOL account 42.664074975 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
+treasury mSOL account 42.665542239 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
 -- Config ---------------
 rent_exempt_for_token_acc 2039280
 min_deposit 0.000000001 SOL
@@ -21,8 +21,8 @@ mSOL price 1.010880463 SOL (start epoch price 1.010880463058129 SOL)
 mSOL supply 5349001.933051647 mint mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So auth 3JLPCS1qM2zRw3Dp6V4hZnYHd4toMNPkNesXdX9tg6KM
 -- Liq-Pool ---------------
 mSOL-SOL-LP supply 299629.161286955 mint LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj auth HZsepB79dnpvH6qfVgvMpS738EndHw3qSHo4Gv5WX1KA
-mSOL  73.477508364 account 7GgPYjS5Dza89wV6FpZ23kUJRG5vbQ1GM25ezspYFSoE auth EyaSjUtSgo9aRD1f8LWXwdvkpDTmXAW54yoSHZRF14WL
-SOL   316262.419000714 account UefNb6z6yvArqe4cJHTXCqStRsKmWhGxnZzuHbikP5Q 
+mSOL  75.432394143 account 7GgPYjS5Dza89wV6FpZ23kUJRG5vbQ1GM25ezspYFSoE auth EyaSjUtSgo9aRD1f8LWXwdvkpDTmXAW54yoSHZRF14WL
+SOL   316260.447294561 account UefNb6z6yvArqe4cJHTXCqStRsKmWhGxnZzuHbikP5Q 
 Liquidity Target: 100000
 Current-fee: 0.3%
 Min-Max-Fee: 0.3%-3%
@@ -32,7 +32,7 @@ cooling down: 0
 Circulating ticket accounts: 52237.888665486 (291 tickets)
 stake-delta: 2141105.613026911
 validator_manager_authority VaLV7StdK6A3KfqyePbHyaBefjeibq9gakECFtXNM4m
-[2021-10-10][22:51:23][marinade::show][INFO] reading scores from ./avg.csv
+[2021-10-10][22:51:51][marinade::show][INFO] reading scores from ./avg.csv
 -----------------
 -- Validators ---
 Total staked: 3266095.938635333 SOL

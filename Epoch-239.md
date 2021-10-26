@@ -1,41 +1,41 @@
 ---
 <pre>
-[2021-10-26][03:13:37][marinade][INFO] Cluster: Other, commitment: processed
-[2021-10-26][03:13:37][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-10-26][03:13:37][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-10-26][03:13:39][marinade::show][INFO] Epoch EpochInfo { epoch: 239, slot_index: 317791, slots_in_epoch: 432000, absolute_slot: 103565791, block_height: 93052517, transaction_count: Some(35424855482) }
-[2021-10-26][03:13:39][marinade::show][INFO] Stake Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
-[2021-10-26][03:13:39][marinade::show][INFO] Staking CAPPED TVL 11000000 SOL
-[2021-10-26][03:13:39][marinade::show][INFO] Liquidity CAPPED TVL 1100000 SOL
+[2021-10-26][12:25:35][marinade][INFO] Cluster: Mainnet, commitment: processed
+[2021-10-26][12:25:35][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-10-26][12:25:35][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-10-26][12:25:36][marinade::show][INFO] Epoch EpochInfo { epoch: 239, slot_index: 386133, slots_in_epoch: 432000, absolute_slot: 103634133, block_height: 93118828, transaction_count: Some(35502683618) }
+[2021-10-26][12:25:36][marinade::show][INFO] Stake Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
+[2021-10-26][12:25:36][marinade::show][INFO] Staking CAPPED TVL 11000000 SOL
+[2021-10-26][12:25:36][marinade::show][INFO] Liquidity CAPPED TVL 1100000 SOL
 -- Treasury ---------------
-reserve 107169.151720569 SOL (PDA) Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
-treasury mSOL account 583.012027134 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
+reserve 107162.561583407 SOL (PDA) Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
+treasury mSOL account 2.850286273 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
 -- Config ---------------
 rent_exempt_for_token_acc 2039280
 min_deposit 0.000000001 SOL
 min_stake 1 SOL
 reward_fee 2%
-mSOL supply 7233797.830801451
+mSOL supply 7221205.668918884
 -- mSOL token ---------------
 mSOL price 1.013399222 SOL (start epoch price 1.0133992224000394 SOL)
-mSOL supply 7138152.142464579 mint mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So auth 3JLPCS1qM2zRw3Dp6V4hZnYHd4toMNPkNesXdX9tg6KM
+mSOL supply 7125726.474866065 mint mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So auth 3JLPCS1qM2zRw3Dp6V4hZnYHd4toMNPkNesXdX9tg6KM
 -- Liq-Pool ---------------
-mSOL-SOL-LP supply 553821.255758132 mint LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj auth HZsepB79dnpvH6qfVgvMpS738EndHw3qSHo4Gv5WX1KA
-mSOL  145995.721724799 account 7GgPYjS5Dza89wV6FpZ23kUJRG5vbQ1GM25ezspYFSoE auth EyaSjUtSgo9aRD1f8LWXwdvkpDTmXAW54yoSHZRF14WL
-SOL   438431.727029659 account UefNb6z6yvArqe4cJHTXCqStRsKmWhGxnZzuHbikP5Q 
+mSOL-SOL-LP supply 551035.799196845 mint LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj auth HZsepB79dnpvH6qfVgvMpS738EndHw3qSHo4Gv5WX1KA
+mSOL  136661.556465168 account 7GgPYjS5Dza89wV6FpZ23kUJRG5vbQ1GM25ezspYFSoE auth EyaSjUtSgo9aRD1f8LWXwdvkpDTmXAW54yoSHZRF14WL
+SOL   444971.48992759 account UefNb6z6yvArqe4cJHTXCqStRsKmWhGxnZzuHbikP5Q 
 Liquidity Target: 100000
 Current-fee: 0.3%
 Min-Max-Fee: 0.3%-3%
 --------------------------
-reserve balance: 107169.151720569
+reserve balance: 107162.561583407
 cooling down: 0
-Circulating ticket accounts: 117412.798134795 (355 tickets)
-stake-delta: -10243.648453506
+Circulating ticket accounts: 130028.605767983 (377 tickets)
+stake-delta: -22866.046223856
 validator_manager_authority VaLV7StdK6A3KfqyePbHyaBefjeibq9gakECFtXNM4m
-[2021-10-26][03:13:40][marinade::show][INFO] reading scores from ./avg.csv
+[2021-10-26][12:25:38][marinade::show][INFO] reading scores from ./avg.csv
 -----------------
 -- Validators ---
-Total staked: 7244041.479254957 SOL
+Total staked: 7244071.71514274 SOL
 List account: DwFYJNnhLmw19FBTrVaLWZ8SZJpxdPoSYVSJaio9tjbY with 1025/3000 validators
 -------------------------------------------------------------
 -- SORTED FROM MOST-UNBALANCED to least unbalanced (staked vs should have) ---
@@ -43,783 +43,783 @@ List account: DwFYJNnhLmw19FBTrVaLWZ8SZJpxdPoSYVSJaio9tjbY with 1025/3000 valida
 -------------------------------------------------------------
 1) #30 Validator 9M9arr2vmbR2FNHizzqKAZxdvrhY8hBA6Pz6145xQ1fL, marinade-staked 0.00 SOL, score-pct:0.5023%
 ValidatorScoreRecord { rank: 30, pct: 0.502301104209504, epoch: 239, keybase_id: "xgsol", name: "XGDUBAI", vote_address: "9M9arr2vmbR2FNHizzqKAZxdvrhY8hBA6Pz6145xQ1fL", score: 3731723, average_position: 59.0551100055586, commission: 10, epoch_credits: 412364, data_center_concentration: 0.0, base_score: 371127.0, mult: 10.0551100055586, avg_score: 3731723.0 }
- has 0.00, should_have 36386.90, to balance +stake 36386.90 (accum +stake to this point 36386.90)
+ has 0.00, should_have 36387.05, to balance +stake 36387.05 (accum +stake to this point 36387.05)
 -------------------------------------------------------------
 2) #87 Validator F5Q9F429Ff7PMvVvSqmR57q5A921MMDBHzX7WuQVLHkw, marinade-staked 0.00 SOL, score-pct:0.4833%
 ValidatorScoreRecord { rank: 87, pct: 0.48332773479083, epoch: 239, keybase_id: "", name: "", vote_address: "F5Q9F429Ff7PMvVvSqmR57q5A921MMDBHzX7WuQVLHkw", score: 3590765, average_position: 58.7290413743922, commission: 10, epoch_credits: 411969, data_center_concentration: 0.137133333333333, base_score: 369077.0, mult: 9.72904137439222, avg_score: 3590765.0 }
- has 0.00, should_have 35012.46, to balance +stake 35012.46 (accum +stake to this point 71399.36)
+ has 0.00, should_have 35012.61, to balance +stake 35012.61 (accum +stake to this point 71399.66)
 -------------------------------------------------------------
 3) #43 Validator 5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM, marinade-staked 1728.37 SOL, score-pct:0.4948%
 ValidatorScoreRecord { rank: 43, pct: 0.494771816299826, epoch: 239, keybase_id: "meyerbro", name: "Meyerbro", vote_address: "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM", score: 3675786, average_position: 58.9260796333036, commission: 10, epoch_credits: 411935, data_center_concentration: 0.0344, base_score: 370316.0, mult: 9.92607963330363, avg_score: 3675786.0 }
- has 1728.37, should_have 35841.48, to balance +stake 34113.11 (accum +stake to this point 105512.47)
+ has 1728.37, should_have 35841.63, to balance +stake 34113.26 (accum +stake to this point 105512.92)
 -------------------------------------------------------------
 4) #133 Validator BeachiopjxQxL7CaHNSZsynApiZCKx9QFVtcWNz3jDBo, marinade-staked 129.37 SOL, score-pct:0.4627%
 ValidatorScoreRecord { rank: 133, pct: 0.462651772048067, epoch: 239, keybase_id: "solanabeach", name: "Solana Beach Validator", vote_address: "BeachiopjxQxL7CaHNSZsynApiZCKx9QFVtcWNz3jDBo", score: 3437158, average_position: 58.3701223392633, commission: 10, epoch_credits: 411372, data_center_concentration: 0.276566666666667, base_score: 366821.0, mult: 9.37012233926328, avg_score: 3437158.0 }
- has 129.37, should_have 33514.69, to balance +stake 33385.32 (accum +stake to this point 138897.78)
+ has 129.37, should_have 33514.83, to balance +stake 33385.45 (accum +stake to this point 138898.37)
 -------------------------------------------------------------
 5) #142 Validator GWjZZiWUDwGeFQgdGd2AijnDzJhjXpcA9CVV8EDLPmRQ, marinade-staked 0.00 SOL, score-pct:0.4557%
 ValidatorScoreRecord { rank: 142, pct: 0.455714333521425, epoch: 239, keybase_id: "sobolkzn", name: "sobolkzn", vote_address: "GWjZZiWUDwGeFQgdGd2AijnDzJhjXpcA9CVV8EDLPmRQ", score: 3385618, average_position: 58.2487562878399, commission: 10, epoch_credits: 408089, data_center_concentration: 0.0995666666666667, base_score: 366062.0, mult: 9.24875628783994, avg_score: 3385618.0 }
- has 0.00, should_have 33012.14, to balance +stake 33012.14 (accum +stake to this point 171909.92)
+ has 0.00, should_have 33012.27, to balance +stake 33012.27 (accum +stake to this point 171910.65)
 -------------------------------------------------------------
 6) #145 Validator 7QwGLymkdP7z2DpdzFXzNb9XEG7tsdBL2ucAVVjGmeVh, marinade-staked 0.00 SOL, score-pct:0.4529%
 ValidatorScoreRecord { rank: 145, pct: 0.452939627316764, epoch: 239, keybase_id: "web34ever", name: "web34ever", vote_address: "7QwGLymkdP7z2DpdzFXzNb9XEG7tsdBL2ucAVVjGmeVh", score: 3365004, average_position: 58.2000819496622, commission: 10, epoch_credits: 406863, data_center_concentration: 0.0342666666666667, base_score: 365758.0, mult: 9.20008194966224, avg_score: 3365004.0 }
- has 0.00, should_have 32811.13, to balance +stake 32811.13 (accum +stake to this point 204721.05)
+ has 0.00, should_have 32811.27, to balance +stake 32811.27 (accum +stake to this point 204721.92)
 -------------------------------------------------------------
 7) #158 Validator Hi8vxcjvAoLSDB9a9xjreJBFurMg41UQhNndx3qS1BJW, marinade-staked 0.00 SOL, score-pct:0.4401%
 ValidatorScoreRecord { rank: 158, pct: 0.440134844099079, epoch: 239, keybase_id: "geleoncaan", name: "Geleon", vote_address: "Hi8vxcjvAoLSDB9a9xjreJBFurMg41UQhNndx3qS1BJW", score: 3269874, average_position: 57.9747379913597, commission: 10, epoch_credits: 406175, data_center_concentration: 0.0995666666666667, base_score: 364342.0, mult: 8.97473799135967, avg_score: 3269874.0 }
- has 0.00, should_have 31883.55, to balance +stake 31883.55 (accum +stake to this point 236604.61)
+ has 0.00, should_have 31883.68, to balance +stake 31883.68 (accum +stake to this point 236605.60)
 -------------------------------------------------------------
 8) #31 Validator 2U7MwCTuLUe59aXMM8VXNTDjdajpZxDJD6vkvVJ8iDHf, marinade-staked 12987.20 SOL, score-pct:0.4985%
 ValidatorScoreRecord { rank: 31, pct: 0.498499915540657, epoch: 239, keybase_id: "blxpro", name: "blxpro", vote_address: "2U7MwCTuLUe59aXMM8VXNTDjdajpZxDJD6vkvVJ8iDHf", score: 3703483, average_position: 58.9900275703667, commission: 10, epoch_credits: 412250, data_center_concentration: 0.0247333333333333, base_score: 370718.0, mult: 9.99002757036673, avg_score: 3703483.0 }
- has 12987.20, should_have 36111.54, to balance +stake 23124.34 (accum +stake to this point 259728.95)
+ has 12987.20, should_have 36111.69, to balance +stake 23124.49 (accum +stake to this point 259730.09)
 -------------------------------------------------------------
 9) #121 Validator Hp1Eieo4bm5u94AG26mybZJB6NsKaB1KYR8DCPriupDA, marinade-staked 10892.98 SOL, score-pct:0.4690%
 ValidatorScoreRecord { rank: 121, pct: 0.469029531308241, epoch: 239, keybase_id: "", name: "", vote_address: "Hp1Eieo4bm5u94AG26mybZJB6NsKaB1KYR8DCPriupDA", score: 3484540, average_position: 58.4812256901997, commission: 10, epoch_credits: 412229, data_center_concentration: 0.281866666666667, base_score: 367520.0, mult: 9.48122569019974, avg_score: 3484540.0 }
- has 10892.98, should_have 33976.69, to balance +stake 23083.71 (accum +stake to this point 282812.66)
+ has 10892.98, should_have 33976.84, to balance +stake 23083.86 (accum +stake to this point 282813.95)
 -------------------------------------------------------------
 10) #35 Validator 3w5guZWHiP1A1gSnhksgtTXejAYUnTQqWvXWd9BfSdUL, marinade-staked 12946.55 SOL, score-pct:0.4967%
 ValidatorScoreRecord { rank: 35, pct: 0.496668237941306, epoch: 239, keybase_id: "ttbtc", name: "ttbtc", vote_address: "3w5guZWHiP1A1gSnhksgtTXejAYUnTQqWvXWd9BfSdUL", score: 3689875, average_position: 58.9586111204634, commission: 10, epoch_credits: 412204, data_center_concentration: 0.0374, base_score: 370521.0, mult: 9.95861112046342, avg_score: 3689875.0 }
- has 12946.55, should_have 35978.85, to balance +stake 23032.30 (accum +stake to this point 305844.96)
+ has 12946.55, should_have 35979.00, to balance +stake 23032.45 (accum +stake to this point 305846.40)
 -------------------------------------------------------------
 11) #15 Validator 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru, marinade-staked 27097.78 SOL, score-pct:0.6897%
 ValidatorScoreRecord { rank: 15, pct: 0.68967588085299, epoch: 239, keybase_id: "ownage", name: "Stake.su | low fees", vote_address: "2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru", score: 5123778, average_position: 62.1239932863642, commission: 1, epoch_credits: 411982, data_center_concentration: 1.4119, base_score: 390413.0, mult: 13.1239932863642, avg_score: 5123778.0 }
- has 27097.78, should_have 49960.41, to balance +stake 22862.63 (accum +stake to this point 328707.59)
+ has 27097.78, should_have 49960.62, to balance +stake 22862.84 (accum +stake to this point 328709.24)
 -------------------------------------------------------------
 12) #125 Validator 9nyiCpH8tfzSDXWP5BX5u5Fyi7Mz1DcMPp5a7aUhDybE, marinade-staked 11218.39 SOL, score-pct:0.4674%
 ValidatorScoreRecord { rank: 125, pct: 0.467434754985702, epoch: 239, keybase_id: "in_extremo", name: "in_extremo", vote_address: "9nyiCpH8tfzSDXWP5BX5u5Fyi7Mz1DcMPp5a7aUhDybE", score: 3472692, average_position: 58.4534633707981, commission: 10, epoch_credits: 412034, data_center_concentration: 0.281866666666667, base_score: 367346.0, mult: 9.45346337079811, avg_score: 3472692.0 }
- has 11218.39, should_have 33861.17, to balance +stake 22642.78 (accum +stake to this point 351350.37)
+ has 11218.39, should_have 33861.31, to balance +stake 22642.92 (accum +stake to this point 351352.16)
 -------------------------------------------------------------
 13) #119 Validator BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg, marinade-staked 11541.71 SOL, score-pct:0.4696%
 ValidatorScoreRecord { rank: 119, pct: 0.469633360358116, epoch: 239, keybase_id: "clawmvp", name: "01node", vote_address: "BH7asDZbKkTmT3UWiNfmMVRgQEEpXoVThGPmQfgWwDhg", score: 3489026, average_position: 58.4917266759646, commission: 5, epoch_credits: 412027, data_center_concentration: 1.9285, base_score: 367586.0, mult: 9.4917266759646, avg_score: 3489026.0 }
- has 11541.71, should_have 34020.44, to balance +stake 22478.72 (accum +stake to this point 373829.09)
+ has 11541.71, should_have 34020.58, to balance +stake 22478.87 (accum +stake to this point 373831.02)
 -------------------------------------------------------------
 14) #110 Validator 8ZvTbWfA7txjkNubA9jnv8CWQtwbaZSzpf7vaDDcxMr5, marinade-staked 11914.01 SOL, score-pct:0.4729%
 ValidatorScoreRecord { rank: 110, pct: 0.47292130779487, epoch: 239, keybase_id: "", name: "", vote_address: "8ZvTbWfA7txjkNubA9jnv8CWQtwbaZSzpf7vaDDcxMr5", score: 3513453, average_position: 58.548854461717, commission: 10, epoch_credits: 412053, data_center_concentration: 0.2348, base_score: 367945.0, mult: 9.54885446171702, avg_score: 3513453.0 }
- has 11914.01, should_have 34258.62, to balance +stake 22344.61 (accum +stake to this point 396173.70)
+ has 11914.01, should_have 34258.76, to balance +stake 22344.75 (accum +stake to this point 396175.78)
 -------------------------------------------------------------
 15) #136 Validator XBtfuT5gYU27UAukT3pEzgiKgHpHNQhSoa3zX2PYtiT, marinade-staked 11148.51 SOL, score-pct:0.4613%
 ValidatorScoreRecord { rank: 136, pct: 0.461347468995619, epoch: 239, keybase_id: "troo", name: "troo", vote_address: "XBtfuT5gYU27UAukT3pEzgiKgHpHNQhSoa3zX2PYtiT", score: 3427468, average_position: 58.3473267434194, commission: 10, epoch_credits: 412299, data_center_concentration: 0.354933333333333, base_score: 366679.0, mult: 9.34732674341936, avg_score: 3427468.0 }
- has 11148.51, should_have 33420.20, to balance +stake 22271.69 (accum +stake to this point 418445.39)
+ has 11148.51, should_have 33420.34, to balance +stake 22271.83 (accum +stake to this point 418447.61)
 -------------------------------------------------------------
 16) #26 Validator 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk, marinade-staked 16651.61 SOL, score-pct:0.5339%
 ValidatorScoreRecord { rank: 26, pct: 0.533941692581715, epoch: 239, keybase_id: "stakedotfish", name: "stake·fish 🐟", vote_address: "7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk", score: 3966789, average_position: 59.5921701551179, commission: 8, epoch_credits: 412233, data_center_concentration: 0.384266666666667, base_score: 374502.0, mult: 10.5921701551179, avg_score: 3966789.0 }
- has 16651.61, should_have 38678.96, to balance +stake 22027.34 (accum +stake to this point 440472.74)
+ has 16651.61, should_have 38679.12, to balance +stake 22027.51 (accum +stake to this point 440475.11)
 -------------------------------------------------------------
 17) #27 Validator GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt, marinade-staked 16502.30 SOL, score-pct:0.5293%
 ValidatorScoreRecord { rank: 27, pct: 0.529320233241906, epoch: 239, keybase_id: "vclouds", name: "Stakeconomy", vote_address: "GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt", score: 3932455, average_position: 59.5142198954865, commission: 9, epoch_credits: 411827, data_center_concentration: 0.0606666666666667, base_score: 374013.0, mult: 10.5142198954865, avg_score: 3932455.0 }
- has 16502.30, should_have 38344.18, to balance +stake 21841.88 (accum +stake to this point 462314.62)
+ has 16502.30, should_have 38344.34, to balance +stake 21842.04 (accum +stake to this point 462317.15)
 -------------------------------------------------------------
 18) #123 Validator 2YNubqM7eHLEL7JnygJYSWPq42LXYKiL5GkXfvEbZGQW, marinade-staked 12242.49 SOL, score-pct:0.4689%
 ValidatorScoreRecord { rank: 123, pct: 0.468883487055207, epoch: 239, keybase_id: "", name: "pafnutij", vote_address: "2YNubqM7eHLEL7JnygJYSWPq42LXYKiL5GkXfvEbZGQW", score: 3483455, average_position: 58.4786865578496, commission: 10, epoch_credits: 412212, data_center_concentration: 0.281866666666667, base_score: 367504.0, mult: 9.47868655784958, avg_score: 3483455.0 }
- has 12242.49, should_have 33966.11, to balance +stake 21723.63 (accum +stake to this point 484038.25)
+ has 12242.49, should_have 33966.26, to balance +stake 21723.77 (accum +stake to this point 484040.92)
 -------------------------------------------------------------
 19) #42 Validator 3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg, marinade-staked 14440.20 SOL, score-pct:0.4950%
 ValidatorScoreRecord { rank: 42, pct: 0.495008313767643, epoch: 239, keybase_id: "asaf91", name: "asaf91", vote_address: "3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg", score: 3677543, average_position: 58.930127175482, commission: 10, epoch_credits: 412010, data_center_concentration: 0.0378, base_score: 370342.0, mult: 9.93012717548205, avg_score: 3677543.0 }
- has 14440.20, should_have 35858.61, to balance +stake 21418.40 (accum +stake to this point 505456.65)
+ has 14440.20, should_have 35858.76, to balance +stake 21418.55 (accum +stake to this point 505459.48)
 -------------------------------------------------------------
 20) #180 Validator 5TFdzjKE6LnkhQArxWjt26yVCXskPo3fUXE8F351Cfn7, marinade-staked 9945.89 SOL, score-pct:0.4329%
 ValidatorScoreRecord { rank: 180, pct: 0.432907874523333, epoch: 239, keybase_id: "", name: "", vote_address: "5TFdzjKE6LnkhQArxWjt26yVCXskPo3fUXE8F351Cfn7", score: 3216183, average_position: 57.8469701839044, commission: 10, epoch_credits: 412001, data_center_concentration: 0.587866666666667, base_score: 363535.0, mult: 8.84697018390443, avg_score: 3216183.0 }
- has 9945.89, should_have 31360.03, to balance +stake 21414.14 (accum +stake to this point 526870.79)
+ has 9945.89, should_have 31360.16, to balance +stake 21414.27 (accum +stake to this point 526873.75)
 -------------------------------------------------------------
 21) #159 Validator HCHMhXLB5S3R9xDq8SN2RoDcbnvToxxsGEZJPcT7SoDL, marinade-staked 10491.24 SOL, score-pct:0.4398%
 ValidatorScoreRecord { rank: 159, pct: 0.439848812727928, epoch: 239, keybase_id: "colinka", name: "Colinka", vote_address: "HCHMhXLB5S3R9xDq8SN2RoDcbnvToxxsGEZJPcT7SoDL", score: 3267749, average_position: 57.9697929416588, commission: 10, epoch_credits: 412032, data_center_concentration: 0.527666666666667, base_score: 364306.0, mult: 8.9697929416588, avg_score: 3267749.0 }
- has 10491.24, should_have 31862.83, to balance +stake 21371.59 (accum +stake to this point 548242.38)
+ has 10491.24, should_have 31862.96, to balance +stake 21371.73 (accum +stake to this point 548245.47)
 -------------------------------------------------------------
 22) #181 Validator CjxgHgyBPkUo6GWoKn6RWEprCVRqhKxDsyKKYV4GMBz, marinade-staked 10028.24 SOL, score-pct:0.4326%
 ValidatorScoreRecord { rank: 181, pct: 0.432568540364899, epoch: 239, keybase_id: "juliya1988", name: "Juliya", vote_address: "CjxgHgyBPkUo6GWoKn6RWEprCVRqhKxDsyKKYV4GMBz", score: 3213662, average_position: 57.8409584703639, commission: 10, epoch_credits: 411116, data_center_concentration: 0.527666666666667, base_score: 363497.0, mult: 8.84095847036389, avg_score: 3213662.0 }
- has 10028.24, should_have 31335.44, to balance +stake 21307.21 (accum +stake to this point 569549.59)
+ has 10028.24, should_have 31335.58, to balance +stake 21307.34 (accum +stake to this point 569552.81)
 -------------------------------------------------------------
 23) #155 Validator 8MMpxmaVXswFA9i7yVG8SYEpsG3NF7ZGjMaWxDk2Y5EK, marinade-staked 10758.19 SOL, score-pct:0.4412%
 ValidatorScoreRecord { rank: 155, pct: 0.441192016046853, epoch: 239, keybase_id: "mrstillalive", name: "mrstillalive", vote_address: "8MMpxmaVXswFA9i7yVG8SYEpsG3NF7ZGjMaWxDk2Y5EK", score: 3277728, average_position: 57.9934561896569, commission: 10, epoch_credits: 409801, data_center_concentration: 0.354933333333333, base_score: 364457.0, mult: 8.99345618965686, avg_score: 3277728.0 }
- has 10758.19, should_have 31960.13, to balance +stake 21201.94 (accum +stake to this point 590751.53)
+ has 10758.19, should_have 31960.27, to balance +stake 21202.08 (accum +stake to this point 590754.89)
 -------------------------------------------------------------
 24) #135 Validator BHZCk3XnebkC7QKk6az18LBPrqgrL6HRp8bUKX9Mg46v, marinade-staked 12395.53 SOL, score-pct:0.4616%
 ValidatorScoreRecord { rank: 135, pct: 0.461575486474551, epoch: 239, keybase_id: "", name: "", vote_address: "BHZCk3XnebkC7QKk6az18LBPrqgrL6HRp8bUKX9Mg46v", score: 3429162, average_position: 58.3512835316182, commission: 10, epoch_credits: 410665, data_center_concentration: 0.2348, base_score: 366705.0, mult: 9.3512835316182, avg_score: 3429162.0 }
- has 12395.53, should_have 33436.72, to balance +stake 21041.19 (accum +stake to this point 611792.72)
+ has 12395.53, should_have 33436.86, to balance +stake 21041.33 (accum +stake to this point 611796.22)
 -------------------------------------------------------------
 25) #173 Validator 7ZJHBz4SzQw1GDQZRaCMLvo7uoUo7cY1BUioA7mdfD65, marinade-staked 10564.86 SOL, score-pct:0.4344%
 ValidatorScoreRecord { rank: 173, pct: 0.434398198919277, epoch: 239, keybase_id: "", name: "", vote_address: "7ZJHBz4SzQw1GDQZRaCMLvo7uoUo7cY1BUioA7mdfD65", score: 3227255, average_position: 57.8733748932212, commission: 10, epoch_credits: 412189, data_center_concentration: 0.587866666666667, base_score: 363701.0, mult: 8.87337489322115, avg_score: 3227255.0 }
- has 10564.86, should_have 31467.99, to balance +stake 20903.12 (accum +stake to this point 632695.85)
+ has 10564.86, should_have 31468.12, to balance +stake 20903.25 (accum +stake to this point 632699.47)
 -------------------------------------------------------------
 26) #194 Validator BqXmcTyPCCJ2FCnaSZikrH2z61DVjrNsUNs1mqve9Eai, marinade-staked 10174.45 SOL, score-pct:0.4250%
 ValidatorScoreRecord { rank: 194, pct: 0.424984872843953, epoch: 239, keybase_id: "", name: "", vote_address: "BqXmcTyPCCJ2FCnaSZikrH2z61DVjrNsUNs1mqve9Eai", score: 3157321, average_position: 57.7062475468041, commission: 10, epoch_credits: 412262, data_center_concentration: 0.678133333333333, base_score: 362650.0, mult: 8.70624754680415, avg_score: 3157321.0 }
- has 10174.45, should_have 30786.08, to balance +stake 20611.63 (accum +stake to this point 653307.48)
+ has 10174.45, should_have 30786.21, to balance +stake 20611.76 (accum +stake to this point 653311.23)
 -------------------------------------------------------------
 27) #118 Validator AqP3MyNwDP4L1GJKYhzmaAUdrjzpqJUZjahM7kHpgavm, marinade-staked 13552.73 SOL, score-pct:0.4703%
 ValidatorScoreRecord { rank: 118, pct: 0.470330334682736, epoch: 239, keybase_id: "zoe2021", name: "Zoe", vote_address: "AqP3MyNwDP4L1GJKYhzmaAUdrjzpqJUZjahM7kHpgavm", score: 3494204, average_position: 58.5037981519761, commission: 10, epoch_credits: 410684, data_center_concentration: 0.1584, base_score: 367664.0, mult: 9.50379815197615, avg_score: 3494204.0 }
- has 13552.73, should_have 34070.92, to balance +stake 20518.20 (accum +stake to this point 673825.68)
+ has 13552.73, should_have 34071.07, to balance +stake 20518.34 (accum +stake to this point 673829.57)
 -------------------------------------------------------------
 28) #102 Validator HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M, marinade-staked 14100.81 SOL, score-pct:0.4775%
 ValidatorScoreRecord { rank: 102, pct: 0.477500905602242, epoch: 239, keybase_id: "", name: "PieceOfGod", vote_address: "HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M", score: 3547476, average_position: 58.6282127933365, commission: 10, epoch_credits: 409910, data_center_concentration: 0.0384, base_score: 368446.0, mult: 9.62821279333651, avg_score: 3547476.0 }
- has 14100.81, should_have 34590.36, to balance +stake 20489.56 (accum +stake to this point 694315.23)
+ has 14100.81, should_have 34590.51, to balance +stake 20489.70 (accum +stake to this point 694319.27)
 -------------------------------------------------------------
 29) #49 Validator 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh, marinade-staked 15716.89 SOL, score-pct:0.4923%
 ValidatorScoreRecord { rank: 49, pct: 0.492292429073191, epoch: 239, keybase_id: "monolist", name: "Monolist Validator", vote_address: "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh", score: 3657366, average_position: 58.8834913282464, commission: 10, epoch_credits: 412249, data_center_concentration: 0.0789333333333333, base_score: 370048.0, mult: 9.88349132824641, avg_score: 3657366.0 }
- has 15716.89, should_have 35661.87, to balance +stake 19944.98 (accum +stake to this point 714260.21)
+ has 15716.89, should_have 35662.02, to balance +stake 19945.12 (accum +stake to this point 714264.40)
 -------------------------------------------------------------
 30) #69 Validator CRzMxdyS56N2vkb55X5q155sSdVkjZhiFedWcbscCf7K, marinade-staked 15596.91 SOL, score-pct:0.4867%
 ValidatorScoreRecord { rank: 69, pct: 0.486667504381886, epoch: 239, keybase_id: "hashquark", name: "HashQuark", vote_address: "CRzMxdyS56N2vkb55X5q155sSdVkjZhiFedWcbscCf7K", score: 3615577, average_position: 58.786642597185, commission: 10, epoch_credits: 411355, data_center_concentration: 0.0629666666666667, base_score: 369440.0, mult: 9.78664259718497, avg_score: 3615577.0 }
- has 15596.91, should_have 35254.40, to balance +stake 19657.48 (accum +stake to this point 733917.69)
+ has 15596.91, should_have 35254.54, to balance +stake 19657.63 (accum +stake to this point 733922.03)
 -------------------------------------------------------------
 31) #111 Validator 68PdgNn1RC2Ltz73ZY9EDzKphEwQWEDErKXpEPfqEtiS, marinade-staked 14758.17 SOL, score-pct:0.4727%
 ValidatorScoreRecord { rank: 111, pct: 0.472746593103221, epoch: 239, keybase_id: "socata2021", name: "Socata", vote_address: "68PdgNn1RC2Ltz73ZY9EDzKphEwQWEDErKXpEPfqEtiS", score: 3512155, average_position: 58.5458177150152, commission: 10, epoch_credits: 410977, data_center_concentration: 0.1584, base_score: 367926.0, mult: 9.54581771501518, avg_score: 3512155.0 }
- has 14758.17, should_have 34245.96, to balance +stake 19487.79 (accum +stake to this point 753405.48)
+ has 14758.17, should_have 34246.10, to balance +stake 19487.93 (accum +stake to this point 753409.96)
 -------------------------------------------------------------
 32) #55 Validator 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD, marinade-staked 16161.13 SOL, score-pct:0.4899%
 ValidatorScoreRecord { rank: 55, pct: 0.489855441790986, epoch: 239, keybase_id: "art3mis", name: "PoSFreak", vote_address: "3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD", score: 3639261, average_position: 58.841558273142, commission: 10, epoch_credits: 411516, data_center_concentration: 0.0469, base_score: 369785.0, mult: 9.84155827314197, avg_score: 3639261.0 }
- has 16161.13, should_have 35485.33, to balance +stake 19324.21 (accum +stake to this point 772729.68)
+ has 16161.13, should_have 35485.48, to balance +stake 19324.35 (accum +stake to this point 772734.31)
 -------------------------------------------------------------
 33) #62 Validator J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw, marinade-staked 16121.85 SOL, score-pct:0.4879%
 ValidatorScoreRecord { rank: 62, pct: 0.487890776429425, epoch: 239, keybase_id: "", name: "TR 3970X, G.Skill 256 Gb, Samsung 970 Pro 1 Tb, 1 Gbit internet", vote_address: "J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw", score: 3624665, average_position: 58.8077372376304, commission: 10, epoch_credits: 411269, data_center_concentration: 0.0461, base_score: 369572.0, mult: 9.80773723763041, avg_score: 3624665.0 }
- has 16121.85, should_have 35343.01, to balance +stake 19221.16 (accum +stake to this point 791950.85)
+ has 16121.85, should_have 35343.16, to balance +stake 19221.31 (accum +stake to this point 791955.62)
 -------------------------------------------------------------
 34) #33 Validator T2B5S9sTJCRi9mcpCbHi2rAdqfT3Y7tsm6ahnWhvH75, marinade-staked 16826.94 SOL, score-pct:0.4969%
 ValidatorScoreRecord { rank: 33, pct: 0.496929367757792, epoch: 239, keybase_id: "", name: "", vote_address: "T2B5S9sTJCRi9mcpCbHi2rAdqfT3Y7tsm6ahnWhvH75", score: 3691815, average_position: 58.9630963561503, commission: 10, epoch_credits: 412246, data_center_concentration: 0.0382, base_score: 370549.0, mult: 9.96309635615027, avg_score: 3691815.0 }
- has 16826.94, should_have 35997.77, to balance +stake 19170.83 (accum +stake to this point 811121.67)
+ has 16826.94, should_have 35997.92, to balance +stake 19170.98 (accum +stake to this point 811126.60)
 -------------------------------------------------------------
 35) #88 Validator 4D9Ud3zA43DD8T7fkQA2evLYGAdDnPBkKBtMp4rt6uwa, marinade-staked 15800.32 SOL, score-pct:0.4822%
 ValidatorScoreRecord { rank: 88, pct: 0.48224646890638, epoch: 239, keybase_id: "white21", name: "WhiteMushroom", vote_address: "4D9Ud3zA43DD8T7fkQA2evLYGAdDnPBkKBtMp4rt6uwa", score: 3582732, average_position: 58.7103539883563, commission: 10, epoch_credits: 412174, data_center_concentration: 0.161433333333333, base_score: 368960.0, mult: 9.7103539883563, avg_score: 3582732.0 }
- has 15800.32, should_have 34934.13, to balance +stake 19133.81 (accum +stake to this point 830255.49)
+ has 15800.32, should_have 34934.28, to balance +stake 19133.96 (accum +stake to this point 830260.56)
 -------------------------------------------------------------
 36) #75 Validator MENFRm8PpkP2QwFV3iubwiqG6GyJ4LZQ7f9k8DUE9Xy, marinade-staked 16047.59 SOL, score-pct:0.4856%
 ValidatorScoreRecord { rank: 75, pct: 0.485635907003768, epoch: 239, keybase_id: "", name: "", vote_address: "MENFRm8PpkP2QwFV3iubwiqG6GyJ4LZQ7f9k8DUE9Xy", score: 3607913, average_position: 58.7688598111597, commission: 10, epoch_credits: 412021, data_center_concentration: 0.120533333333333, base_score: 369328.0, mult: 9.76885981115965, avg_score: 3607913.0 }
- has 16047.59, should_have 35179.67, to balance +stake 19132.07 (accum +stake to this point 849387.56)
+ has 16047.59, should_have 35179.81, to balance +stake 19132.22 (accum +stake to this point 849392.78)
 -------------------------------------------------------------
 37) #131 Validator CgvxB5f9VWVvPFCeXAfgCrizLXdgM7WWimi6o8DH4ju1, marinade-staked 14688.52 SOL, score-pct:0.4638%
 ValidatorScoreRecord { rank: 131, pct: 0.463801550858595, epoch: 239, keybase_id: "donromero", name: "DonRomero", vote_address: "CgvxB5f9VWVvPFCeXAfgCrizLXdgM7WWimi6o8DH4ju1", score: 3445700, average_position: 58.3901836912689, commission: 10, epoch_credits: 411587, data_center_concentration: 0.281866666666667, base_score: 366947.0, mult: 9.39018369126892, avg_score: 3445700.0 }
- has 14688.52, should_have 33597.98, to balance +stake 18909.46 (accum +stake to this point 868297.02)
+ has 14688.52, should_have 33598.12, to balance +stake 18909.60 (accum +stake to this point 868302.38)
 -------------------------------------------------------------
 38) #147 Validator 5nH6sYJNSa71DCBQHgRCsX1dh5W1bWrUPeYieo9xyZ7f, marinade-staked 13829.00 SOL, score-pct:0.4515%
 ValidatorScoreRecord { rank: 147, pct: 0.451487126363311, epoch: 239, keybase_id: "gervalidator", name: "🚀 GERvalidator 🚀", vote_address: "5nH6sYJNSa71DCBQHgRCsX1dh5W1bWrUPeYieo9xyZ7f", score: 3354213, average_position: 58.1746697798337, commission: 10, epoch_credits: 407881, data_center_concentration: 0.1224, base_score: 365595.0, mult: 9.17466977983373, avg_score: 3354213.0 }
- has 13829.00, should_have 32705.91, to balance +stake 18876.91 (accum +stake to this point 887173.93)
+ has 13829.00, should_have 32706.05, to balance +stake 18877.05 (accum +stake to this point 887179.43)
 -------------------------------------------------------------
 39) #47 Validator ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N, marinade-staked 16855.77 SOL, score-pct:0.4926%
 ValidatorScoreRecord { rank: 47, pct: 0.49258680583023, epoch: 239, keybase_id: "", name: "", vote_address: "ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N", score: 3659553, average_position: 58.8885457487602, commission: 10, epoch_credits: 412315, data_center_concentration: 0.0810666666666667, base_score: 370080.0, mult: 9.88854574876021, avg_score: 3659553.0 }
- has 16855.77, should_have 35683.19, to balance +stake 18827.42 (accum +stake to this point 906001.35)
+ has 16855.77, should_have 35683.34, to balance +stake 18827.57 (accum +stake to this point 906007.00)
 -------------------------------------------------------------
 40) #64 Validator 8GERjfptn6PXXEPVmRbJQ3KwESf2wLbamFk71LGsQHcZ, marinade-staked 16490.16 SOL, score-pct:0.4871%
 ValidatorScoreRecord { rank: 64, pct: 0.487066602271516, epoch: 239, keybase_id: "", name: "", vote_address: "8GERjfptn6PXXEPVmRbJQ3KwESf2wLbamFk71LGsQHcZ", score: 3618542, average_position: 58.7935288853046, commission: 10, epoch_credits: 412160, data_center_concentration: 0.1181, base_score: 369483.0, mult: 9.79352888530462, avg_score: 3618542.0 }
- has 16490.16, should_have 35283.31, to balance +stake 18793.14 (accum +stake to this point 924794.50)
+ has 16490.16, should_have 35283.45, to balance +stake 18793.29 (accum +stake to this point 924800.28)
 -------------------------------------------------------------
 41) #93 Validator LunaFpQkZsZVJL2P2BUqNDJqyVYqrw9buQnjQtMLXdK, marinade-staked 16019.13 SOL, score-pct:0.4802%
 ValidatorScoreRecord { rank: 93, pct: 0.480212213794755, epoch: 239, keybase_id: "lunanova", name: "LunaNova", vote_address: "LunaFpQkZsZVJL2P2BUqNDJqyVYqrw9buQnjQtMLXdK", score: 3567619, average_position: 58.6751874278313, commission: 8, epoch_credits: 412227, data_center_concentration: 0.849766666666667, base_score: 368739.0, mult: 9.67518742783133, avg_score: 3567619.0 }
- has 16019.13, should_have 34786.77, to balance +stake 18767.65 (accum +stake to this point 943562.14)
+ has 16019.13, should_have 34786.92, to balance +stake 18767.79 (accum +stake to this point 943568.08)
 -------------------------------------------------------------
 42) #128 Validator 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x, marinade-staked 15391.61 SOL, score-pct:0.4649%
 ValidatorScoreRecord { rank: 128, pct: 0.464873259930173, epoch: 239, keybase_id: "sebastianheyden", name: "StakeSquid", vote_address: "27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x", score: 3453662, average_position: 58.4088046522795, commission: 10, epoch_credits: 409504, data_center_concentration: 0.121, base_score: 367067.0, mult: 9.40880465227954, avg_score: 3453662.0 }
- has 15391.61, should_have 33675.61, to balance +stake 18284.00 (accum +stake to this point 961846.14)
+ has 15391.61, should_have 33675.75, to balance +stake 18284.14 (accum +stake to this point 961852.22)
 -------------------------------------------------------------
 43) #167 Validator 5XGMWvqZSBk1fktPtxbwaMF5dhkbrtchpwd4xiXG9q8u, marinade-staked 13517.37 SOL, score-pct:0.4362%
 ValidatorScoreRecord { rank: 167, pct: 0.43615692169361, epoch: 239, keybase_id: "", name: "Namdokmai", vote_address: "5XGMWvqZSBk1fktPtxbwaMF5dhkbrtchpwd4xiXG9q8u", score: 3240321, average_position: 57.9045241065601, commission: 10, epoch_credits: 411984, data_center_concentration: 0.557466666666667, base_score: 363896.0, mult: 8.90452410656012, avg_score: 3240321.0 }
- has 13517.37, should_have 31595.39, to balance +stake 18078.02 (accum +stake to this point 979924.16)
+ has 13517.37, should_have 31595.52, to balance +stake 18078.15 (accum +stake to this point 979930.37)
 -------------------------------------------------------------
 44) #182 Validator 3QUAqPGy4A4jgKzhvxfrNFdXZDGengT4P8L1y7hZpFbT, marinade-staked 13645.05 SOL, score-pct:0.4325%
 ValidatorScoreRecord { rank: 182, pct: 0.432470953191212, epoch: 239, keybase_id: "", name: "", vote_address: "3QUAqPGy4A4jgKzhvxfrNFdXZDGengT4P8L1y7hZpFbT", score: 3212937, average_position: 57.839232078282, commission: 10, epoch_credits: 411946, data_center_concentration: 0.587866666666667, base_score: 363486.0, mult: 8.83923207828204, avg_score: 3212937.0 }
- has 13645.05, should_have 31328.38, to balance +stake 17683.32 (accum +stake to this point 997607.48)
+ has 13645.05, should_have 31328.51, to balance +stake 17683.45 (accum +stake to this point 997613.82)
 -------------------------------------------------------------
 45) #161 Validator 3Q5XWkkEvmWFYPRyneCuhvJvhaRawhHQc1oK6XZUFc6b, marinade-staked 14138.87 SOL, score-pct:0.4386%
 ValidatorScoreRecord { rank: 161, pct: 0.438575602968062, epoch: 239, keybase_id: "", name: "paulg", vote_address: "3Q5XWkkEvmWFYPRyneCuhvJvhaRawhHQc1oK6XZUFc6b", score: 3258290, average_position: 57.9472916955343, commission: 10, epoch_credits: 412288, data_center_concentration: 0.557466666666667, base_score: 364165.0, mult: 8.94729169553431, avg_score: 3258290.0 }
- has 14138.87, should_have 31770.60, to balance +stake 17631.73 (accum +stake to this point 1015239.21)
+ has 14138.87, should_have 31770.73, to balance +stake 17631.86 (accum +stake to this point 1015245.68)
 -------------------------------------------------------------
 46) #168 Validator 3Ueg3qrAVv95tJzTiKM2dd33NswZT77yRf9wXcBDCn2c, marinade-staked 13965.48 SOL, score-pct:0.4354%
 ValidatorScoreRecord { rank: 168, pct: 0.435417816630556, epoch: 239, keybase_id: "", name: "", vote_address: "3Ueg3qrAVv95tJzTiKM2dd33NswZT77yRf9wXcBDCn2c", score: 3234830, average_position: 57.8914387844955, commission: 10, epoch_credits: 412223, data_center_concentration: 0.5811, base_score: 363814.0, mult: 8.89143878449547, avg_score: 3234830.0 }
- has 13965.48, should_have 31541.85, to balance +stake 17576.36 (accum +stake to this point 1032815.58)
+ has 13965.48, should_have 31541.98, to balance +stake 17576.50 (accum +stake to this point 1032822.18)
 -------------------------------------------------------------
 47) #183 Validator 2zTwGrCrmXNvuhmasxZerKd8ep43Rr2MMoxgs8xS8gWb, marinade-staked 13801.78 SOL, score-pct:0.4305%
 ValidatorScoreRecord { rank: 183, pct: 0.430504537990675, epoch: 239, keybase_id: "", name: "", vote_address: "2zTwGrCrmXNvuhmasxZerKd8ep43Rr2MMoxgs8xS8gWb", score: 3198328, average_position: 57.8043461515669, commission: 10, epoch_credits: 411273, data_center_concentration: 0.557466666666667, base_score: 363267.0, mult: 8.80434615156694, avg_score: 3198328.0 }
- has 13801.78, should_have 31185.93, to balance +stake 17384.15 (accum +stake to this point 1050199.72)
+ has 13801.78, should_have 31186.06, to balance +stake 17384.28 (accum +stake to this point 1050206.46)
 -------------------------------------------------------------
 48) #172 Validator DggvF7asrbjrqvcvPPRKovy3VVvjCgvc2GnWVusxq2MP, marinade-staked 14175.81 SOL, score-pct:0.4344%
 ValidatorScoreRecord { rank: 172, pct: 0.434448136631605, epoch: 239, keybase_id: "", name: "", vote_address: "DggvF7asrbjrqvcvPPRKovy3VVvjCgvc2GnWVusxq2MP", score: 3227626, average_position: 57.8742718977308, commission: 10, epoch_credits: 412196, data_center_concentration: 0.587866666666667, base_score: 363706.0, mult: 8.8742718977308, avg_score: 3227626.0 }
- has 14175.81, should_have 31471.60, to balance +stake 17295.80 (accum +stake to this point 1067495.52)
+ has 14175.81, should_have 31471.73, to balance +stake 17295.93 (accum +stake to this point 1067502.38)
 -------------------------------------------------------------
 49) #175 Validator HkqCfZFY5Hh8UDSGH6AJqtxpS6CFC2aqqFgqiDYtSPZw, marinade-staked 14237.38 SOL, score-pct:0.4339%
 ValidatorScoreRecord { rank: 175, pct: 0.43386072914751, epoch: 239, keybase_id: "", name: "johnny83", vote_address: "HkqCfZFY5Hh8UDSGH6AJqtxpS6CFC2aqqFgqiDYtSPZw", score: 3223262, average_position: 57.8638566929295, commission: 10, epoch_credits: 412121, data_center_concentration: 0.587866666666667, base_score: 363641.0, mult: 8.86385669292954, avg_score: 3223262.0 }
- has 14237.38, should_have 31429.05, to balance +stake 17191.67 (accum +stake to this point 1084687.19)
+ has 14237.38, should_have 31429.18, to balance +stake 17191.81 (accum +stake to this point 1084694.19)
 -------------------------------------------------------------
 50) #163 Validator Feoj2zcQvbS5Ywjsbwau2BrQjjdd1XvciB3ZFzNPccCj, marinade-staked 14665.69 SOL, score-pct:0.4371%
 ValidatorScoreRecord { rank: 163, pct: 0.437146522936293, epoch: 239, keybase_id: "brabashka", name: "brabashka", vote_address: "Feoj2zcQvbS5Ywjsbwau2BrQjjdd1XvciB3ZFzNPccCj", score: 3247673, average_position: 57.9220308583915, commission: 10, epoch_credits: 412109, data_center_concentration: 0.557466666666667, base_score: 364006.0, mult: 8.92203085839153, avg_score: 3247673.0 }
- has 14665.69, should_have 31667.08, to balance +stake 17001.38 (accum +stake to this point 1101688.58)
+ has 14665.69, should_have 31667.21, to balance +stake 17001.52 (accum +stake to this point 1101695.71)
 -------------------------------------------------------------
 51) #195 Validator E3ho8z7xVRu1MTirWMoPrBL2J2AD7XJzsz5M4mUDqLBN, marinade-staked 13784.33 SOL, score-pct:0.4249%
 ValidatorScoreRecord { rank: 195, pct: 0.424867229823536, epoch: 239, keybase_id: "", name: "", vote_address: "E3ho8z7xVRu1MTirWMoPrBL2J2AD7XJzsz5M4mUDqLBN", score: 3156447, average_position: 57.7041492851051, commission: 10, epoch_credits: 412247, data_center_concentration: 0.678133333333333, base_score: 362637.0, mult: 8.7041492851051, avg_score: 3156447.0 }
- has 13784.33, should_have 30777.56, to balance +stake 16993.23 (accum +stake to this point 1118681.81)
+ has 13784.33, should_have 30777.69, to balance +stake 16993.36 (accum +stake to this point 1118689.06)
 -------------------------------------------------------------
 52) #191 Validator 91Dcpfmirj8rtCJEeSByFy2AqiVjeR1KjmZr2sjHWNKZ, marinade-staked 14252.69 SOL, score-pct:0.4256%
 ValidatorScoreRecord { rank: 191, pct: 0.425587894275838, epoch: 239, keybase_id: "", name: "", vote_address: "91Dcpfmirj8rtCJEeSByFy2AqiVjeR1KjmZr2sjHWNKZ", score: 3161801, average_position: 57.7169904788427, commission: 10, epoch_credits: 412338, data_center_concentration: 0.678133333333333, base_score: 362717.0, mult: 8.71699047884269, avg_score: 3161801.0 }
- has 14252.69, should_have 30829.76, to balance +stake 16577.08 (accum +stake to this point 1135258.89)
+ has 14252.69, should_have 30829.89, to balance +stake 16577.21 (accum +stake to this point 1135266.27)
 -------------------------------------------------------------
 53) #193 Validator EoH47ZVKQGWpuniDeZY1EpoDPodVA6GGy5t9n3fJwUzr, marinade-staked 14443.35 SOL, score-pct:0.4251%
 ValidatorScoreRecord { rank: 193, pct: 0.425075460661734, epoch: 239, keybase_id: "", name: "", vote_address: "EoH47ZVKQGWpuniDeZY1EpoDPodVA6GGy5t9n3fJwUzr", score: 3157994, average_position: 57.7078639464791, commission: 10, epoch_credits: 412274, data_center_concentration: 0.678133333333333, base_score: 362660.0, mult: 8.70786394647914, avg_score: 3157994.0 }
- has 14443.35, should_have 30792.64, to balance +stake 16349.29 (accum +stake to this point 1151608.18)
+ has 14443.35, should_have 30792.77, to balance +stake 16349.42 (accum +stake to this point 1151615.69)
 -------------------------------------------------------------
 54) #200 Validator 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ, marinade-staked 14417.36 SOL, score-pct:0.4241%
 ValidatorScoreRecord { rank: 200, pct: 0.424123009846551, epoch: 239, keybase_id: "", name: "", vote_address: "6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ", score: 3150918, average_position: 57.6908932111284, commission: 10, epoch_credits: 412153, data_center_concentration: 0.678133333333333, base_score: 362554.0, mult: 8.69089321112835, avg_score: 3150918.0 }
- has 14417.36, should_have 30723.65, to balance +stake 16306.28 (accum +stake to this point 1167914.46)
+ has 14417.36, should_have 30723.77, to balance +stake 16306.41 (accum +stake to this point 1167922.10)
 -------------------------------------------------------------
 55) #132 Validator B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv, marinade-staked 18672.43 SOL, score-pct:0.4632%
 ValidatorScoreRecord { rank: 132, pct: 0.463193010703784, epoch: 239, keybase_id: "", name: "", vote_address: "B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv", score: 3441179, average_position: 58.3795498959493, commission: 10, epoch_credits: 411090, data_center_concentration: 0.251333333333333, base_score: 366881.0, mult: 9.37954989594931, avg_score: 3441179.0 }
- has 18672.43, should_have 33553.89, to balance +stake 14881.46 (accum +stake to this point 1182795.92)
+ has 18672.43, should_have 33554.03, to balance +stake 14881.60 (accum +stake to this point 1182803.70)
 -------------------------------------------------------------
 56) #166 Validator 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma, marinade-staked 16773.21 SOL, score-pct:0.4362%
 ValidatorScoreRecord { rank: 166, pct: 0.436162709622532, epoch: 239, keybase_id: "", name: "", vote_address: "6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma", score: 3240364, average_position: 57.9046195202033, commission: 10, epoch_credits: 412317, data_center_concentration: 0.5811, base_score: 363897.0, mult: 8.90461952020326, avg_score: 3240364.0 }
- has 16773.21, should_have 31595.81, to balance +stake 14822.59 (accum +stake to this point 1197618.51)
+ has 16773.21, should_have 31595.94, to balance +stake 14822.72 (accum +stake to this point 1197626.42)
 -------------------------------------------------------------
 57) #32 Validator 6cbqpwpD5ScxKdp7AVQGuL7bjCrT1UAtJHczQpmgmBEV, marinade-staked 21382.35 SOL, score-pct:0.4976%
 ValidatorScoreRecord { rank: 32, pct: 0.497603055763726, epoch: 239, keybase_id: "", name: "", vote_address: "6cbqpwpD5ScxKdp7AVQGuL7bjCrT1UAtJHczQpmgmBEV", score: 3696820, average_position: 58.974664432595, commission: 10, epoch_credits: 412345, data_center_concentration: 0.0395, base_score: 370621.0, mult: 9.97466443259498, avg_score: 3696820.0 }
- has 21382.35, should_have 36046.57, to balance +stake 14664.23 (accum +stake to this point 1212282.74)
+ has 21382.35, should_have 36046.72, to balance +stake 14664.38 (accum +stake to this point 1212290.80)
 -------------------------------------------------------------
 58) #1 Validator GHRvDXj9BfACkJ9CoLWbpi2UkMVti9DwXJGsaFT9XDcD, marinade-staked 52598.57 SOL, score-pct:0.9151%
 ValidatorScoreRecord { rank: 1, pct: 0.91507654289676, epoch: 239, keybase_id: "myvidster", name: "Team MyVidster | Austin TX | High APY!", vote_address: "GHRvDXj9BfACkJ9CoLWbpi2UkMVti9DwXJGsaFT9XDcD", score: 6798337, average_position: 65.5125206456264, commission: 0, epoch_credits: 412081, data_center_concentration: 0.0301, base_score: 411708.0, mult: 16.5125206456264, avg_score: 6798337.0 }
- has 52598.57, should_have 66288.52, to balance +stake 13689.95 (accum +stake to this point 1225972.69)
+ has 52598.57, should_have 66288.80, to balance +stake 13690.23 (accum +stake to this point 1225981.03)
 -------------------------------------------------------------
 59) #17 Validator Rada7HzSqbGPA3N1xQr2oPite8vkwUjEbDA4LDqLaeP, marinade-staked 34385.66 SOL, score-pct:0.6596%
 ValidatorScoreRecord { rank: 17, pct: 0.659640702440175, epoch: 239, keybase_id: "radiatenft", name: "RADIATE", vote_address: "Rada7HzSqbGPA3N1xQr2oPite8vkwUjEbDA4LDqLaeP", score: 4900639, average_position: 61.6491268261919, commission: 0, epoch_credits: 412321, data_center_concentration: 2.01213333333333, base_score: 387429.0, mult: 12.6491268261919, avg_score: 4900639.0 }
- has 34385.66, should_have 47784.65, to balance +stake 13398.98 (accum +stake to this point 1239371.67)
+ has 34385.66, should_have 47784.85, to balance +stake 13399.18 (accum +stake to this point 1239380.21)
 -------------------------------------------------------------
 60) #4 Validator 2vxNDV7aAbrb4Whnxs9LiuxCsm9oubX3c1hozXPsoD97, marinade-staked 51365.04 SOL, score-pct:0.8904%
 ValidatorScoreRecord { rank: 4, pct: 0.890352394983474, epoch: 239, keybase_id: "decentralizehk", name: "#decentralizehk", vote_address: "2vxNDV7aAbrb4Whnxs9LiuxCsm9oubX3c1hozXPsoD97", score: 6614655, average_position: 65.154620804663, commission: 0, epoch_credits: 412309, data_center_concentration: 0.230433333333333, base_score: 409459.0, mult: 16.154620804663, avg_score: 6614655.0 }
- has 51365.04, should_have 64497.50, to balance +stake 13132.45 (accum +stake to this point 1252504.13)
+ has 51365.04, should_have 64497.77, to balance +stake 13132.72 (accum +stake to this point 1252512.93)
 -------------------------------------------------------------
 61) #109 Validator 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB, marinade-staked 21353.38 SOL, score-pct:0.4739%
 ValidatorScoreRecord { rank: 109, pct: 0.473881834789944, epoch: 239, keybase_id: "", name: "", vote_address: "8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB", score: 3520589, average_position: 58.5655177389462, commission: 10, epoch_credits: 412170, data_center_concentration: 0.2348, base_score: 368050.0, mult: 9.56551773894616, avg_score: 3520589.0 }
- has 21353.38, should_have 34328.20, to balance +stake 12974.81 (accum +stake to this point 1265478.94)
+ has 21353.38, should_have 34328.34, to balance +stake 12974.95 (accum +stake to this point 1265487.89)
 -------------------------------------------------------------
 62) #23 Validator 3VpRubsCkx6ENRQJiRZ7JKEwERumjVV4qmJbAiVY6VVF, marinade-staked 28224.75 SOL, score-pct:0.5670%
 ValidatorScoreRecord { rank: 23, pct: 0.567039627615314, epoch: 239, keybase_id: "steakingio", name: "SteakingIO 🥩", vote_address: "3VpRubsCkx6ENRQJiRZ7JKEwERumjVV4qmJbAiVY6VVF", score: 4212682, average_position: 60.1453687348777, commission: 8, epoch_credits: 410967, data_center_concentration: 0.00916666666666667, base_score: 377976.0, mult: 11.1453687348777, avg_score: 4212682.0 }
- has 28224.75, should_have 41076.59, to balance +stake 12851.83 (accum +stake to this point 1278330.77)
+ has 28224.75, should_have 41076.76, to balance +stake 12852.01 (accum +stake to this point 1278339.90)
 -------------------------------------------------------------
 63) #144 Validator FMkT1RPT7N9bDEgqvcuiNtSNYgZ7WLDmsdiA4rMB67kh, marinade-staked 20083.69 SOL, score-pct:0.4533%
 ValidatorScoreRecord { rank: 144, pct: 0.453259847849455, epoch: 239, keybase_id: "niceonepv", name: "Gorbachev", vote_address: "FMkT1RPT7N9bDEgqvcuiNtSNYgZ7WLDmsdiA4rMB67kh", score: 3367383, average_position: 58.2055290912696, commission: 8, epoch_credits: 397675, data_center_concentration: 0.0051, base_score: 365800.0, mult: 9.2055290912696, avg_score: 3367383.0 }
- has 20083.69, should_have 32834.33, to balance +stake 12750.64 (accum +stake to this point 1291081.41)
+ has 20083.69, should_have 32834.47, to balance +stake 12750.77 (accum +stake to this point 1291090.67)
 -------------------------------------------------------------
 64) #9 Validator AKoVXpZmi8wSz3sGvCYEygbpdHvSRysWsh36b97iPvKh, marinade-staked 47510.39 SOL, score-pct:0.8277%
 ValidatorScoreRecord { rank: 9, pct: 0.827738579904072, epoch: 239, keybase_id: "genesysgo", name: "GenesysGo", vote_address: "AKoVXpZmi8wSz3sGvCYEygbpdHvSRysWsh36b97iPvKh", score: 6149481, average_position: 64.233856794211, commission: 2, epoch_credits: 412709, data_center_concentration: 0.0631333333333333, base_score: 403672.0, mult: 15.233856794211, avg_score: 6149481.0 }
- has 47510.39, should_have 59961.73, to balance +stake 12451.34 (accum +stake to this point 1303532.74)
+ has 47510.39, should_have 59961.98, to balance +stake 12451.59 (accum +stake to this point 1303542.25)
 -------------------------------------------------------------
 65) #7 Validator HLM6hyDWrEca9QMS92nDBa2AreU1qDkppttPVuJ7E2CU, marinade-staked 49475.75 SOL, score-pct:0.8416%
 ValidatorScoreRecord { rank: 7, pct: 0.841562980833036, epoch: 239, keybase_id: "popsteam", name: "P-OPS Team | 🔥 0% FEE Until end of 2021 🔥", vote_address: "HLM6hyDWrEca9QMS92nDBa2AreU1qDkppttPVuJ7E2CU", score: 6252186, average_position: 64.438982803877, commission: 0, epoch_credits: 412147, data_center_concentration: 0.5811, base_score: 404961.0, mult: 15.438982803877, avg_score: 6252186.0 }
- has 49475.75, should_have 60963.17, to balance +stake 11487.42 (accum +stake to this point 1315020.17)
+ has 49475.75, should_have 60963.43, to balance +stake 11487.68 (accum +stake to this point 1315029.93)
 -------------------------------------------------------------
 66) #14 Validator 5CgQubGD1uwodwCe5UXDADbC69SiqXR8qq6pDMSm7ut5, marinade-staked 38729.73 SOL, score-pct:0.6908%
 ValidatorScoreRecord { rank: 14, pct: 0.690757685149432, epoch: 239, keybase_id: "nbolam", name: "Alpha Virtual", vote_address: "5CgQubGD1uwodwCe5UXDADbC69SiqXR8qq6pDMSm7ut5", score: 5131815, average_position: 62.1409780417516, commission: 5, epoch_credits: 412171, data_center_concentration: 0.0843333333333333, base_score: 390520.0, mult: 13.1409780417516, avg_score: 5131815.0 }
- has 38729.73, should_have 50038.77, to balance +stake 11309.05 (accum +stake to this point 1326329.21)
+ has 38729.73, should_have 50038.98, to balance +stake 11309.26 (accum +stake to this point 1326339.19)
 -------------------------------------------------------------
 67) #53 Validator CrLn7zEBytbmRBUGhkDyyUbGCa6H7bMCnw94Dip8QbcJ, marinade-staked 24512.82 SOL, score-pct:0.4914%
 ValidatorScoreRecord { rank: 53, pct: 0.491393146442293, epoch: 239, keybase_id: "hukutu4", name: "hukutu4", vote_address: "CrLn7zEBytbmRBUGhkDyyUbGCa6H7bMCnw94Dip8QbcJ", score: 3650685, average_position: 58.8679952857535, commission: 10, epoch_credits: 411611, data_center_concentration: 0.0403, base_score: 369952.0, mult: 9.86799528575347, avg_score: 3650685.0 }
- has 24512.82, should_have 35596.72, to balance +stake 11083.90 (accum +stake to this point 1337413.12)
+ has 24512.82, should_have 35596.87, to balance +stake 11084.05 (accum +stake to this point 1337423.24)
 -------------------------------------------------------------
 68) #20 Validator RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y, marinade-staked 31301.87 SOL, score-pct:0.5822%
 ValidatorScoreRecord { rank: 20, pct: 0.582175196349633, epoch: 239, keybase_id: "rbf_capital", name: "Rockaway Blockchain Fund", vote_address: "RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y", score: 4325128, average_position: 60.395410920637, commission: 6, epoch_credits: 412052, data_center_concentration: 0.6292, base_score: 379550.0, mult: 11.395410920637, avg_score: 4325128.0 }
- has 31301.87, should_have 42173.01, to balance +stake 10871.14 (accum +stake to this point 1348284.26)
+ has 31301.87, should_have 42173.19, to balance +stake 10871.32 (accum +stake to this point 1348294.56)
 -------------------------------------------------------------
 69) #22 Validator BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R, marinade-staked 30576.07 SOL, score-pct:0.5700%
 ValidatorScoreRecord { rank: 22, pct: 0.569983125979703, epoch: 239, keybase_id: "mecavalidator", name: "Coinmeca Validator", vote_address: "BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R", score: 4234550, average_position: 60.1940743297182, commission: 8, epoch_credits: 411749, data_center_concentration: 0.0424, base_score: 378285.0, mult: 11.1940743297182, avg_score: 4234550.0 }
- has 30576.07, should_have 41289.81, to balance +stake 10713.75 (accum +stake to this point 1358998.00)
+ has 30576.07, should_have 41289.99, to balance +stake 10713.92 (accum +stake to this point 1359008.47)
 -------------------------------------------------------------
 70) #108 Validator BGLiWCvSstg7chDyWSDe5JrSD694PKpz1jHmsk5XyVxn, marinade-staked 23788.02 SOL, score-pct:0.4742%
 ValidatorScoreRecord { rank: 108, pct: 0.47424768573902, epoch: 239, keybase_id: "", name: "", vote_address: "BGLiWCvSstg7chDyWSDe5JrSD694PKpz1jHmsk5XyVxn", score: 3523307, average_position: 58.5718617458286, commission: 10, epoch_credits: 412216, data_center_concentration: 0.2348, base_score: 368090.0, mult: 9.57186174582858, avg_score: 3523307.0 }
- has 23788.02, should_have 34354.70, to balance +stake 10566.68 (accum +stake to this point 1369564.68)
+ has 23788.02, should_have 34354.84, to balance +stake 10566.83 (accum +stake to this point 1369575.30)
 -------------------------------------------------------------
 71) #10 Validator GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL, marinade-staked 48757.86 SOL, score-pct:0.8185%
 ValidatorScoreRecord { rank: 10, pct: 0.818471701890777, epoch: 239, keybase_id: "laine_sa", name: "Laine 0% Decentralized Low Stake - We ❤\u{fe0f} Solana", vote_address: "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL", score: 6080635, average_position: 64.0957663017878, commission: 0, epoch_credits: 412222, data_center_concentration: 0.761533333333333, base_score: 402804.0, mult: 15.0957663017878, avg_score: 6080635.0 }
- has 48757.86, should_have 59290.43, to balance +stake 10532.57 (accum +stake to this point 1380097.25)
+ has 48757.86, should_have 59290.68, to balance +stake 10532.81 (accum +stake to this point 1380108.11)
 -------------------------------------------------------------
 72) #18 Validator BxFf75Vtzro2Hy3coFHKxFMZo5au8W7J8BmLC3gCMotU, marinade-staked 35075.19 SOL, score-pct:0.6274%
 ValidatorScoreRecord { rank: 18, pct: 0.627416610070817, epoch: 239, keybase_id: "chainodecapital", name: "Chainode Tech", vote_address: "BxFf75Vtzro2Hy3coFHKxFMZo5au8W7J8BmLC3gCMotU", score: 4661238, average_position: 61.1328264633171, commission: 5, epoch_credits: 411965, data_center_concentration: 0.5811, base_score: 384184.0, mult: 12.1328264633171, avg_score: 4661238.0 }
- has 35075.19, should_have 45450.32, to balance +stake 10375.13 (accum +stake to this point 1390472.38)
+ has 35075.19, should_have 45450.51, to balance +stake 10375.32 (accum +stake to this point 1390483.43)
 -------------------------------------------------------------
 73) #97 Validator 14YCghb1uYPreALx6arirtPAnoGghoPH2Ac6gCmNQdq7, marinade-staked 24348.39 SOL, score-pct:0.4789%
 ValidatorScoreRecord { rank: 97, pct: 0.478859857471954, epoch: 239, keybase_id: "goto5k", name: "goto5k", vote_address: "14YCghb1uYPreALx6arirtPAnoGghoPH2Ac6gCmNQdq7", score: 3557572, average_position: 58.6517886169458, commission: 10, epoch_credits: 412278, data_center_concentration: 0.1989, base_score: 368592.0, mult: 9.65178861694583, avg_score: 3557572.0 }
- has 24348.39, should_have 34688.81, to balance +stake 10340.42 (accum +stake to this point 1400812.80)
+ has 24348.39, should_have 34688.95, to balance +stake 10340.56 (accum +stake to this point 1400824.00)
 -------------------------------------------------------------
 74) #21 Validator 4GAmUQ8FvKcTzeYGqxu2oSBMStYNwDTmBo7LC1Csg6SE, marinade-staked 31150.47 SOL, score-pct:0.5719%
 ValidatorScoreRecord { rank: 21, pct: 0.571925716449561, epoch: 239, keybase_id: "foundrydigital", name: "Foundry", vote_address: "4GAmUQ8FvKcTzeYGqxu2oSBMStYNwDTmBo7LC1Csg6SE", score: 4248982, average_position: 60.2262295151558, commission: 8, epoch_credits: 412033, data_center_concentration: 0.0472, base_score: 378487.0, mult: 11.2262295151558, avg_score: 4248982.0 }
- has 31150.47, should_have 41430.54, to balance +stake 10280.07 (accum +stake to this point 1411092.86)
+ has 31150.47, should_have 41430.71, to balance +stake 10280.24 (accum +stake to this point 1411104.23)
 -------------------------------------------------------------
 75) #3 Validator 6anBvYWGwkkZPAaPF6BmzF6LUPfP2HFVhQUAWckKH9LZ, marinade-staked 55262.23 SOL, score-pct:0.9033%
 ValidatorScoreRecord { rank: 3, pct: 0.903257726640807, epoch: 239, keybase_id: "4blockteam", name: "4BLOCK.TEAM - Now 0% Fees → 1% from Q1/2023", vote_address: "6anBvYWGwkkZPAaPF6BmzF6LUPfP2HFVhQUAWckKH9LZ", score: 6710532, average_position: 65.3418410936953, commission: 0, epoch_credits: 412244, data_center_concentration: 0.130066666666667, base_score: 410635.0, mult: 16.3418410936953, avg_score: 6710532.0 }
- has 55262.23, should_have 65432.36, to balance +stake 10170.14 (accum +stake to this point 1421263.00)
+ has 55262.23, should_have 65432.64, to balance +stake 10170.41 (accum +stake to this point 1421274.64)
 -------------------------------------------------------------
 76) #82 Validator HoPjSCdxospzvcx35Kvxbdx8xCAvhnufiBWWm5sQKApD, marinade-staked 25008.00 SOL, score-pct:0.4843%
 ValidatorScoreRecord { rank: 82, pct: 0.484266725306194, epoch: 239, keybase_id: "neonmeety", name: "Neon", vote_address: "HoPjSCdxospzvcx35Kvxbdx8xCAvhnufiBWWm5sQKApD", score: 3597741, average_position: 58.7452231651295, commission: 10, epoch_credits: 411564, data_center_concentration: 0.0995666666666667, base_score: 369180.0, mult: 9.74522316512952, avg_score: 3597741.0 }
- has 25008.00, should_have 35080.48, to balance +stake 10072.49 (accum +stake to this point 1431335.49)
+ has 25008.00, should_have 35080.63, to balance +stake 10072.63 (accum +stake to this point 1431347.28)
 -------------------------------------------------------------
 77) #24 Validator 6af6c11dJbUAoUupxLGR3Y6CGsf8HMiYU4QCA5pYmDuo, marinade-staked 30719.77 SOL, score-pct:0.5604%
 ValidatorScoreRecord { rank: 24, pct: 0.560443946101072, epoch: 239, keybase_id: "cs_validator", name: "CoinShares Validator", vote_address: "6af6c11dJbUAoUupxLGR3Y6CGsf8HMiYU4QCA5pYmDuo", score: 4163681, average_position: 60.0357579476661, commission: 5, epoch_credits: 412030, data_center_concentration: 1.14376666666667, base_score: 377290.0, mult: 11.0357579476661, avg_score: 4163681.0 }
- has 30719.77, should_have 40598.79, to balance +stake 9879.03 (accum +stake to this point 1441214.51)
+ has 30719.77, should_have 40598.96, to balance +stake 9879.20 (accum +stake to this point 1441226.47)
 -------------------------------------------------------------
 78) #8 Validator 7opSZGmevWhRDyLt5Wu38FZFjUyredGmMki4DNmxDnjd, marinade-staked 50860.69 SOL, score-pct:0.8379%
 ValidatorScoreRecord { rank: 8, pct: 0.837894106911409, epoch: 239, keybase_id: "alphapro", name: "Alpha Pro | FREE & 0% FEE 🚀 all year 2021 🔥", vote_address: "7opSZGmevWhRDyLt5Wu38FZFjUyredGmMki4DNmxDnjd", score: 6224929, average_position: 64.3846295492665, commission: 0, epoch_credits: 411914, data_center_concentration: 0.590233333333333, base_score: 404620.0, mult: 15.3846295492665, avg_score: 6224929.0 }
- has 50860.69, should_have 60697.40, to balance +stake 9836.70 (accum +stake to this point 1451051.22)
+ has 50860.69, should_have 60697.65, to balance +stake 9836.96 (accum +stake to this point 1451063.43)
 -------------------------------------------------------------
 79) #79 Validator 8yz8LvMFkrjN1qtokYvK1X11c6DveWb8ATZuq5mkmJNc, marinade-staked 25433.04 SOL, score-pct:0.4845%
 ValidatorScoreRecord { rank: 79, pct: 0.484476975189364, epoch: 239, keybase_id: "nickcobzy", name: "cobzynode", vote_address: "8yz8LvMFkrjN1qtokYvK1X11c6DveWb8ATZuq5mkmJNc", score: 3599303, average_position: 58.7488716818563, commission: 10, epoch_credits: 411880, data_center_concentration: 0.120533333333333, base_score: 369202.0, mult: 9.74887168185632, avg_score: 3599303.0 }
- has 25433.04, should_have 35095.71, to balance +stake 9662.67 (accum +stake to this point 1460713.88)
+ has 25433.04, should_have 35095.86, to balance +stake 9662.82 (accum +stake to this point 1460726.24)
 -------------------------------------------------------------
 80) #112 Validator 8hpaVczvUK24kogYWxV6s3hajDAbaHb6KGZsVRLDoksi, marinade-staked 24695.00 SOL, score-pct:0.4727%
 ValidatorScoreRecord { rank: 112, pct: 0.472727210271482, epoch: 239, keybase_id: "", name: "Alinka", vote_address: "8hpaVczvUK24kogYWxV6s3hajDAbaHb6KGZsVRLDoksi", score: 3512011, average_position: 58.5454787626206, commission: 10, epoch_credits: 411532, data_center_concentration: 0.1989, base_score: 367924.0, mult: 9.54547876262058, avg_score: 3512011.0 }
- has 24695.00, should_have 34244.56, to balance +stake 9549.55 (accum +stake to this point 1470263.44)
+ has 24695.00, should_have 34244.70, to balance +stake 9549.70 (accum +stake to this point 1470275.94)
 -------------------------------------------------------------
 81) #12 Validator HxRrsnbc6K8CdEo3LCTrSUkFaDDxv9BdJsTDzBKnUVWH, marinade-staked 47438.53 SOL, score-pct:0.7852%
 ValidatorScoreRecord { rank: 12, pct: 0.785160286502051, epoch: 239, keybase_id: "stakehaus", name: "StakeHaus | 0% Fee", vote_address: "HxRrsnbc6K8CdEo3LCTrSUkFaDDxv9BdJsTDzBKnUVWH", score: 5833156, average_position: 63.5951142095293, commission: 0, epoch_credits: 400082, data_center_concentration: 0.0345666666666667, base_score: 399665.0, mult: 14.5951142095293, avg_score: 5833156.0 }
- has 47438.53, should_have 56877.34, to balance +stake 9438.81 (accum +stake to this point 1479702.25)
+ has 47438.53, should_have 56877.57, to balance +stake 9439.05 (accum +stake to this point 1479714.99)
 -------------------------------------------------------------
 82) #92 Validator J2sw9oeXQQVph9Di1wgUqu8PTdMn51y9FuYMgDEMMqNK, marinade-staked 25423.04 SOL, score-pct:0.4805%
 ValidatorScoreRecord { rank: 92, pct: 0.480549394305218, epoch: 239, keybase_id: "goldlv", name: "Gold", vote_address: "J2sw9oeXQQVph9Di1wgUqu8PTdMn51y9FuYMgDEMMqNK", score: 3570124, average_position: 58.6810082554371, commission: 10, epoch_credits: 411050, data_center_concentration: 0.0949333333333333, base_score: 368776.0, mult: 9.68100825543712, avg_score: 3570124.0 }
- has 25423.04, should_have 34811.20, to balance +stake 9388.16 (accum +stake to this point 1489090.41)
+ has 25423.04, should_have 34811.34, to balance +stake 9388.30 (accum +stake to this point 1489103.29)
 -------------------------------------------------------------
 83) #98 Validator 5wNag8umJhaaj9gGdqmBz7Xwwy1NL5yQ1QbvPdQrDd3h, marinade-staked 25311.60 SOL, score-pct:0.4787%
 ValidatorScoreRecord { rank: 98, pct: 0.478739656994572, epoch: 239, keybase_id: "davetheiguana", name: "davetheiguana", vote_address: "5wNag8umJhaaj9gGdqmBz7Xwwy1NL5yQ1QbvPdQrDd3h", score: 3556679, average_position: 58.6497065296959, commission: 10, epoch_credits: 411244, data_center_concentration: 0.124833333333333, base_score: 368579.0, mult: 9.64970652969586, avg_score: 3556679.0 }
- has 25311.60, should_have 34680.10, to balance +stake 9368.50 (accum +stake to this point 1498458.91)
+ has 25311.60, should_have 34680.24, to balance +stake 9368.65 (accum +stake to this point 1498471.94)
 -------------------------------------------------------------
 84) #96 Validator YT7i3TkDv9GpbQ5qEkL7dvb3fAXSuNKwCotw2MjrWxZ, marinade-staked 25410.92 SOL, score-pct:0.4800%
 ValidatorScoreRecord { rank: 96, pct: 0.480014481990416, epoch: 239, keybase_id: "snakman", name: "Olaf", vote_address: "YT7i3TkDv9GpbQ5qEkL7dvb3fAXSuNKwCotw2MjrWxZ", score: 3566150, average_position: 58.6717550534635, commission: 10, epoch_credits: 410986, data_center_concentration: 0.0949333333333333, base_score: 368718.0, mult: 9.67175505346352, avg_score: 3566150.0 }
- has 25410.92, should_have 34772.45, to balance +stake 9361.53 (accum +stake to this point 1507820.44)
+ has 25410.92, should_have 34772.59, to balance +stake 9361.67 (accum +stake to this point 1507833.61)
 -------------------------------------------------------------
 85) #16 Validator GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe, marinade-staked 40434.21 SOL, score-pct:0.6864%
 ValidatorScoreRecord { rank: 16, pct: 0.686389548652215, epoch: 239, keybase_id: "blocknxt1", name: "EcoStake 🌱", vote_address: "GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe", score: 5099363, average_position: 62.0724076769437, commission: 3, epoch_credits: 410764, data_center_concentration: 0.678133333333333, base_score: 390086.0, mult: 13.0724076769437, avg_score: 5099363.0 }
- has 40434.21, should_have 49722.34, to balance +stake 9288.14 (accum +stake to this point 1517108.57)
+ has 40434.21, should_have 49722.55, to balance +stake 9288.34 (accum +stake to this point 1517121.95)
 -------------------------------------------------------------
 86) #46 Validator HQbdXrLm3EuFyu66mCpDS4ir9zRkhNHJVnck4vxG7jEo, marinade-staked 26491.55 SOL, score-pct:0.4935%
 ValidatorScoreRecord { rank: 46, pct: 0.493515835723728, epoch: 239, keybase_id: "", name: "", vote_address: "HQbdXrLm3EuFyu66mCpDS4ir9zRkhNHJVnck4vxG7jEo", score: 3666455, average_position: 58.9045198219442, commission: 10, epoch_credits: 411912, data_center_concentration: 0.0436333333333333, base_score: 370180.0, mult: 9.90451982194418, avg_score: 3666455.0 }
- has 26491.55, should_have 35750.49, to balance +stake 9258.94 (accum +stake to this point 1526367.51)
+ has 26491.55, should_have 35750.64, to balance +stake 9259.09 (accum +stake to this point 1526381.04)
 -------------------------------------------------------------
 87) #38 Validator ErqEyaojEmRu8bhJz74mJy5MgQcyLN1rCQ5frrusAb8A, marinade-staked 26736.97 SOL, score-pct:0.4957%
 ValidatorScoreRecord { rank: 38, pct: 0.495686039863523, epoch: 239, keybase_id: "zazoley", name: "zazoley", vote_address: "ErqEyaojEmRu8bhJz74mJy5MgQcyLN1rCQ5frrusAb8A", score: 3682578, average_position: 58.9417618605517, commission: 10, epoch_credits: 412133, data_center_concentration: 0.0408, base_score: 370415.0, mult: 9.94176186055174, avg_score: 3682578.0 }
- has 26736.97, should_have 35907.70, to balance +stake 9170.74 (accum +stake to this point 1535538.25)
+ has 26736.97, should_have 35907.85, to balance +stake 9170.89 (accum +stake to this point 1535551.93)
 -------------------------------------------------------------
 88) #60 Validator GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa, marinade-staked 26186.55 SOL, score-pct:0.4880%
 ValidatorScoreRecord { rank: 60, pct: 0.487995093753021, epoch: 239, keybase_id: "pred", name: "NazarMB", vote_address: "GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa", score: 3625440, average_position: 58.8095150315072, commission: 10, epoch_credits: 412145, data_center_concentration: 0.108733333333333, base_score: 369584.0, mult: 9.8095150315072, avg_score: 3625440.0 }
- has 26186.55, should_have 35350.57, to balance +stake 9164.02 (accum +stake to this point 1544702.26)
+ has 26186.55, should_have 35350.71, to balance +stake 9164.16 (accum +stake to this point 1544716.09)
 -------------------------------------------------------------
 89) #120 Validator 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ, marinade-staked 24842.49 SOL, score-pct:0.4693%
 ValidatorScoreRecord { rank: 120, pct: 0.469265355761068, epoch: 239, keybase_id: "", name: "croco", vote_address: "8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ", score: 3486292, average_position: 58.4853220391091, commission: 10, epoch_credits: 412259, data_center_concentration: 0.281866666666667, base_score: 367546.0, mult: 9.48532203910907, avg_score: 3486292.0 }
- has 24842.49, should_have 33993.78, to balance +stake 9151.29 (accum +stake to this point 1553853.55)
+ has 24842.49, should_have 33993.92, to balance +stake 9151.43 (accum +stake to this point 1553867.52)
 -------------------------------------------------------------
 90) #129 Validator 5xyBz6L1dwHRKAnaNWVeJdUfUMw4GsU4tBRPZyRfajnk, marinade-staked 24547.49 SOL, score-pct:0.4647%
 ValidatorScoreRecord { rank: 129, pct: 0.464749559774837, epoch: 239, keybase_id: "", name: "", vote_address: "5xyBz6L1dwHRKAnaNWVeJdUfUMw4GsU4tBRPZyRfajnk", score: 3452743, average_position: 58.4067127779786, commission: 10, epoch_credits: 411703, data_center_concentration: 0.281866666666667, base_score: 367051.0, mult: 9.40671277797865, avg_score: 3452743.0 }
- has 24547.49, should_have 33666.65, to balance +stake 9119.16 (accum +stake to this point 1562972.72)
+ has 24547.49, should_have 33666.79, to balance +stake 9119.31 (accum +stake to this point 1562986.83)
 -------------------------------------------------------------
 91) #51 Validator 6h8UDnJb4Rw7j5ZnszWPE5qKdCmQpXSpbfndzHbzjJ1Q, marinade-staked 26533.32 SOL, score-pct:0.4919%
 ValidatorScoreRecord { rank: 51, pct: 0.491891312138589, epoch: 239, keybase_id: "", name: "", vote_address: "6h8UDnJb4Rw7j5ZnszWPE5qKdCmQpXSpbfndzHbzjJ1Q", score: 3654386, average_position: 58.8765841961008, commission: 10, epoch_credits: 412231, data_center_concentration: 0.0810666666666667, base_score: 370005.0, mult: 9.87658419610084, avg_score: 3654386.0 }
- has 26533.32, should_have 35632.81, to balance +stake 9099.49 (accum +stake to this point 1572072.20)
+ has 26533.32, should_have 35632.96, to balance +stake 9099.64 (accum +stake to this point 1572086.46)
 -------------------------------------------------------------
 92) #61 Validator 3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj, marinade-staked 26247.44 SOL, score-pct:0.4879%
 ValidatorScoreRecord { rank: 61, pct: 0.487892122459406, epoch: 239, keybase_id: "", name: "", vote_address: "3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj", score: 3624675, average_position: 58.8077630815802, commission: 10, epoch_credits: 412259, data_center_concentration: 0.1181, base_score: 369572.0, mult: 9.80776308158022, avg_score: 3624675.0 }
- has 26247.44, should_have 35343.11, to balance +stake 9095.67 (accum +stake to this point 1581167.87)
+ has 26247.44, should_have 35343.26, to balance +stake 9095.81 (accum +stake to this point 1581182.28)
 -------------------------------------------------------------
 93) #117 Validator CertuszpSb9Qb8v5HhndmSdCC3WoKAiFoBEXmNhjJPUg, marinade-staked 25018.85 SOL, score-pct:0.4709%
 ValidatorScoreRecord { rank: 117, pct: 0.470875746031397, epoch: 239, keybase_id: "", name: "", vote_address: "CertuszpSb9Qb8v5HhndmSdCC3WoKAiFoBEXmNhjJPUg", score: 3498256, average_position: 58.5133184233632, commission: 10, epoch_credits: 412252, data_center_concentration: 0.2672, base_score: 367722.0, mult: 9.51331842336316, avg_score: 3498256.0 }
- has 25018.85, should_have 34110.43, to balance +stake 9091.58 (accum +stake to this point 1590259.45)
+ has 25018.85, should_have 34110.58, to balance +stake 9091.73 (accum +stake to this point 1590274.00)
 -------------------------------------------------------------
 94) #50 Validator 8jxSHbS4qAnh5yueFp4D9ABXubKqMwXqF3HtdzQGuphp, marinade-staked 26619.86 SOL, score-pct:0.4919%
 ValidatorScoreRecord { rank: 50, pct: 0.491917155914241, epoch: 239, keybase_id: "chainlayer", name: "ChainLayer", vote_address: "8jxSHbS4qAnh5yueFp4D9ABXubKqMwXqF3HtdzQGuphp", score: 3654578, average_position: 58.8770234701364, commission: 10, epoch_credits: 412025, data_center_concentration: 0.0658666666666667, base_score: 370008.0, mult: 9.87702347013643, avg_score: 3654578.0 }
- has 26619.86, should_have 35634.68, to balance +stake 9014.82 (accum +stake to this point 1599274.28)
+ has 26619.86, should_have 35634.83, to balance +stake 9014.97 (accum +stake to this point 1599288.98)
 -------------------------------------------------------------
 95) #103 Validator HBhcKLdKZoM4MeYruYRmQYRNx6RWbdf4VVcJNhS3g13o, marinade-staked 25568.47 SOL, score-pct:0.4773%
 ValidatorScoreRecord { rank: 103, pct: 0.477289175086091, epoch: 239, keybase_id: "3bepb", name: "3bepb", vote_address: "HBhcKLdKZoM4MeYruYRmQYRNx6RWbdf4VVcJNhS3g13o", score: 3545903, average_position: 58.6245940904544, commission: 10, epoch_credits: 412385, data_center_concentration: 0.220233333333333, base_score: 368421.0, mult: 9.62459409045442, avg_score: 3545903.0 }
- has 25568.47, should_have 34575.03, to balance +stake 9006.55 (accum +stake to this point 1608280.83)
+ has 25568.47, should_have 34575.17, to balance +stake 9006.70 (accum +stake to this point 1608295.67)
 -------------------------------------------------------------
 96) #41 Validator xDnhMxMagvYC9f3CzSY8Xxk6SLCoqE875S35GL41uve, marinade-staked 26893.62 SOL, score-pct:0.4952%
 ValidatorScoreRecord { rank: 41, pct: 0.495152338975705, epoch: 239, keybase_id: "", name: "", vote_address: "xDnhMxMagvYC9f3CzSY8Xxk6SLCoqE875S35GL41uve", score: 3678613, average_position: 58.932614075441, commission: 10, epoch_credits: 412069, data_center_concentration: 0.0408, base_score: 370357.0, mult: 9.93261407544096, avg_score: 3678613.0 }
- has 26893.62, should_have 35869.04, to balance +stake 8975.42 (accum +stake to this point 1617256.25)
+ has 26893.62, should_have 35869.19, to balance +stake 8975.57 (accum +stake to this point 1617271.24)
 -------------------------------------------------------------
 97) #39 Validator 5ZySjU8k4tS32ekHm3PFDiSyVgKm6sp83YRBjVtqnJ8a, marinade-staked 26948.85 SOL, score-pct:0.4955%
 ValidatorScoreRecord { rank: 39, pct: 0.495461252856548, epoch: 239, keybase_id: "", name: "LordAeron", vote_address: "5ZySjU8k4tS32ekHm3PFDiSyVgKm6sp83YRBjVtqnJ8a", score: 3680908, average_position: 58.9379251413313, commission: 10, epoch_credits: 412105, data_center_concentration: 0.0407, base_score: 370390.0, mult: 9.93792514133133, avg_score: 3680908.0 }
- has 26948.85, should_have 35891.42, to balance +stake 8942.57 (accum +stake to this point 1626198.81)
+ has 26948.85, should_have 35891.57, to balance +stake 8942.72 (accum +stake to this point 1626213.96)
 -------------------------------------------------------------
 98) #28 Validator BohPTSY4vvjGd9ARFqDJjRaHZKP4bde7ewBq65WgRGmA, marinade-staked 28017.08 SOL, score-pct:0.5102%
 ValidatorScoreRecord { rank: 28, pct: 0.510161515494726, epoch: 239, keybase_id: "cyberili", name: "Cyberili", vote_address: "BohPTSY4vvjGd9ARFqDJjRaHZKP4bde7ewBq65WgRGmA", score: 3790120, average_position: 59.1893168853337, commission: 8, epoch_credits: 412126, data_center_concentration: 0.5811, base_score: 371970.0, mult: 10.1893168853337, avg_score: 3790120.0 }
- has 28017.08, should_have 36956.31, to balance +stake 8939.23 (accum +stake to this point 1635138.05)
+ has 28017.08, should_have 36956.47, to balance +stake 8939.38 (accum +stake to this point 1635153.34)
 -------------------------------------------------------------
 99) #116 Validator BAgnc7rQmxrbjX3ERjwW4NZaESkp3YQDqxUZLRqXScmm, marinade-staked 25219.25 SOL, score-pct:0.4715%
 ValidatorScoreRecord { rank: 116, pct: 0.471504072826941, epoch: 239, keybase_id: "", name: "", vote_address: "BAgnc7rQmxrbjX3ERjwW4NZaESkp3YQDqxUZLRqXScmm", score: 3502924, average_position: 58.5242237846394, commission: 10, epoch_credits: 411880, data_center_concentration: 0.2348, base_score: 367791.0, mult: 9.52422378463944, avg_score: 3502924.0 }
- has 25219.25, should_have 34155.95, to balance +stake 8936.70 (accum +stake to this point 1644074.74)
+ has 25219.25, should_have 34156.09, to balance +stake 8936.84 (accum +stake to this point 1644090.18)
 -------------------------------------------------------------
 100) #78 Validator Ae8UD1RQBAR7PcyTJjmEsypojpuKmMGDBJxwiZorZA2M, marinade-staked 26173.49 SOL, score-pct:0.4845%
 ValidatorScoreRecord { rank: 78, pct: 0.48453229702162, epoch: 239, keybase_id: "", name: "", vote_address: "Ae8UD1RQBAR7PcyTJjmEsypojpuKmMGDBJxwiZorZA2M", score: 3599714, average_position: 58.7498260738232, commission: 10, epoch_credits: 411913, data_center_concentration: 0.1224, base_score: 369208.0, mult: 9.74982607382319, avg_score: 3599714.0 }
- has 26173.49, should_have 35099.72, to balance +stake 8926.23 (accum +stake to this point 1653000.98)
+ has 26173.49, should_have 35099.87, to balance +stake 8926.38 (accum +stake to this point 1653016.56)
 -------------------------------------------------------------
 101) #58 Validator EzZEi48kvDWPJJBM1z9nmjpgRyMwWJwaa4xVW2U6psPr, marinade-staked 26530.27 SOL, score-pct:0.4888%
 ValidatorScoreRecord { rank: 58, pct: 0.488799750476192, epoch: 239, keybase_id: "stakehere", name: "yelllowsin | Stakehere", vote_address: "EzZEi48kvDWPJJBM1z9nmjpgRyMwWJwaa4xVW2U6psPr", score: 3631418, average_position: 58.8233776855579, commission: 10, epoch_credits: 411907, data_center_concentration: 0.0845666666666667, base_score: 369671.0, mult: 9.82337768555785, avg_score: 3631418.0 }
- has 26530.27, should_have 35408.86, to balance +stake 8878.59 (accum +stake to this point 1661879.56)
+ has 26530.27, should_have 35409.00, to balance +stake 8878.74 (accum +stake to this point 1661895.30)
 -------------------------------------------------------------
 102) #94 Validator 7A9NSA1SZrszosi37WHSYARjAc3JuXxVqg3q94xjtpM3, marinade-staked 25910.34 SOL, score-pct:0.4801%
 ValidatorScoreRecord { rank: 94, pct: 0.480129567553868, epoch: 239, keybase_id: "cupidon", name: "Cup", vote_address: "7A9NSA1SZrszosi37WHSYARjAc3JuXxVqg3q94xjtpM3", score: 3567005, average_position: 58.6737591089434, commission: 10, epoch_credits: 411918, data_center_concentration: 0.161433333333333, base_score: 368730.0, mult: 9.67375910894339, avg_score: 3567005.0 }
- has 25910.34, should_have 34780.79, to balance +stake 8870.44 (accum +stake to this point 1670750.00)
+ has 25910.34, should_have 34780.93, to balance +stake 8870.59 (accum +stake to this point 1670765.88)
 -------------------------------------------------------------
 103) #74 Validator 6GJ23VmcWCVnm6iATqdmTjX6JeFDCCaG7PuRh5ehn9af, marinade-staked 26381.03 SOL, score-pct:0.4861%
 ValidatorScoreRecord { rank: 74, pct: 0.48613959142299, epoch: 239, keybase_id: "stakinghub", name: "Staking Hub", vote_address: "6GJ23VmcWCVnm6iATqdmTjX6JeFDCCaG7PuRh5ehn9af", score: 3611655, average_position: 58.7775343892924, commission: 10, epoch_credits: 411973, data_center_concentration: 0.112666666666667, base_score: 369383.0, mult: 9.77753438929238, avg_score: 3611655.0 }
- has 26381.03, should_have 35216.15, to balance +stake 8835.13 (accum +stake to this point 1679585.13)
+ has 26381.03, should_have 35216.30, to balance +stake 8835.27 (accum +stake to this point 1679601.16)
 -------------------------------------------------------------
 104) #36 Validator F19Lw3eT39uTa9bPRvqePP6DyukTeAP86ctrceHoJUTX, marinade-staked 27196.21 SOL, score-pct:0.4965%
 ValidatorScoreRecord { rank: 36, pct: 0.496549921905898, epoch: 239, keybase_id: "", name: "", vote_address: "F19Lw3eT39uTa9bPRvqePP6DyukTeAP86ctrceHoJUTX", score: 3688996, average_position: 58.9565892931467, commission: 10, epoch_credits: 412240, data_center_concentration: 0.0410333333333333, base_score: 370508.0, mult: 9.95658929314675, avg_score: 3688996.0 }
- has 27196.21, should_have 35970.28, to balance +stake 8774.07 (accum +stake to this point 1688359.20)
+ has 27196.21, should_have 35970.43, to balance +stake 8774.22 (accum +stake to this point 1688375.38)
 -------------------------------------------------------------
 105) #72 Validator 27LkBkFi8hwVrQiSdhqo9Rq5hkc6Tn1QYPXvyG7xa6TC, marinade-staked 26484.65 SOL, score-pct:0.4864%
 ValidatorScoreRecord { rank: 72, pct: 0.486449985936813, epoch: 239, keybase_id: "ktkd", name: "♨KTKD[dc]", vote_address: "27LkBkFi8hwVrQiSdhqo9Rq5hkc6Tn1QYPXvyG7xa6TC", score: 3613961, average_position: 58.7829040252198, commission: 10, epoch_credits: 412125, data_center_concentration: 0.121, base_score: 369416.0, mult: 9.78290402521981, avg_score: 3613961.0 }
- has 26484.65, should_have 35238.64, to balance +stake 8753.99 (accum +stake to this point 1697113.19)
+ has 26484.65, should_have 35238.79, to balance +stake 8754.14 (accum +stake to this point 1697129.51)
 -------------------------------------------------------------
 106) #137 Validator EPBGTvcgt8PxPcNFQk6hrFHgKfoNXY9ANkExUHWq8sm, marinade-staked 24639.26 SOL, score-pct:0.4604%
 ValidatorScoreRecord { rank: 137, pct: 0.460435129873897, epoch: 239, keybase_id: "", name: "margot", vote_address: "EPBGTvcgt8PxPcNFQk6hrFHgKfoNXY9ANkExUHWq8sm", score: 3420690, average_position: 58.3313848116443, commission: 10, epoch_credits: 412187, data_center_concentration: 0.354933333333333, base_score: 366579.0, mult: 9.33138481164429, avg_score: 3420690.0 }
- has 24639.26, should_have 33354.11, to balance +stake 8714.85 (accum +stake to this point 1705828.04)
+ has 24639.26, should_have 33354.25, to balance +stake 8714.99 (accum +stake to this point 1705844.50)
 -------------------------------------------------------------
 107) #138 Validator EbzV57A1pQg9x8Q12un7m2uLPa2CJbFEegTs1r1VL8Rs, marinade-staked 24640.08 SOL, score-pct:0.4603%
 ValidatorScoreRecord { rank: 138, pct: 0.460262568830219, epoch: 239, keybase_id: "n0ok", name: "nOok[MantiCore]", vote_address: "EbzV57A1pQg9x8Q12un7m2uLPa2CJbFEegTs1r1VL8Rs", score: 3419408, average_position: 58.3283709001402, commission: 10, epoch_credits: 412165, data_center_concentration: 0.354933333333333, base_score: 366560.0, mult: 9.32837090014024, avg_score: 3419408.0 }
- has 24640.08, should_have 33341.61, to balance +stake 8701.53 (accum +stake to this point 1714529.57)
+ has 24640.08, should_have 33341.75, to balance +stake 8701.67 (accum +stake to this point 1714546.17)
 -------------------------------------------------------------
 108) #106 Validator 6W8yrMwtDU5G6ErazhZHfLjqZV8cMvajpSRGYgrZ3d4v, marinade-staked 25764.99 SOL, score-pct:0.4757%
 ValidatorScoreRecord { rank: 106, pct: 0.475673131489838, epoch: 239, keybase_id: "legendsv1", name: "Legends", vote_address: "6W8yrMwtDU5G6ErazhZHfLjqZV8cMvajpSRGYgrZ3d4v", score: 3533897, average_position: 58.5965931979974, commission: 10, epoch_credits: 412188, data_center_concentration: 0.220233333333333, base_score: 368245.0, mult: 9.59659319799738, avg_score: 3533897.0 }
- has 25764.99, should_have 34457.96, to balance +stake 8692.97 (accum +stake to this point 1723222.54)
+ has 25764.99, should_have 34458.10, to balance +stake 8693.11 (accum +stake to this point 1723239.29)
 -------------------------------------------------------------
 109) #81 Validator 8EHeAESs87EejfEMi6u1ndexywxGMAanV7QsUpDiseWP, marinade-staked 26406.38 SOL, score-pct:0.4844%
 ValidatorScoreRecord { rank: 81, pct: 0.484439017143875, epoch: 239, keybase_id: "paveldvorin", name: "PaDvo", vote_address: "8EHeAESs87EejfEMi6u1ndexywxGMAanV7QsUpDiseWP", score: 3599021, average_position: 58.7482146407871, commission: 10, epoch_credits: 412104, data_center_concentration: 0.137133333333333, base_score: 369198.0, mult: 9.7482146407871, avg_score: 3599021.0 }
- has 26406.38, should_have 35092.96, to balance +stake 8686.58 (accum +stake to this point 1731909.13)
+ has 26406.38, should_have 35093.11, to balance +stake 8686.73 (accum +stake to this point 1731926.02)
 -------------------------------------------------------------
 110) #143 Validator 5KQQUBxyCNJtCWAN5dxFWmBmYfZsKn27XhcKBqvwsVpG, marinade-staked 24242.87 SOL, score-pct:0.4546%
 ValidatorScoreRecord { rank: 143, pct: 0.454553651868044, epoch: 239, keybase_id: "", name: "", vote_address: "5KQQUBxyCNJtCWAN5dxFWmBmYfZsKn27XhcKBqvwsVpG", score: 3376995, average_position: 58.2284765593487, commission: 10, epoch_credits: 411460, data_center_concentration: 0.354933333333333, base_score: 365932.0, mult: 9.22847655934874, avg_score: 3376995.0 }
- has 24242.87, should_have 32928.06, to balance +stake 8685.19 (accum +stake to this point 1740594.31)
+ has 24242.87, should_have 32928.19, to balance +stake 8685.33 (accum +stake to this point 1740611.34)
 -------------------------------------------------------------
 111) #140 Validator jVYhgtviF8DjxGQp3JYS6YZXoXA2LontoxK9cqQmjq3, marinade-staked 24669.68 SOL, score-pct:0.4590%
 ValidatorScoreRecord { rank: 140, pct: 0.459006992063115, epoch: 239, keybase_id: "", name: "igor171M", vote_address: "jVYhgtviF8DjxGQp3JYS6YZXoXA2LontoxK9cqQmjq3", score: 3410080, average_position: 58.3064273108844, commission: 10, epoch_credits: 412010, data_center_concentration: 0.354933333333333, base_score: 366422.0, mult: 9.30642731088441, avg_score: 3410080.0 }
- has 24669.68, should_have 33250.66, to balance +stake 8580.97 (accum +stake to this point 1749175.29)
+ has 24669.68, should_have 33250.80, to balance +stake 8581.11 (accum +stake to this point 1749192.45)
 -------------------------------------------------------------
 112) #67 Validator EgMBPsSRtu2pHQtx8uAd752psj8uvowqpuBuGDhR7Ybj, marinade-staked 26733.38 SOL, score-pct:0.4870%
 ValidatorScoreRecord { rank: 67, pct: 0.486956766224994, epoch: 239, keybase_id: "krutoy8282", name: "Siberia Hardcore", vote_address: "EgMBPsSRtu2pHQtx8uAd752psj8uvowqpuBuGDhR7Ybj", score: 3617726, average_position: 58.7916363167662, commission: 10, epoch_credits: 411661, data_center_concentration: 0.0829, base_score: 369471.0, mult: 9.79163631676622, avg_score: 3617726.0 }
- has 26733.38, should_have 35275.35, to balance +stake 8541.97 (accum +stake to this point 1757717.25)
+ has 26733.38, should_have 35275.50, to balance +stake 8542.12 (accum +stake to this point 1757734.57)
 -------------------------------------------------------------
 113) #76 Validator 3hfyxXeuzA26dwWiP1fZid1LGbSFs8vfqXc5bKnKq6RH, marinade-staked 26761.79 SOL, score-pct:0.4849%
 ValidatorScoreRecord { rank: 76, pct: 0.484881053389927, epoch: 239, keybase_id: "my1sun", name: "StakingTo.Me", vote_address: "3hfyxXeuzA26dwWiP1fZid1LGbSFs8vfqXc5bKnKq6RH", score: 3602305, average_position: 58.7558126166983, commission: 10, epoch_credits: 410835, data_center_concentration: 0.0409, base_score: 369247.0, mult: 9.75581261669826, avg_score: 3602305.0 }
- has 26761.79, should_have 35124.98, to balance +stake 8363.20 (accum +stake to this point 1766080.45)
+ has 26761.79, should_have 35125.13, to balance +stake 8363.34 (accum +stake to this point 1766097.91)
 -------------------------------------------------------------
 114) #179 Validator Bo9xXMsMvZF1idERuQ8Gqn8kWx1drxUnofxtNajcLsEv, marinade-staked 23119.28 SOL, score-pct:0.4330%
 ValidatorScoreRecord { rank: 179, pct: 0.433035478165616, epoch: 239, keybase_id: "razumv", name: "razumv", vote_address: "Bo9xXMsMvZF1idERuQ8Gqn8kWx1drxUnofxtNajcLsEv", score: 3217131, average_position: 57.8492357845023, commission: 10, epoch_credits: 412017, data_center_concentration: 0.587866666666667, base_score: 363549.0, mult: 8.84923578450226, avg_score: 3217131.0 }
- has 23119.28, should_have 31369.27, to balance +stake 8249.99 (accum +stake to this point 1774330.45)
+ has 23119.28, should_have 31369.40, to balance +stake 8250.12 (accum +stake to this point 1774348.04)
 -------------------------------------------------------------
 115) #171 Validator 5bjKPhoQDcpPVeMhu83SEtXqXA9vw62k7KhL9zpsK31b, marinade-staked 23298.43 SOL, score-pct:0.4348%
 ValidatorScoreRecord { rank: 171, pct: 0.434777510168173, epoch: 239, keybase_id: "", name: "", vote_address: "5bjKPhoQDcpPVeMhu83SEtXqXA9vw62k7KhL9zpsK31b", score: 3230073, average_position: 57.880095898411, commission: 10, epoch_credits: 412237, data_center_concentration: 0.587866666666667, base_score: 363743.0, mult: 8.88009589841096, avg_score: 3230073.0 }
- has 23298.43, should_have 31495.46, to balance +stake 8197.04 (accum +stake to this point 1782527.48)
+ has 23298.43, should_have 31495.59, to balance +stake 8197.17 (accum +stake to this point 1782545.21)
 -------------------------------------------------------------
 116) #178 Validator GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC, marinade-staked 23218.90 SOL, score-pct:0.4335%
 ValidatorScoreRecord { rank: 178, pct: 0.433505781041287, epoch: 239, keybase_id: "jb273", name: "JB273 Solana Validator", vote_address: "GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC", score: 3220625, average_position: 57.8575808959384, commission: 10, epoch_credits: 411982, data_center_concentration: 0.5811, base_score: 363601.0, mult: 8.8575808959384, avg_score: 3220625.0 }
- has 23218.90, should_have 31403.34, to balance +stake 8184.44 (accum +stake to this point 1790711.92)
+ has 23218.90, should_have 31403.47, to balance +stake 8184.57 (accum +stake to this point 1790729.77)
 -------------------------------------------------------------
 117) #146 Validator 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB, marinade-staked 24582.55 SOL, score-pct:0.4521%
 ValidatorScoreRecord { rank: 146, pct: 0.452078841143348, epoch: 239, keybase_id: "ioanabutcovan", name: "CamiLLe", vote_address: "4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB", score: 3358609, average_position: 58.1851095873487, commission: 10, epoch_credits: 411152, data_center_concentration: 0.354933333333333, base_score: 365658.0, mult: 9.18510958734866, avg_score: 3358609.0 }
- has 24582.55, should_have 32748.78, to balance +stake 8166.23 (accum +stake to this point 1798878.15)
+ has 24582.55, should_have 32748.92, to balance +stake 8166.37 (accum +stake to this point 1798896.14)
 -------------------------------------------------------------
 118) #84 Validator 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo, marinade-staked 26941.16 SOL, score-pct:0.4841%
 ValidatorScoreRecord { rank: 84, pct: 0.48411166265228, epoch: 239, keybase_id: "", name: "", vote_address: "32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo", score: 3596589, average_position: 58.7425236009013, commission: 10, epoch_credits: 410740, data_center_concentration: 0.0407, base_score: 369164.0, mult: 9.74252360090128, avg_score: 3596589.0 }
- has 26941.16, should_have 35069.25, to balance +stake 8128.09 (accum +stake to this point 1807006.24)
+ has 26941.16, should_have 35069.40, to balance +stake 8128.24 (accum +stake to this point 1807024.38)
 -------------------------------------------------------------
 119) #177 Validator GJQjnyhSG9jN1AdMHTSyTxUR44hJHEGCmNzkidw9z3y8, marinade-staked 23329.10 SOL, score-pct:0.4338%
 ValidatorScoreRecord { rank: 177, pct: 0.433751969924974, epoch: 239, keybase_id: "", name: "", vote_address: "GJQjnyhSG9jN1AdMHTSyTxUR44hJHEGCmNzkidw9z3y8", score: 3222454, average_position: 57.8619274728432, commission: 10, epoch_credits: 412108, data_center_concentration: 0.587866666666667, base_score: 363629.0, mult: 8.86192747284318, avg_score: 3222454.0 }
- has 23329.10, should_have 31421.17, to balance +stake 8092.07 (accum +stake to this point 1815098.31)
+ has 23329.10, should_have 31421.30, to balance +stake 8092.20 (accum +stake to this point 1815116.58)
 -------------------------------------------------------------
 120) #170 Validator FqERCVEHjm9P9hghJwWbyN4TqwCCAYteeX1v6gBtt88p, marinade-staked 23460.29 SOL, score-pct:0.4349%
 ValidatorScoreRecord { rank: 170, pct: 0.434901210323508, epoch: 239, keybase_id: "", name: "", vote_address: "FqERCVEHjm9P9hghJwWbyN4TqwCCAYteeX1v6gBtt88p", score: 3230992, average_position: 57.8822817956462, commission: 10, epoch_credits: 412253, data_center_concentration: 0.587866666666667, base_score: 363757.0, mult: 8.88228179564621, avg_score: 3230992.0 }
- has 23460.29, should_have 31504.42, to balance +stake 8044.13 (accum +stake to this point 1823142.44)
+ has 23460.29, should_have 31504.56, to balance +stake 8044.26 (accum +stake to this point 1823160.84)
 -------------------------------------------------------------
 121) #154 Validator GsuRNwA3cKcQBgRe6ERb8XbMyXn5kKREcpJCyBcdw4vY, marinade-staked 24023.87 SOL, score-pct:0.4414%
 ValidatorScoreRecord { rank: 154, pct: 0.441418418289806, epoch: 239, keybase_id: "kryptokedi1", name: "KryptoKedi", vote_address: "GsuRNwA3cKcQBgRe6ERb8XbMyXn5kKREcpJCyBcdw4vY", score: 3279410, average_position: 57.9975041310399, commission: 10, epoch_credits: 412228, data_center_concentration: 0.527666666666667, base_score: 364480.0, mult: 8.99750413103985, avg_score: 3279410.0 }
- has 24023.87, should_have 31976.53, to balance +stake 7952.67 (accum +stake to this point 1831095.11)
+ has 24023.87, should_have 31976.67, to balance +stake 7952.80 (accum +stake to this point 1831113.64)
 -------------------------------------------------------------
 122) #113 Validator FjajvSuJQGon3SvMDpLFY1U3PwMcEmHVtcqvvyqjEF98, marinade-staked 26292.75 SOL, score-pct:0.4726%
 ValidatorScoreRecord { rank: 113, pct: 0.472647525296554, epoch: 239, keybase_id: "self2021", name: "Samoed", vote_address: "FjajvSuJQGon3SvMDpLFY1U3PwMcEmHVtcqvvyqjEF98", score: 3511419, average_position: 58.5440787802108, commission: 10, epoch_credits: 411008, data_center_concentration: 0.161433333333333, base_score: 367916.0, mult: 9.54407878021076, avg_score: 3511419.0 }
- has 26292.75, should_have 34238.78, to balance +stake 7946.03 (accum +stake to this point 1839041.14)
+ has 26292.75, should_have 34238.93, to balance +stake 7946.17 (accum +stake to this point 1839059.81)
 -------------------------------------------------------------
 123) #134 Validator CR64wh7PFaTz5mFY3mXC1u5NLXepegddZqv6VLXGvo4D, marinade-staked 25574.77 SOL, score-pct:0.4626%
 ValidatorScoreRecord { rank: 134, pct: 0.462575182942098, epoch: 239, keybase_id: "bart2021", name: "Bart", vote_address: "CR64wh7PFaTz5mFY3mXC1u5NLXepegddZqv6VLXGvo4D", score: 3436589, average_position: 58.3687249326533, commission: 10, epoch_credits: 409736, data_center_concentration: 0.1584, base_score: 366815.0, mult: 9.36872493265329, avg_score: 3436589.0 }
- has 25574.77, should_have 33509.14, to balance +stake 7934.36 (accum +stake to this point 1846975.50)
+ has 25574.77, should_have 33509.28, to balance +stake 7934.50 (accum +stake to this point 1846994.32)
 -------------------------------------------------------------
 124) #157 Validator 7WWuGpM2edSJRY9n123uf31UrjfWJ58Tdw1K1uYQhgtA, marinade-staked 24043.82 SOL, score-pct:0.4403%
 ValidatorScoreRecord { rank: 157, pct: 0.440322480678554, epoch: 239, keybase_id: "", name: "", vote_address: "7WWuGpM2edSJRY9n123uf31UrjfWJ58Tdw1K1uYQhgtA", score: 3271268, average_position: 57.9781462122001, commission: 10, epoch_credits: 412091, data_center_concentration: 0.527666666666667, base_score: 364359.0, mult: 8.9781462122001, avg_score: 3271268.0 }
- has 24043.82, should_have 31897.14, to balance +stake 7853.32 (accum +stake to this point 1854828.83)
+ has 24043.82, should_have 31897.28, to balance +stake 7853.46 (accum +stake to this point 1854847.78)
 -------------------------------------------------------------
 125) #164 Validator 7cMFKn5AqUvprbguSik3xBn8V1eJSDoT6fJcwE1CbQvW, marinade-staked 23832.69 SOL, score-pct:0.4371%
 ValidatorScoreRecord { rank: 164, pct: 0.437125390265577, epoch: 239, keybase_id: "", name: "Shepherd validator", vote_address: "7cMFKn5AqUvprbguSik3xBn8V1eJSDoT6fJcwE1CbQvW", score: 3247516, average_position: 57.9216505302475, commission: 10, epoch_credits: 412106, data_center_concentration: 0.557466666666667, base_score: 364004.0, mult: 8.9216505302475, avg_score: 3247516.0 }
- has 23832.69, should_have 31665.54, to balance +stake 7832.85 (accum +stake to this point 1862661.68)
+ has 23832.69, should_have 31665.68, to balance +stake 7832.99 (accum +stake to this point 1862680.76)
 -------------------------------------------------------------
 126) #176 Validator 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz, marinade-staked 23683.29 SOL, score-pct:0.4338%
 ValidatorScoreRecord { rank: 176, pct: 0.433834616165861, epoch: 239, keybase_id: "bunghi", name: "Bunghi", vote_address: "9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz", score: 3223068, average_position: 57.8633971574396, commission: 10, epoch_credits: 412118, data_center_concentration: 0.587866666666667, base_score: 363638.0, mult: 8.86339715743959, avg_score: 3223068.0 }
- has 23683.29, should_have 31427.16, to balance +stake 7743.87 (accum +stake to this point 1870405.55)
+ has 23683.29, should_have 31427.29, to balance +stake 7744.00 (accum +stake to this point 1870424.76)
 -------------------------------------------------------------
 127) #169 Validator FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL, marinade-staked 23799.09 SOL, score-pct:0.4352%
 ValidatorScoreRecord { rank: 169, pct: 0.435221969268192, epoch: 239, keybase_id: "andreykozak", name: "Andrey Kozak", vote_address: "FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL", score: 3233375, average_position: 57.8879769455931, commission: 10, epoch_credits: 411450, data_center_concentration: 0.527666666666667, base_score: 363792.0, mult: 8.88797694559312, avg_score: 3233375.0 }
- has 23799.09, should_have 31527.66, to balance +stake 7728.57 (accum +stake to this point 1878134.12)
+ has 23799.09, should_have 31527.79, to balance +stake 7728.71 (accum +stake to this point 1878153.47)
 -------------------------------------------------------------
 128) #165 Validator 4PTVcstjs4s89uETGapnjTNPDa4XfHF9kLUu8WCeYNQb, marinade-staked 23921.58 SOL, score-pct:0.4368%
 ValidatorScoreRecord { rank: 165, pct: 0.436807054174861, epoch: 239, keybase_id: "andrew38", name: "Andrew38", vote_address: "4PTVcstjs4s89uETGapnjTNPDa4XfHF9kLUu8WCeYNQb", score: 3245151, average_position: 57.9160344557612, commission: 10, epoch_credits: 412065, data_center_concentration: 0.557466666666667, base_score: 363968.0, mult: 8.91603445576116, avg_score: 3245151.0 }
- has 23921.58, should_have 31642.48, to balance +stake 7720.90 (accum +stake to this point 1885855.02)
+ has 23921.58, should_have 31642.62, to balance +stake 7721.04 (accum +stake to this point 1885874.50)
 -------------------------------------------------------------
 129) #174 Validator 4tuMshQNpAFpy1YtEHnSsE5EPN1mAT8FevWvn2UPJHNM, marinade-staked 23747.91 SOL, score-pct:0.4339%
 ValidatorScoreRecord { rank: 174, pct: 0.433940414122438, epoch: 239, keybase_id: "crisbun", name: "Buburuza", vote_address: "4tuMshQNpAFpy1YtEHnSsE5EPN1mAT8FevWvn2UPJHNM", score: 3223854, average_position: 57.8652654592529, commission: 10, epoch_credits: 412132, data_center_concentration: 0.587866666666667, base_score: 363650.0, mult: 8.86526545925287, avg_score: 3223854.0 }
- has 23747.91, should_have 31434.82, to balance +stake 7686.92 (accum +stake to this point 1893541.94)
+ has 23747.91, should_have 31434.95, to balance +stake 7687.05 (accum +stake to this point 1893561.55)
 -------------------------------------------------------------
 130) #152 Validator A6haEh7R7UHL42V5z5bXpzGMVecmudSeb3acWHQGqqr4, marinade-staked 24390.33 SOL, score-pct:0.4419%
 ValidatorScoreRecord { rank: 152, pct: 0.441883740854544, epoch: 239, keybase_id: "maxim_molostov", name: "Molostov", vote_address: "A6haEh7R7UHL42V5z5bXpzGMVecmudSeb3acWHQGqqr4", score: 3282867, average_position: 58.0057036013613, commission: 10, epoch_credits: 412287, data_center_concentration: 0.527666666666667, base_score: 364532.0, mult: 9.00570360136132, avg_score: 3282867.0 }
- has 24390.33, should_have 32010.24, to balance +stake 7619.91 (accum +stake to this point 1901161.85)
+ has 24390.33, should_have 32010.38, to balance +stake 7620.05 (accum +stake to this point 1901181.59)
 -------------------------------------------------------------
 131) #151 Validator 5znzbnUiJTPe3TgZw9L1saWCWQsuXSAgwEP4FA1edEsi, marinade-staked 24456.93 SOL, score-pct:0.4424%
 ValidatorScoreRecord { rank: 151, pct: 0.442401289382579, epoch: 239, keybase_id: "k0rsa", name: "K0RSa", vote_address: "5znzbnUiJTPe3TgZw9L1saWCWQsuXSAgwEP4FA1edEsi", score: 3286712, average_position: 58.0148407966252, commission: 10, epoch_credits: 412351, data_center_concentration: 0.527666666666667, base_score: 364589.0, mult: 9.01484079662524, avg_score: 3286712.0 }
- has 24456.93, should_have 32047.73, to balance +stake 7590.80 (accum +stake to this point 1908752.65)
+ has 24456.93, should_have 32047.87, to balance +stake 7590.93 (accum +stake to this point 1908772.53)
 -------------------------------------------------------------
 132) #150 Validator GwjRJdT9nKmegq6a8nyvEPfoQZUSPp6N4KmWAUMo76aU, marinade-staked 24725.70 SOL, score-pct:0.4444%
 ValidatorScoreRecord { rank: 150, pct: 0.444379684249956, epoch: 239, keybase_id: "", name: "", vote_address: "GwjRJdT9nKmegq6a8nyvEPfoQZUSPp6N4KmWAUMo76aU", score: 3301410, average_position: 58.0496684093588, commission: 10, epoch_credits: 410198, data_center_concentration: 0.354933333333333, base_score: 364810.0, mult: 9.04966840935876, avg_score: 3301410.0 }
- has 24725.70, should_have 32191.05, to balance +stake 7465.35 (accum +stake to this point 1916218.00)
+ has 24725.70, should_have 32191.18, to balance +stake 7465.49 (accum +stake to this point 1916238.01)
 -------------------------------------------------------------
 133) #160 Validator D7fnHDRyonVgZFoDd5ESmgwPxG8iZNopWcvYaDm991jx, marinade-staked 24419.36 SOL, score-pct:0.4398%
 ValidatorScoreRecord { rank: 160, pct: 0.439783126464812, epoch: 239, keybase_id: "dmitry_korovin", name: "Duke is Back", vote_address: "D7fnHDRyonVgZFoDd5ESmgwPxG8iZNopWcvYaDm991jx", score: 3267261, average_position: 57.9686233255659, commission: 10, epoch_credits: 412023, data_center_concentration: 0.527666666666667, base_score: 364299.0, mult: 8.96862332556591, avg_score: 3267261.0 }
- has 24419.36, should_have 31858.07, to balance +stake 7438.71 (accum +stake to this point 1923656.72)
+ has 24419.36, should_have 31858.21, to balance +stake 7438.85 (accum +stake to this point 1923676.86)
 -------------------------------------------------------------
 134) #153 Validator CvqeNUd9Xq5a2681T1pwr6E86tcbEYnEViCyUfybLSQo, marinade-staked 24543.83 SOL, score-pct:0.4414%
 ValidatorScoreRecord { rank: 153, pct: 0.441422456379752, epoch: 239, keybase_id: "alexgol", name: "AlexGol", vote_address: "CvqeNUd9Xq5a2681T1pwr6E86tcbEYnEViCyUfybLSQo", score: 3279440, average_position: 57.9975608084244, commission: 10, epoch_credits: 412229, data_center_concentration: 0.527666666666667, base_score: 364481.0, mult: 8.99756080842436, avg_score: 3279440.0 }
- has 24543.83, should_have 31976.83, to balance +stake 7432.99 (accum +stake to this point 1931089.71)
+ has 24543.83, should_have 31976.96, to balance +stake 7433.13 (accum +stake to this point 1931109.99)
 -------------------------------------------------------------
 135) #189 Validator 7PHYfBQAdbbHXvQCbdLPgnkXofDyPx1pkSjkf7GyYer9, marinade-staked 23457.98 SOL, score-pct:0.4262%
 ValidatorScoreRecord { rank: 189, pct: 0.426181224291854, epoch: 239, keybase_id: "", name: "", vote_address: "7PHYfBQAdbbHXvQCbdLPgnkXofDyPx1pkSjkf7GyYer9", score: 3166209, average_position: 57.7275317939455, commission: 10, epoch_credits: 412414, data_center_concentration: 0.678133333333333, base_score: 362784.0, mult: 8.7275317939455, avg_score: 3166209.0 }
- has 23457.98, should_have 30872.74, to balance +stake 7414.77 (accum +stake to this point 1938504.48)
+ has 23457.98, should_have 30872.87, to balance +stake 7414.90 (accum +stake to this point 1938524.88)
 -------------------------------------------------------------
 136) #156 Validator 5pcSptdL9QTfWLJS6ebhwGBKLeReVdyn5ixRdRbp7brh, marinade-staked 24536.03 SOL, score-pct:0.4404%
 ValidatorScoreRecord { rank: 156, pct: 0.440449007496851, epoch: 239, keybase_id: "evgenii90", name: "Evgenii", vote_address: "5pcSptdL9QTfWLJS6ebhwGBKLeReVdyn5ixRdRbp7brh", score: 3272208, average_position: 57.980380111712, commission: 10, epoch_credits: 412107, data_center_concentration: 0.527666666666667, base_score: 364373.0, mult: 8.98038011171201, avg_score: 3272208.0 }
- has 24536.03, should_have 31906.31, to balance +stake 7370.28 (accum +stake to this point 1945874.76)
+ has 24536.03, should_have 31906.44, to balance +stake 7370.41 (accum +stake to this point 1945895.29)
 -------------------------------------------------------------
 137) #199 Validator DzSrNYBcC1o8eX5PGpkwWhdhDkJXjXLNb6A43HNuU5Ba, marinade-staked 23414.90 SOL, score-pct:0.4242%
 ValidatorScoreRecord { rank: 199, pct: 0.424227730979142, epoch: 239, keybase_id: "", name: "", vote_address: "DzSrNYBcC1o8eX5PGpkwWhdhDkJXjXLNb6A43HNuU5Ba", score: 3151696, average_position: 57.6927738582477, commission: 10, epoch_credits: 412165, data_center_concentration: 0.678133333333333, base_score: 362565.0, mult: 8.69277385824767, avg_score: 3151696.0 }
- has 23414.90, should_have 30731.23, to balance +stake 7316.33 (accum +stake to this point 1953191.09)
+ has 23414.90, should_have 30731.36, to balance +stake 7316.46 (accum +stake to this point 1953211.75)
 -------------------------------------------------------------
 138) #114 Validator 5U2ConkgHqm1URrahezEs2KakfkY3hqaUJqJ7ooUy6iJ, marinade-staked 26980.74 SOL, score-pct:0.4726%
 ValidatorScoreRecord { rank: 114, pct: 0.472585742520385, epoch: 239, keybase_id: "cryptodzh_mn", name: "CryptodzhMainnetNode", vote_address: "5U2ConkgHqm1URrahezEs2KakfkY3hqaUJqJ7ooUy6iJ", score: 3510960, average_position: 58.54296133103, commission: 10, epoch_credits: 409366, data_center_concentration: 0.0422333333333333, base_score: 367911.0, mult: 9.54296133103002, avg_score: 3510960.0 }
- has 26980.74, should_have 34234.31, to balance +stake 7253.57 (accum +stake to this point 1960444.66)
+ has 26980.74, should_have 34234.45, to balance +stake 7253.71 (accum +stake to this point 1960465.47)
 -------------------------------------------------------------
 139) #197 Validator DCYDbQbMB828QDBbmo8cquzSg6MtwhJ3LMq54enZwtKW, marinade-staked 23577.37 SOL, score-pct:0.4245%
 ValidatorScoreRecord { rank: 197, pct: 0.424529107092086, epoch: 239, keybase_id: "homogreen", name: "homogreen", vote_address: "DCYDbQbMB828QDBbmo8cquzSg6MtwhJ3LMq54enZwtKW", score: 3153935, average_position: 57.6981336792182, commission: 10, epoch_credits: 412204, data_center_concentration: 0.678133333333333, base_score: 362599.0, mult: 8.69813367921816, avg_score: 3153935.0 }
- has 23577.37, should_have 30753.06, to balance +stake 7175.69 (accum +stake to this point 1967620.35)
+ has 23577.37, should_have 30753.19, to balance +stake 7175.82 (accum +stake to this point 1967641.29)
 -------------------------------------------------------------
 140) #198 Validator DAm3i1NRb4E4TsdgHJjwfD8QSie4JwHvJ6q2HABAotqN, marinade-staked 23682.57 SOL, score-pct:0.4244%
 ValidatorScoreRecord { rank: 198, pct: 0.424423578341506, epoch: 239, keybase_id: "", name: "", vote_address: "DAm3i1NRb4E4TsdgHJjwfD8QSie4JwHvJ6q2HABAotqN", score: 3153151, average_position: 57.6962602721357, commission: 10, epoch_credits: 412191, data_center_concentration: 0.678133333333333, base_score: 362587.0, mult: 8.69626027213574, avg_score: 3153151.0 }
- has 23682.57, should_have 30745.42, to balance +stake 7062.85 (accum +stake to this point 1974683.20)
+ has 23682.57, should_have 30745.55, to balance +stake 7062.98 (accum +stake to this point 1974704.27)
 -------------------------------------------------------------
 141) #190 Validator AqSThC5LAYcfiPM73cdwDfgrCvDKHXe1TmCpUE5tnmSs, marinade-staked 23928.47 SOL, score-pct:0.4257%
 ValidatorScoreRecord { rank: 190, pct: 0.425678078284625, epoch: 239, keybase_id: "tnso", name: "888 | tnso", vote_address: "AqSThC5LAYcfiPM73cdwDfgrCvDKHXe1TmCpUE5tnmSs", score: 3162471, average_position: 57.7187177227938, commission: 10, epoch_credits: 403603, data_center_concentration: 0.0429, base_score: 362722.0, mult: 8.71871772279381, avg_score: 3162471.0 }
- has 23928.47, should_have 30836.30, to balance +stake 6907.83 (accum +stake to this point 1981591.03)
+ has 23928.47, should_have 30836.43, to balance +stake 6907.96 (accum +stake to this point 1981612.23)
 -------------------------------------------------------------
 142) #11 Validator 2EWi8L6xp62VgTqFo3LnhoSP5sL9CWqYxvK7UA63qK9x, marinade-staked 51448.19 SOL, score-pct:0.8038%
 ValidatorScoreRecord { rank: 11, pct: 0.803767535765652, epoch: 239, keybase_id: "", name: "", vote_address: "2EWi8L6xp62VgTqFo3LnhoSP5sL9CWqYxvK7UA63qK9x", score: 5971394, average_position: 63.8759349790003, commission: 0, epoch_credits: 401619, data_center_concentration: 0.0171, base_score: 401413.0, mult: 14.8759349790003, avg_score: 5971394.0 }
- has 51448.19, should_have 58225.25, to balance +stake 6777.06 (accum +stake to this point 1988368.09)
+ has 51448.19, should_have 58225.50, to balance +stake 6777.30 (accum +stake to this point 1988389.53)
 -------------------------------------------------------------
 143) #13 Validator 4rxFGSzXiTXuF9GveXbMr4fJAPPnQVjHmpEZbWV8jz9m, marinade-staked 48471.27 SOL, score-pct:0.7514%
 ValidatorScoreRecord { rank: 13, pct: 0.751373049514728, epoch: 239, keybase_id: "appload", name: "Appload 🔥 hot autumn 🔥 0% fee", vote_address: "4rxFGSzXiTXuF9GveXbMr4fJAPPnQVjHmpEZbWV8jz9m", score: 5582142, average_position: 63.0811000361983, commission: 0, epoch_credits: 407177, data_center_concentration: 0.879866666666667, base_score: 396428.0, mult: 14.0811000361983, avg_score: 5582142.0 }
- has 48471.27, should_have 54429.78, to balance +stake 5958.51 (accum +stake to this point 1994326.60)
+ has 48471.27, should_have 54430.00, to balance +stake 5958.73 (accum +stake to this point 1994348.26)
 -------------------------------------------------------------
 144) #127 Validator H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9, marinade-staked 29428.23 SOL, score-pct:0.4668%
 ValidatorScoreRecord { rank: 127, pct: 0.46675797111081, epoch: 239, keybase_id: "", name: "", vote_address: "H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9", score: 3467664, average_position: 58.4416792793312, commission: 10, epoch_credits: 411950, data_center_concentration: 0.281866666666667, base_score: 367272.0, mult: 9.44167927933123, avg_score: 3467664.0 }
- has 29428.23, should_have 33812.14, to balance +stake 4383.91 (accum +stake to this point 1998710.51)
+ has 29428.23, should_have 33812.28, to balance +stake 4384.06 (accum +stake to this point 1998732.32)
 -------------------------------------------------------------
 145) #19 Validator 3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7, marinade-staked 40325.81 SOL, score-pct:0.6070%
 ValidatorScoreRecord { rank: 19, pct: 0.606959107994115, epoch: 239, keybase_id: "nufi_vl", name: "NuFi", vote_address: "3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7", score: 4509254, average_position: 60.8012410436806, commission: 7, epoch_credits: 411051, data_center_concentration: 0.0143333333333333, base_score: 382100.0, mult: 11.8012410436806, avg_score: 4509254.0 }
- has 40325.81, should_have 43968.37, to balance +stake 3642.56 (accum +stake to this point 2002353.07)
+ has 40325.81, should_have 43968.55, to balance +stake 3642.74 (accum +stake to this point 2002375.06)
 -------------------------------------------------------------
 146) #141 Validator 6L4bTvJ4qNLSuMnAma77g4ftjgtDaJMJSwkZop2MVRj4, marinade-staked 29671.02 SOL, score-pct:0.4566%
 ValidatorScoreRecord { rank: 141, pct: 0.456639190721979, epoch: 239, keybase_id: "", name: "", vote_address: "6L4bTvJ4qNLSuMnAma77g4ftjgtDaJMJSwkZop2MVRj4", score: 3392489, average_position: 58.2650449902434, commission: 10, epoch_credits: 410054, data_center_concentration: 0.2348, base_score: 366160.0, mult: 9.26504499024338, avg_score: 3392489.0 }
- has 29671.02, should_have 33079.13, to balance +stake 3408.11 (accum +stake to this point 2005761.19)
+ has 29671.02, should_have 33079.27, to balance +stake 3408.25 (accum +stake to this point 2005783.31)
 -------------------------------------------------------------
 147) #124 Validator 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ, marinade-staked 30670.49 SOL, score-pct:0.4679%
 ValidatorScoreRecord { rank: 124, pct: 0.467878944879725, epoch: 239, keybase_id: "jcm2006", name: "Infstones", vote_address: "37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ", score: 3475992, average_position: 58.461209982296, commission: 10, epoch_credits: 412118, data_center_concentration: 0.283966666666667, base_score: 367394.0, mult: 9.46120998229603, avg_score: 3475992.0 }
- has 30670.49, should_have 33893.34, to balance +stake 3222.86 (accum +stake to this point 2008984.04)
+ has 30670.49, should_have 33893.49, to balance +stake 3223.00 (accum +stake to this point 2009006.31)
 -------------------------------------------------------------
 148) #54 Validator B2oxgLLGYQvrEwt3PXGU99Y6g2SwVT8zBG1fuzt3GK9a, marinade-staked 32895.13 SOL, score-pct:0.4909%
 ValidatorScoreRecord { rank: 54, pct: 0.490896595981975, epoch: 239, keybase_id: "", name: "", vote_address: "B2oxgLLGYQvrEwt3PXGU99Y6g2SwVT8zBG1fuzt3GK9a", score: 3646996, average_position: 58.8594900064384, commission: 10, epoch_credits: 411537, data_center_concentration: 0.0393, base_score: 369897.0, mult: 9.85949000643844, avg_score: 3646996.0 }
- has 32895.13, should_have 35560.75, to balance +stake 2665.62 (accum +stake to this point 2011649.67)
+ has 32895.13, should_have 35560.90, to balance +stake 2665.77 (accum +stake to this point 2011672.08)
 -------------------------------------------------------------
 149) #77 Validator aoYUtVYYZd8q5cEKnsKmvbM381VxFTnZbWakJ39GMci, marinade-staked 32458.35 SOL, score-pct:0.4847%
 ValidatorScoreRecord { rank: 77, pct: 0.484704588859301, epoch: 239, keybase_id: "sandipops", name: "sandipops", vote_address: "aoYUtVYYZd8q5cEKnsKmvbM381VxFTnZbWakJ39GMci", score: 3600994, average_position: 58.7527902910412, commission: 10, epoch_credits: 411967, data_center_concentration: 0.124833333333333, base_score: 369227.0, mult: 9.75279029104122, avg_score: 3600994.0 }
- has 32458.35, should_have 35112.20, to balance +stake 2653.85 (accum +stake to this point 2014303.52)
+ has 32458.35, should_have 35112.35, to balance +stake 2654.00 (accum +stake to this point 2014326.08)
 -------------------------------------------------------------
 150) #70 Validator BCAJXBV1jCJA1KPfn4u8f19qmoVWJiRStudbxVi5rW5b, marinade-staked 32717.37 SOL, score-pct:0.4866%
 ValidatorScoreRecord { rank: 70, pct: 0.486592530511895, epoch: 239, keybase_id: "chakir_viktoriya", name: "Victory", vote_address: "BCAJXBV1jCJA1KPfn4u8f19qmoVWJiRStudbxVi5rW5b", score: 3615020, average_position: 58.7853459094982, commission: 10, epoch_credits: 412195, data_center_concentration: 0.124833333333333, base_score: 369432.0, mult: 9.7853459094982, avg_score: 3615020.0 }
- has 32717.37, should_have 35248.96, to balance +stake 2531.59 (accum +stake to this point 2016835.11)
+ has 32717.37, should_have 35249.11, to balance +stake 2531.74 (accum +stake to this point 2016857.82)
 -------------------------------------------------------------
 151) #48 Validator A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF, marinade-staked 33212.52 SOL, score-pct:0.4923%
 ValidatorScoreRecord { rank: 48, pct: 0.492312484919921, epoch: 239, keybase_id: "felinefellas", name: "Feline", vote_address: "A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF", score: 3657515, average_position: 58.8838406658776, commission: 10, epoch_credits: 412251, data_center_concentration: 0.0789333333333333, base_score: 370050.0, mult: 9.88384066587756, avg_score: 3657515.0 }
- has 33212.52, should_have 35663.32, to balance +stake 2450.80 (accum +stake to this point 2019285.91)
+ has 33212.52, should_have 35663.47, to balance +stake 2450.95 (accum +stake to this point 2019308.77)
 -------------------------------------------------------------
 152) #91 Validator D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4, marinade-staked 32442.21 SOL, score-pct:0.4811%
 ValidatorScoreRecord { rank: 91, pct: 0.481132090684377, epoch: 239, keybase_id: "easy2stake", name: "Easy2Stake", vote_address: "D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4", score: 3574453, average_position: 58.6910658628898, commission: 10, epoch_credits: 410421, data_center_concentration: 0.0437333333333333, base_score: 368840.0, mult: 9.69106586288977, avg_score: 3574453.0 }
- has 32442.21, should_have 34853.41, to balance +stake 2411.20 (accum +stake to this point 2021697.11)
+ has 32442.21, should_have 34853.55, to balance +stake 2411.35 (accum +stake to this point 2021720.11)
 -------------------------------------------------------------
 153) #44 Validator EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw, marinade-staked 33433.17 SOL, score-pct:0.4945%
 ValidatorScoreRecord { rank: 44, pct: 0.494494803329554, epoch: 239, keybase_id: "", name: "Moonshot Networks/SOL Validator", vote_address: "EXhYxF25PJEHb3v5G1HY8Jn8Jm7bRjJtaxEghGrUuhQw", score: 3673728, average_position: 58.9213268410686, commission: 10, epoch_credits: 411545, data_center_concentration: 0.0084, base_score: 370286.0, mult: 9.92132684106863, avg_score: 3673728.0 }
- has 33433.17, should_have 35821.41, to balance +stake 2388.24 (accum +stake to this point 2024085.34)
+ has 33433.17, should_have 35821.56, to balance +stake 2388.39 (accum +stake to this point 2024108.50)
 -------------------------------------------------------------
 154) #34 Validator DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU, marinade-staked 33594.42 SOL, score-pct:0.4967%
 ValidatorScoreRecord { rank: 34, pct: 0.496707542016777, epoch: 239, keybase_id: "", name: "", vote_address: "DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU", score: 3690167, average_position: 58.9592916668502, commission: 10, epoch_credits: 412278, data_center_concentration: 0.0424, base_score: 370525.0, mult: 9.95929166685016, avg_score: 3690167.0 }
- has 33594.42, should_have 35981.70, to balance +stake 2387.28 (accum +stake to this point 2026472.62)
+ has 33594.42, should_have 35981.85, to balance +stake 2387.43 (accum +stake to this point 2026495.93)
 -------------------------------------------------------------
 155) #68 Validator 7YzmMGQhrE7VaTiDFnb7R633gquLEKmSpwkXG6u64fhj, marinade-staked 32877.23 SOL, score-pct:0.4867%
 ValidatorScoreRecord { rank: 68, pct: 0.48673857476493, epoch: 239, keybase_id: "smurf2021", name: "Smurfik", vote_address: "7YzmMGQhrE7VaTiDFnb7R633gquLEKmSpwkXG6u64fhj", score: 3616105, average_position: 58.7878584227685, commission: 10, epoch_credits: 411994, data_center_concentration: 0.108733333333333, base_score: 369448.0, mult: 9.78785842276852, avg_score: 3616105.0 }
- has 32877.23, should_have 35259.54, to balance +stake 2382.31 (accum +stake to this point 2028854.94)
+ has 32877.23, should_have 35259.69, to balance +stake 2382.46 (accum +stake to this point 2028878.39)
 -------------------------------------------------------------
 156) #59 Validator 8Dfm249TXe9Wd3wYEnpBdSme659gecoEMH8zx1YWN79v, marinade-staked 33069.90 SOL, score-pct:0.4888%
 ValidatorScoreRecord { rank: 59, pct: 0.488770137816591, epoch: 239, keybase_id: "", name: "", vote_address: "8Dfm249TXe9Wd3wYEnpBdSme659gecoEMH8zx1YWN79v", score: 3631198, average_position: 58.8228891557885, commission: 10, epoch_credits: 411264, data_center_concentration: 0.0381, base_score: 369667.0, mult: 9.82288915578846, avg_score: 3631198.0 }
- has 33069.90, should_have 35406.71, to balance +stake 2336.81 (accum +stake to this point 2031191.75)
+ has 33069.90, should_have 35406.86, to balance +stake 2336.96 (accum +stake to this point 2031215.35)
 -------------------------------------------------------------
 157) #40 Validator BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq, marinade-staked 33596.09 SOL, score-pct:0.4953%
 ValidatorScoreRecord { rank: 40, pct: 0.495252349003359, epoch: 239, keybase_id: "", name: "", vote_address: "BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq", score: 3679356, average_position: 58.9343259918269, commission: 10, epoch_credits: 412103, data_center_concentration: 0.0424, base_score: 370368.0, mult: 9.93432599182691, avg_score: 3679356.0 }
- has 33596.09, should_have 35876.29, to balance +stake 2280.20 (accum +stake to this point 2033471.95)
+ has 33596.09, should_have 35876.44, to balance +stake 2280.35 (accum +stake to this point 2033495.70)
 -------------------------------------------------------------
 158) #56 Validator 68yZX4mnV8vgefSNTWcaEHYUQt9XTzW8p5tt5r4PWseh, marinade-staked 33218.61 SOL, score-pct:0.4897%
 ValidatorScoreRecord { rank: 56, pct: 0.489726626721719, epoch: 239, keybase_id: "wachburger", name: "Wachburger", vote_address: "68yZX4mnV8vgefSNTWcaEHYUQt9XTzW8p5tt5r4PWseh", score: 3638304, average_position: 58.8393449092247, commission: 10, epoch_credits: 411440, data_center_concentration: 0.0425, base_score: 369771.0, mult: 9.83934490922473, avg_score: 3638304.0 }
- has 33218.61, should_have 35476.00, to balance +stake 2257.39 (accum +stake to this point 2035729.33)
+ has 33218.61, should_have 35476.15, to balance +stake 2257.53 (accum +stake to this point 2035753.23)
 -------------------------------------------------------------
 159) #71 Validator 36jVWrHfpyN2RvXCkGA75qdzcBqFfMcyKbC2qg4o2gA8, marinade-staked 33000.75 SOL, score-pct:0.4866%
 ValidatorScoreRecord { rank: 71, pct: 0.486551880406442, epoch: 239, keybase_id: "", name: "", vote_address: "36jVWrHfpyN2RvXCkGA75qdzcBqFfMcyKbC2qg4o2gA8", score: 3614718, average_position: 58.7846613804201, commission: 10, epoch_credits: 412157, data_center_concentration: 0.1224, base_score: 369427.0, mult: 9.78466138042006, avg_score: 3614718.0 }
- has 33000.75, should_have 35246.02, to balance +stake 2245.27 (accum +stake to this point 2037974.60)
+ has 33000.75, should_have 35246.17, to balance +stake 2245.42 (accum +stake to this point 2037998.65)
 -------------------------------------------------------------
 160) #45 Validator 49DJjUX3cwFvaZD5rCAwubiz7qdRWDez9xmB381XdHru, marinade-staked 33552.03 SOL, score-pct:0.4939%
 ValidatorScoreRecord { rank: 45, pct: 0.493869572402968, epoch: 239, keybase_id: "gnossienli", name: "Staker Space", vote_address: "49DJjUX3cwFvaZD5rCAwubiz7qdRWDez9xmB381XdHru", score: 3669083, average_position: 58.9105755560128, commission: 10, epoch_credits: 412164, data_center_concentration: 0.0589, base_score: 370219.0, mult: 9.91057555601284, avg_score: 3669083.0 }
- has 33552.03, should_have 35776.12, to balance +stake 2224.08 (accum +stake to this point 2040198.69)
+ has 33552.03, should_have 35776.27, to balance +stake 2224.23 (accum +stake to this point 2040222.88)
 -------------------------------------------------------------
 161) #65 Validator 9FNVvTw3kPyb3239RKakAXUfkmZzi5TDnH4hdwksRBig, marinade-staked 33065.96 SOL, score-pct:0.4870%
 ValidatorScoreRecord { rank: 65, pct: 0.487047084836778, epoch: 239, keybase_id: "", name: "", vote_address: "9FNVvTw3kPyb3239RKakAXUfkmZzi5TDnH4hdwksRBig", score: 3618397, average_position: 58.7931878764975, commission: 10, epoch_credits: 412197, data_center_concentration: 0.121, base_score: 369481.0, mult: 9.79318787649749, avg_score: 3618397.0 }
- has 33065.96, should_have 35281.89, to balance +stake 2215.93 (accum +stake to this point 2042414.62)
+ has 33065.96, should_have 35282.04, to balance +stake 2216.08 (accum +stake to this point 2042438.96)
 -------------------------------------------------------------
 162) #63 Validator 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk, marinade-staked 33119.78 SOL, score-pct:0.4877%
 ValidatorScoreRecord { rank: 63, pct: 0.487695063670058, epoch: 239, keybase_id: "ubikcosmos", name: "Ubik Capital", vote_address: "9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk", score: 3623211, average_position: 58.8043608605558, commission: 10, epoch_credits: 412160, data_center_concentration: 0.112666666666667, base_score: 369551.0, mult: 9.80436086055585, avg_score: 3623211.0 }
- has 33119.78, should_have 35328.83, to balance +stake 2209.05 (accum +stake to this point 2044623.68)
+ has 33119.78, should_have 35328.98, to balance +stake 2209.20 (accum +stake to this point 2044648.16)
 -------------------------------------------------------------
 163) #83 Validator 437jBWng7563yC8LForExeWZ8LVMQSkqqBEbzAFjfpVx, marinade-staked 32937.41 SOL, score-pct:0.4842%
 ValidatorScoreRecord { rank: 83, pct: 0.484218806638838, epoch: 239, keybase_id: "", name: "", vote_address: "437jBWng7563yC8LForExeWZ8LVMQSkqqBEbzAFjfpVx", score: 3597385, average_position: 58.744415086251, commission: 10, epoch_credits: 412407, data_center_concentration: 0.160966666666667, base_score: 369174.0, mult: 9.74441508625105, avg_score: 3597385.0 }
- has 32937.41, should_have 35077.01, to balance +stake 2139.60 (accum +stake to this point 2046763.28)
+ has 32937.41, should_have 35077.16, to balance +stake 2139.75 (accum +stake to this point 2046787.91)
 -------------------------------------------------------------
 164) #73 Validator Dp9gpMr68ZG6gKi1ByGq1oACwWrmRe7cvBWBHhRbdHxr, marinade-staked 33090.90 SOL, score-pct:0.4862%
 ValidatorScoreRecord { rank: 73, pct: 0.48623771700867, epoch: 239, keybase_id: "", name: "", vote_address: "Dp9gpMr68ZG6gKi1ByGq1oACwWrmRe7cvBWBHhRbdHxr", score: 3612384, average_position: 58.7792432833491, commission: 10, epoch_credits: 412093, data_center_concentration: 0.120533333333333, base_score: 369393.0, mult: 9.77924328334912, avg_score: 3612384.0 }
- has 33090.90, should_have 35223.26, to balance +stake 2132.36 (accum +stake to this point 2048895.64)
+ has 33090.90, should_have 35223.41, to balance +stake 2132.50 (accum +stake to this point 2048920.42)
 -------------------------------------------------------------
 165) #57 Validator D1BYFpbZuwUtgNT7CeuQFQjyhEQbm9Z6XP8R7cfeWed1, marinade-staked 33288.91 SOL, score-pct:0.4889%
 ValidatorScoreRecord { rank: 57, pct: 0.488884954174046, epoch: 239, keybase_id: "julso", name: "Julianna", vote_address: "D1BYFpbZuwUtgNT7CeuQFQjyhEQbm9Z6XP8R7cfeWed1", score: 3632051, average_position: 58.8248516242787, commission: 10, epoch_credits: 412053, data_center_concentration: 0.0944333333333333, base_score: 369680.0, mult: 9.8248516242787, avg_score: 3632051.0 }
- has 33288.91, should_have 35415.03, to balance +stake 2126.12 (accum +stake to this point 2051021.76)
+ has 33288.91, should_have 35415.18, to balance +stake 2126.27 (accum +stake to this point 2051046.69)
 -------------------------------------------------------------
 166) #66 Validator CHUF69YeA3gZv484izYuhKk1EjaJYjv1pNoJJ6QeFDQc, marinade-staked 33156.46 SOL, score-pct:0.4870%
 ValidatorScoreRecord { rank: 66, pct: 0.486964707801887, epoch: 239, keybase_id: "", name: "", vote_address: "CHUF69YeA3gZv484izYuhKk1EjaJYjv1pNoJJ6QeFDQc", score: 3617785, average_position: 58.791771626086, commission: 10, epoch_credits: 412147, data_center_concentration: 0.1181, base_score: 369472.0, mult: 9.791771626086, avg_score: 3617785.0 }
- has 33156.46, should_have 35275.93, to balance +stake 2119.46 (accum +stake to this point 2053141.22)
+ has 33156.46, should_have 35276.07, to balance +stake 2119.61 (accum +stake to this point 2053166.30)
 -------------------------------------------------------------
 167) #80 Validator EkLA4nA5jtM2t2FkNWo6XWAyvQyaJJUZoX5p7LMawoaz, marinade-staked 32977.10 SOL, score-pct:0.4844%
 ValidatorScoreRecord { rank: 80, pct: 0.484439690158866, epoch: 239, keybase_id: "natashmor", name: "❄❄❄\u{fe0f}", vote_address: "EkLA4nA5jtM2t2FkNWo6XWAyvQyaJJUZoX5p7LMawoaz", score: 3599026, average_position: 58.7482270439063, commission: 10, epoch_credits: 412104, data_center_concentration: 0.137133333333333, base_score: 369198.0, mult: 9.7482270439063, avg_score: 3599026.0 }
- has 32977.10, should_have 35093.01, to balance +stake 2115.91 (accum +stake to this point 2055257.13)
+ has 32977.10, should_have 35093.16, to balance +stake 2116.06 (accum +stake to this point 2055282.36)
 -------------------------------------------------------------
 168) #85 Validator EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL, marinade-staked 32961.83 SOL, score-pct:0.4841%
 ValidatorScoreRecord { rank: 85, pct: 0.484075319842769, epoch: 239, keybase_id: "", name: "", vote_address: "EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL", score: 3596319, average_position: 58.741924326724, commission: 10, epoch_credits: 412390, data_center_concentration: 0.160966666666667, base_score: 369159.0, mult: 9.74192432672402, avg_score: 3596319.0 }
- has 32961.83, should_have 35066.62, to balance +stake 2104.79 (accum +stake to this point 2057361.92)
+ has 32961.83, should_have 35066.76, to balance +stake 2104.93 (accum +stake to this point 2057387.29)
 -------------------------------------------------------------
 169) #99 Validator 5RCD4pZcKH3NHN4XHxvsnVAawSaConLgsZbreSN5dXpZ, marinade-staked 32555.75 SOL, score-pct:0.4782%
 ValidatorScoreRecord { rank: 99, pct: 0.478244048755241, epoch: 239, keybase_id: "mymindsetonyou", name: "NeNa 🌻", vote_address: "5RCD4pZcKH3NHN4XHxvsnVAawSaConLgsZbreSN5dXpZ", score: 3552997, average_position: 58.6411300703358, commission: 10, epoch_credits: 411353, data_center_concentration: 0.137133333333333, base_score: 368525.0, mult: 9.64113007033578, avg_score: 3552997.0 }
- has 32555.75, should_have 34644.20, to balance +stake 2088.45 (accum +stake to this point 2059450.37)
+ has 32555.75, should_have 34644.34, to balance +stake 2088.59 (accum +stake to this point 2059475.88)
 -------------------------------------------------------------
 170) #107 Validator 48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf, marinade-staked 32364.64 SOL, score-pct:0.4751%
 ValidatorScoreRecord { rank: 107, pct: 0.475064591335027, epoch: 239, keybase_id: "ama31337", name: "lux8.net", vote_address: "48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf", score: 3529376, average_position: 58.5860333758113, commission: 10, epoch_credits: 412114, data_center_concentration: 0.220233333333333, base_score: 368179.0, mult: 9.58603337581127, avg_score: 3529376.0 }
- has 32364.64, should_have 34413.88, to balance +stake 2049.23 (accum +stake to this point 2061499.60)
+ has 32364.64, should_have 34414.02, to balance +stake 2049.38 (accum +stake to this point 2061525.26)
 -------------------------------------------------------------
 171) #90 Validator ATpXkCXWHRwA6txb6PzEGRPYqnZ28Y9CKodTH21en6kG, marinade-staked 32855.51 SOL, score-pct:0.4817%
 ValidatorScoreRecord { rank: 90, pct: 0.481689481699876, epoch: 239, keybase_id: "valenode", name: "valenode", vote_address: "ATpXkCXWHRwA6txb6PzEGRPYqnZ28Y9CKodTH21en6kG", score: 3578594, average_position: 58.7007144135866, commission: 10, epoch_credits: 412100, data_center_concentration: 0.160966666666667, base_score: 368900.0, mult: 9.70071441358661, avg_score: 3578594.0 }
- has 32855.51, should_have 34893.79, to balance +stake 2038.28 (accum +stake to this point 2063537.88)
+ has 32855.51, should_have 34893.93, to balance +stake 2038.42 (accum +stake to this point 2063563.68)
 -------------------------------------------------------------
 172) #89 Validator 2nj17ZX4Mwj9yFx7ATBzhN7RzVQfWiSjCdMeeH6NBXe8, marinade-staked 32884.57 SOL, score-pct:0.4820%
 ValidatorScoreRecord { rank: 89, pct: 0.48203245013926, epoch: 239, keybase_id: "", name: "", vote_address: "2nj17ZX4Mwj9yFx7ATBzhN7RzVQfWiSjCdMeeH6NBXe8", score: 3581142, average_position: 58.7066480718602, commission: 10, epoch_credits: 412142, data_center_concentration: 0.160966666666667, base_score: 368937.0, mult: 9.70664807186021, avg_score: 3581142.0 }
- has 32884.57, should_have 34918.63, to balance +stake 2034.06 (accum +stake to this point 2065571.93)
+ has 32884.57, should_have 34918.78, to balance +stake 2034.20 (accum +stake to this point 2065597.88)
 -------------------------------------------------------------
 173) #162 Validator E3CTBwiLeBzJ7AJzmVnqtDBf1wHXv33uPPg7SjkGKWxE, marinade-staked 29645.77 SOL, score-pct:0.4372%
 ValidatorScoreRecord { rank: 162, pct: 0.437159983236112, epoch: 239, keybase_id: "eosis", name: "Eosis", vote_address: "E3CTBwiLeBzJ7AJzmVnqtDBf1wHXv33uPPg7SjkGKWxE", score: 3247773, average_position: 57.9222811819515, commission: 10, epoch_credits: 412110, data_center_concentration: 0.557466666666667, base_score: 364007.0, mult: 8.92228118195148, avg_score: 3247773.0 }
- has 29645.77, should_have 31668.05, to balance +stake 2022.28 (accum +stake to this point 2067594.22)
+ has 29645.77, should_have 31668.18, to balance +stake 2022.42 (accum +stake to this point 2067620.30)
 -------------------------------------------------------------
 174) #29 Validator 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857, marinade-staked 34471.63 SOL, score-pct:0.5024%
 ValidatorScoreRecord { rank: 29, pct: 0.502404075503118, epoch: 239, keybase_id: "forbole", name: "Forbole", vote_address: "76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857", score: 3732488, average_position: 59.05687402767, commission: 9, epoch_credits: 410966, data_center_concentration: 0.230433333333333, base_score: 371138.0, mult: 10.05687402767, avg_score: 3732488.0 }
- has 34471.63, should_have 36394.36, to balance +stake 1922.73 (accum +stake to this point 2069516.95)
+ has 34471.63, should_have 36394.51, to balance +stake 1922.89 (accum +stake to this point 2069543.18)
 -------------------------------------------------------------
 175) #149 Validator FQwewNXahV7MiZcLpY6p1xhUs2acVGQ3U5Xxc7FzV571, marinade-staked 30482.26 SOL, score-pct:0.4470%
 ValidatorScoreRecord { rank: 149, pct: 0.447039574097162, epoch: 239, keybase_id: "bd_validators", name: "Blockdaemon 🧱👿 Validator", vote_address: "FQwewNXahV7MiZcLpY6p1xhUs2acVGQ3U5Xxc7FzV571", score: 3321171, average_position: 58.0965329337958, commission: 8, epoch_credits: 412226, data_center_concentration: 1.14376666666667, base_score: 365103.0, mult: 9.09653293379576, avg_score: 3321171.0 }
- has 30482.26, should_have 32383.73, to balance +stake 1901.47 (accum +stake to this point 2071418.42)
+ has 30482.26, should_have 32383.87, to balance +stake 1901.61 (accum +stake to this point 2071444.79)
 -------------------------------------------------------------
 176) #25 Validator GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j, marinade-staked 36879.57 SOL, score-pct:0.5350%
 ValidatorScoreRecord { rank: 25, pct: 0.535014074668284, epoch: 239, keybase_id: "adorid", name: "Adorid", vote_address: "GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j", score: 3974756, average_position: 59.6101281340463, commission: 8, epoch_credits: 407821, data_center_concentration: 0.0471, base_score: 374619.0, mult: 10.6101281340463, avg_score: 3974756.0 }
- has 36879.57, should_have 38756.64, to balance +stake 1877.07 (accum +stake to this point 2073295.49)
+ has 36879.57, should_have 38756.80, to balance +stake 1877.23 (accum +stake to this point 2073322.02)
 -------------------------------------------------------------
 177) #101 Validator 13zyX9jfGy1RvM28LcdqfLwR4VSowXx6whAL6AcFERCk, marinade-staked 32854.75 SOL, score-pct:0.4781%
 ValidatorScoreRecord { rank: 101, pct: 0.478125059704842, epoch: 239, keybase_id: "", name: "Shura", vote_address: "13zyX9jfGy1RvM28LcdqfLwR4VSowXx6whAL6AcFERCk", score: 3552113, average_position: 58.639071099491, commission: 10, epoch_credits: 412189, data_center_concentration: 0.1989, base_score: 368512.0, mult: 9.63907109949105, avg_score: 3552113.0 }
- has 32854.75, should_have 34635.58, to balance +stake 1780.83 (accum +stake to this point 2075076.32)
+ has 32854.75, should_have 34635.72, to balance +stake 1780.97 (accum +stake to this point 2075102.99)
 -------------------------------------------------------------
 178) #2 Validator Bt9u2Vmxu4B8Kkjv6RagPskdeJNS6E7nGci4d68HJ3xh, marinade-staked 64501.91 SOL, score-pct:0.9126%
 ValidatorScoreRecord { rank: 2, pct: 0.912637267363586, epoch: 239, keybase_id: "hyperspheresol", name: "Hypersphere Digital", vote_address: "Bt9u2Vmxu4B8Kkjv6RagPskdeJNS6E7nGci4d68HJ3xh", score: 6780215, average_position: 65.4773492401489, commission: 0, epoch_credits: 411971, data_center_concentration: 0.0392333333333333, base_score: 411487.0, mult: 16.4773492401489, avg_score: 6780215.0 }
- has 64501.91, should_have 66111.82, to balance +stake 1609.92 (accum +stake to this point 2076686.23)
+ has 64501.91, should_have 66112.10, to balance +stake 1610.19 (accum +stake to this point 2076713.18)
 -------------------------------------------------------------
 179) #184 Validator HXnHzBUQVZAmovjMb7vbm8G53XS3W4KVrzpF6jiozrJ3, marinade-staked 29590.90 SOL, score-pct:0.4284%
 ValidatorScoreRecord { rank: 184, pct: 0.428444169897401, epoch: 239, keybase_id: "", name: "", vote_address: "HXnHzBUQVZAmovjMb7vbm8G53XS3W4KVrzpF6jiozrJ3", score: 3183021, average_position: 57.7677583100488, commission: 10, epoch_credits: 411437, data_center_concentration: 0.587866666666667, base_score: 363037.0, mult: 8.76775831004884, avg_score: 3183021.0 }
- has 29590.90, should_have 31036.67, to balance +stake 1445.78 (accum +stake to this point 2078132.01)
+ has 29590.90, should_have 31036.80, to balance +stake 1445.90 (accum +stake to this point 2078159.09)
 -------------------------------------------------------------
 180) #185 Validator 2jvDEtiywY9sjx29gCAQjvxD5gJLcw89NVhkJ6ybajZC, marinade-staked 29626.75 SOL, score-pct:0.4281%
 ValidatorScoreRecord { rank: 185, pct: 0.428068627532455, epoch: 239, keybase_id: "", name: "", vote_address: "2jvDEtiywY9sjx29gCAQjvxD5gJLcw89NVhkJ6ybajZC", score: 3180231, average_position: 57.7610887799677, commission: 10, epoch_credits: 411389, data_center_concentration: 0.587866666666667, base_score: 362995.0, mult: 8.76108877996774, avg_score: 3180231.0 }
- has 29626.75, should_have 31009.47, to balance +stake 1382.72 (accum +stake to this point 2079514.72)
+ has 29626.75, should_have 31009.60, to balance +stake 1382.85 (accum +stake to this point 2079541.94)
 -------------------------------------------------------------
 181) #104 Validator CXdiCafVFwtTyr4AcAjHtMaow98zqXKq6TRq8GNN9Q15, marinade-staked 33153.52 SOL, score-pct:0.4765%
 ValidatorScoreRecord { rank: 104, pct: 0.476533917663254, epoch: 239, keybase_id: "km000s", name: "Black Engineering Lin", vote_address: "CXdiCafVFwtTyr4AcAjHtMaow98zqXKq6TRq8GNN9Q15", score: 3540292, average_position: 58.6115577937905, commission: 10, epoch_credits: 410398, data_center_concentration: 0.0829, base_score: 368337.0, mult: 9.6115577937905, avg_score: 3540292.0 }
- has 33153.52, should_have 34520.31, to balance +stake 1366.80 (accum +stake to this point 2080881.52)
+ has 33153.52, should_have 34520.46, to balance +stake 1366.94 (accum +stake to this point 2080908.88)
 -------------------------------------------------------------
 182) #186 Validator 2QE9X9X4tdDUTYic1DgBBJjU7cWUNPbKYGerCb9KqDQN, marinade-staked 29636.89 SOL, score-pct:0.4274%
 ValidatorScoreRecord { rank: 186, pct: 0.427405438560379, epoch: 239, keybase_id: "iurii", name: "iurii", vote_address: "2QE9X9X4tdDUTYic1DgBBJjU7cWUNPbKYGerCb9KqDQN", score: 3175304, average_position: 57.7492990807304, commission: 10, epoch_credits: 411305, data_center_concentration: 0.587866666666667, base_score: 362921.0, mult: 8.74929908073042, avg_score: 3175304.0 }
- has 29636.89, should_have 30961.43, to balance +stake 1324.54 (accum +stake to this point 2082206.06)
+ has 29636.89, should_have 30961.56, to balance +stake 1324.67 (accum +stake to this point 2082233.55)
 -------------------------------------------------------------
 183) #95 Validator 7k2ysYjSheYCamBximJsfCHSivXNyGobD3gBrVMK423G, marinade-staked 33536.90 SOL, score-pct:0.4800%
 ValidatorScoreRecord { rank: 95, pct: 0.480032518792174, epoch: 239, keybase_id: "", name: "hammerfest", vote_address: "7k2ysYjSheYCamBximJsfCHSivXNyGobD3gBrVMK423G", score: 3566284, average_position: 58.6720389700571, commission: 10, epoch_credits: 410285, data_center_concentration: 0.0435, base_score: 368721.0, mult: 9.67203897005709, avg_score: 3566284.0 }
- has 33536.90, should_have 34773.75, to balance +stake 1236.86 (accum +stake to this point 2083442.92)
+ has 33536.90, should_have 34773.90, to balance +stake 1237.00 (accum +stake to this point 2083470.55)
 -------------------------------------------------------------
 184) #130 Validator Dh4K8fNV6pRFZtbzQnP5a5HmyBPb2kmxvWiYmc5fJMvj, marinade-staked 32432.97 SOL, score-pct:0.4641%
 ValidatorScoreRecord { rank: 130, pct: 0.464131597410153, epoch: 239, keybase_id: "bro2", name: "Bro", vote_address: "Dh4K8fNV6pRFZtbzQnP5a5HmyBPb2kmxvWiYmc5fJMvj", score: 3448152, average_position: 58.3958686768437, commission: 10, epoch_credits: 409968, data_center_concentration: 0.161433333333333, base_score: 366986.0, mult: 9.39586867684371, avg_score: 3448152.0 }
- has 32432.97, should_have 33621.89, to balance +stake 1188.92 (accum +stake to this point 2084631.84)
+ has 32432.97, should_have 33622.03, to balance +stake 1189.06 (accum +stake to this point 2084659.61)
 -------------------------------------------------------------
 185) #187 Validator DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN, marinade-staked 29898.04 SOL, score-pct:0.4272%
 ValidatorScoreRecord { rank: 187, pct: 0.427216725156919, epoch: 239, keybase_id: "yucher", name: "Nava", vote_address: "DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN", score: 3173902, average_position: 57.7459179380698, commission: 10, epoch_credits: 410442, data_center_concentration: 0.527666666666667, base_score: 362901.0, mult: 8.74591793806983, avg_score: 3173902.0 }
- has 29898.04, should_have 30947.76, to balance +stake 1049.71 (accum +stake to this point 2085681.55)
+ has 29898.04, should_have 30947.89, to balance +stake 1049.84 (accum +stake to this point 2085709.45)
 -------------------------------------------------------------
 186) #105 Validator 4hoZBjJrFqJf9Bhop5sAwdidFM8qM88EQJQwbfgs1pkP, marinade-staked 33507.53 SOL, score-pct:0.4764%
 ValidatorScoreRecord { rank: 105, pct: 0.476360818207584, epoch: 239, keybase_id: "", name: "My Validator", vote_address: "4hoZBjJrFqJf9Bhop5sAwdidFM8qM88EQJQwbfgs1pkP", score: 3539006, average_position: 58.6085597891683, commission: 10, epoch_credits: 410171, data_center_concentration: 0.0679, base_score: 368318.0, mult: 9.60855978916835, avg_score: 3539006.0 }
- has 33507.53, should_have 34507.78, to balance +stake 1000.24 (accum +stake to this point 2086681.79)
+ has 33507.53, should_have 34507.92, to balance +stake 1000.39 (accum +stake to this point 2086709.83)
 -------------------------------------------------------------
 187) #188 Validator 4CtNJvygjgJ3aY77eLV6Ld5V7g2M9bD2t9XYxYFcbMJ8, marinade-staked 30112.68 SOL, score-pct:0.4270%
 ValidatorScoreRecord { rank: 188, pct: 0.427030300004428, epoch: 239, keybase_id: "", name: "", vote_address: "4CtNJvygjgJ3aY77eLV6Ld5V7g2M9bD2t9XYxYFcbMJ8", score: 3172517, average_position: 57.7426297592066, commission: 10, epoch_credits: 410833, data_center_concentration: 0.557466666666667, base_score: 362879.0, mult: 8.74262975920658, avg_score: 3172517.0 }
- has 30112.68, should_have 30934.25, to balance +stake 821.57 (accum +stake to this point 2087503.37)
+ has 30112.68, should_have 30934.38, to balance +stake 821.70 (accum +stake to this point 2087531.54)
 -------------------------------------------------------------
 188) #122 Validator 53RJBy7aBGA7Aag6AryxEmBbsHDgwfBWagLrPbGHnfvR, marinade-staked 33163.23 SOL, score-pct:0.4689%
 ValidatorScoreRecord { rank: 122, pct: 0.468902869886946, epoch: 239, keybase_id: "", name: "vladika[MantiCore]", vote_address: "53RJBy7aBGA7Aag6AryxEmBbsHDgwfBWagLrPbGHnfvR", score: 3483599, average_position: 58.4790254813508, commission: 10, epoch_credits: 412214, data_center_concentration: 0.281866666666667, base_score: 367506.0, mult: 9.47902548135082, avg_score: 3483599.0 }
- has 33163.23, should_have 33967.52, to balance +stake 804.29 (accum +stake to this point 2088307.65)
+ has 33163.23, should_have 33967.66, to balance +stake 804.43 (accum +stake to this point 2088335.97)
 -------------------------------------------------------------
 189) #100 Validator 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw, marinade-staked 33842.17 SOL, score-pct:0.4782%
 ValidatorScoreRecord { rank: 100, pct: 0.478185631054027, epoch: 239, keybase_id: "oligarrison", name: "oligarrison", vote_address: "2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw", score: 3552563, average_position: 58.6401078707143, commission: 10, epoch_credits: 412197, data_center_concentration: 0.1989, base_score: 368519.0, mult: 9.64010787071428, avg_score: 3552563.0 }
- has 33842.17, should_have 34639.97, to balance +stake 797.79 (accum +stake to this point 2089105.45)
+ has 33842.17, should_have 34640.11, to balance +stake 797.94 (accum +stake to this point 2089133.90)
 -------------------------------------------------------------
 190) #139 Validator 2mQNruSKNnn6fWqJjKNGsQtpsMnuxxMzHsrKT6iVR7tW, marinade-staked 32463.17 SOL, score-pct:0.4590%
 ValidatorScoreRecord { rank: 139, pct: 0.459016952684981, epoch: 239, keybase_id: "launoosku", name: "launoosku", vote_address: "2mQNruSKNnn6fWqJjKNGsQtpsMnuxxMzHsrKT6iVR7tW", score: 3410154, average_position: 58.3066039463969, commission: 10, epoch_credits: 412012, data_center_concentration: 0.354933333333333, base_score: 366423.0, mult: 9.30660394639691, avg_score: 3410154.0 }
- has 32463.17, should_have 33251.38, to balance +stake 788.20 (accum +stake to this point 2089893.65)
+ has 32463.17, should_have 33251.52, to balance +stake 788.34 (accum +stake to this point 2089922.25)
 -------------------------------------------------------------
 191) #37 Validator 6559KMdiUseNSAkRcK9WcFcNTppoj6jWtKVedpMkBYCn, marinade-staked 35221.47 SOL, score-pct:0.4959%
 ValidatorScoreRecord { rank: 37, pct: 0.495850390124312, epoch: 239, keybase_id: "alexdcrypto", name: "alexdcrypto - stake2earn 🌜", vote_address: "6559KMdiUseNSAkRcK9WcFcNTppoj6jWtKVedpMkBYCn", score: 3683799, average_position: 58.9446036279742, commission: 10, epoch_credits: 412217, data_center_concentration: 0.0455, base_score: 370432.0, mult: 9.94460362797417, avg_score: 3683799.0 }
- has 35221.47, should_have 35919.61, to balance +stake 698.14 (accum +stake to this point 2090591.79)
+ has 35221.47, should_have 35919.76, to balance +stake 698.29 (accum +stake to this point 2090620.54)
 -------------------------------------------------------------
 192) #52 Validator 7oX5QSP9yBjT1F1sRSDCX91ZxibETqemDM4WLDju5rTM, marinade-staked 35101.23 SOL, score-pct:0.4919%
 ValidatorScoreRecord { rank: 52, pct: 0.491873948351823, epoch: 239, keybase_id: "", name: "", vote_address: "7oX5QSP9yBjT1F1sRSDCX91ZxibETqemDM4WLDju5rTM", score: 3654257, average_position: 58.8762902248367, commission: 10, epoch_credits: 412047, data_center_concentration: 0.0679, base_score: 370003.0, mult: 9.87629022483668, avg_score: 3654257.0 }
- has 35101.23, should_have 35631.55, to balance +stake 530.32 (accum +stake to this point 2091122.11)
+ has 35101.23, should_have 35631.70, to balance +stake 530.47 (accum +stake to this point 2091151.00)
 -------------------------------------------------------------
 193) #86 Validator 8AKJkPw4d2XXXy1fjQPvty9ModNrNaqdJJb9ifi7iXAX, marinade-staked 34542.23 SOL, score-pct:0.4838%
 ValidatorScoreRecord { rank: 86, pct: 0.483776635789789, epoch: 239, keybase_id: "sophoah", name: "Soph Validator", vote_address: "8AKJkPw4d2XXXy1fjQPvty9ModNrNaqdJJb9ifi7iXAX", score: 3594100, average_position: 58.7367848666682, commission: 10, epoch_credits: 411300, data_center_concentration: 0.0845666666666667, base_score: 369126.0, mult: 9.73678486666821, avg_score: 3594100.0 }
- has 34542.23, should_have 35044.98, to balance +stake 502.75 (accum +stake to this point 2091624.86)
+ has 34542.23, should_have 35045.13, to balance +stake 502.90 (accum +stake to this point 2091653.90)
 -------------------------------------------------------------
 194) #126 Validator irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W, marinade-staked 33458.18 SOL, score-pct:0.4669%
 ValidatorScoreRecord { rank: 126, pct: 0.466857442726471, epoch: 239, keybase_id: "solana_capital", name: "Solana.capital", vote_address: "irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W", score: 3468403, average_position: 58.4433562007894, commission: 10, epoch_credits: 408755, data_center_concentration: 0.0484333333333333, base_score: 367285.0, mult: 9.4433562007894, avg_score: 3468403.0 }
- has 33458.18, should_have 33819.35, to balance +stake 361.16 (accum +stake to this point 2091986.02)
+ has 33458.18, should_have 33819.49, to balance +stake 361.30 (accum +stake to this point 2092015.21)
 -------------------------------------------------------------
 195) #115 Validator 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8, marinade-staked 34017.88 SOL, score-pct:0.4723%
 ValidatorScoreRecord { rank: 115, pct: 0.472340361254687, epoch: 239, keybase_id: "eagle2021", name: "Eagle", vote_address: "9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8", score: 3509137, average_position: 58.5387557063199, commission: 10, epoch_credits: 410928, data_center_concentration: 0.1584, base_score: 367882.0, mult: 9.53875570631991, avg_score: 3509137.0 }
- has 34017.88, should_have 34216.53, to balance +stake 198.66 (accum +stake to this point 2092184.68)
+ has 34017.88, should_have 34216.67, to balance +stake 198.80 (accum +stake to this point 2092214.01)
 -------------------------------------------------------------
 196) #415 Validator 3ZHY9PQtp7MyznRcHRAkFYrTWinQzidYAQxNjBeyzyr9, marinade-staked 0.00 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 415, pct: 0.0, epoch: 239, keybase_id: "elgreen", name: "elgreen", vote_address: "3ZHY9PQtp7MyznRcHRAkFYrTWinQzidYAQxNjBeyzyr9", score: 0, average_position: 56.1568549307366, commission: 10, epoch_credits: 410169, data_center_concentration: 1.32063333333333, base_score: 352910.0, mult: 7.15685493073662, avg_score: 2525726.0 }
@@ -3572,7 +3572,7 @@ ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "bisontrails
 -------------------------------------------------------------
 801) #192 Validator 2EoaPgNSGbB3JyP7nSfiK5Wq3eME3LgbbEbdPim4CnVm, marinade-staked 31167.62 SOL, score-pct:0.4254%
 ValidatorScoreRecord { rank: 192, pct: 0.425384374542577, epoch: 239, keybase_id: "olikos", name: "olikos mainnet", vote_address: "2EoaPgNSGbB3JyP7nSfiK5Wq3eME3LgbbEbdPim4CnVm", score: 3160289, average_position: 57.713326534011, commission: 10, epoch_credits: 410625, data_center_concentration: 0.557466666666667, base_score: 362696.0, mult: 8.71332653401104, avg_score: 3160289.0 }
- has 31167.62, should_have 30815.02, to balance -unstake 352.60
+ has 31167.62, should_have 30815.15, to balance -unstake 352.47
 -------------------------------------------------------------
 802) #685 Validator 9c5bpzVRbfsYY2fannb4hyX5CJUPg3BfH2cL6sR7kJM4, marinade-staked 501.19 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "agnosticstaking", name: "Agnostic Staking", vote_address: "9c5bpzVRbfsYY2fannb4hyX5CJUPg3BfH2cL6sR7kJM4", score: 0, average_position: 47.5233855259881, commission: 5, epoch_credits: 412209, data_center_concentration: 7.5158, base_score: 298657.0, mult: -1.47661447401185, avg_score: 0.0 }
@@ -3581,7 +3581,7 @@ ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "agnosticsta
 -------------------------------------------------------------
 803) #196 Validator 7uwo6mYWMRvPhCG1p1Rsc7iuZsv9cN8Gas6n3cLJ1w7b, marinade-staked 31473.95 SOL, score-pct:0.4246%
 ValidatorScoreRecord { rank: 196, pct: 0.424604215565076, epoch: 239, keybase_id: "e2ard", name: "E2ard", vote_address: "7uwo6mYWMRvPhCG1p1Rsc7iuZsv9cN8Gas6n3cLJ1w7b", score: 3154493, average_position: 57.6995307423613, commission: 10, epoch_credits: 410107, data_center_concentration: 0.527666666666667, base_score: 362605.0, mult: 8.6995307423613, avg_score: 3154493.0 }
- has 31473.95, should_have 30758.51, to balance -unstake 715.45
+ has 31473.95, should_have 30758.63, to balance -unstake 715.32
 -------------------------------------------------------------
 804) #685 Validator 61dX6srk1WmiGtd9UM4SHttUDzfWrY8zXg4h8gSmhYMq, marinade-staked 1005.72 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "atticking117", name: "ProChain", vote_address: "61dX6srk1WmiGtd9UM4SHttUDzfWrY8zXg4h8gSmhYMq", score: 0, average_position: 44.2319066081637, commission: 10, epoch_credits: 412098, data_center_concentration: 7.5158, base_score: 277972.0, mult: -4.7680933918363, avg_score: 0.0 }
@@ -3901,9 +3901,9 @@ ValidatorScoreRecord { rank: 377, pct: 0.0, epoch: 239, keybase_id: "", name: ""
 ValidatorScoreRecord { rank: 286, pct: 0.0, epoch: 239, keybase_id: "karapet", name: "Karapet", vote_address: "9EzbogBnGi8hVeLXEyFu2xUo6qi5JdEELs4y3cQXQW33", score: 0, average_position: 56.4362426448986, commission: 10, epoch_credits: 412005, data_center_concentration: 1.3052, base_score: 354669.0, mult: 7.43624264489859, avg_score: 2637405.0 }
  has 3615.85, should_have 0.00, to balance -unstake 3615.85
 -------------------------------------------------------------
-876) #685 Validator H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc, marinade-staked 3616.30 SOL, score-pct:0.0000%
+876) #685 Validator H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc, marinade-staked 3631.42 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "dokiacapital", name: "DokiaCapital", vote_address: "H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc", score: 0, average_position: 58.5149081651061, commission: 5, epoch_credits: 412191, data_center_concentration: 1.9285, base_score: 367732.0, mult: 9.51490816510614, avg_score: 0.0 }
- has 3616.30, should_have 0.00, to balance -unstake 3616.30
+ has 3631.42, should_have 0.00, to balance -unstake 3631.42
 -------------------------------------------------------------
 877) #234 Validator LneJvrSDJGqfpbsKHPfyaxSPecBtqRHTJnwyBzG4vPC, marinade-staked 3692.94 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 234, pct: 0.0, epoch: 239, keybase_id: "gunray", name: "gunray", vote_address: "LneJvrSDJGqfpbsKHPfyaxSPecBtqRHTJnwyBzG4vPC", score: 0, average_position: 57.4169074751473, commission: 10, epoch_credits: 411367, data_center_concentration: 0.761533333333333, base_score: 360832.0, mult: 8.41690747514726, avg_score: 3037090.0 }
@@ -4185,9 +4185,9 @@ ValidatorScoreRecord { rank: 211, pct: 0.0, epoch: 239, keybase_id: "cry2com", n
 ValidatorScoreRecord { rank: 250, pct: 0.0, epoch: 239, keybase_id: "instupendo", name: "carambon", vote_address: "3ywgnXHYqMZ9LAYjXxHPMxMHMQ1EDom4Pcm8whin5JPd", score: 0, average_position: 57.2952469077933, commission: 10, epoch_credits: 412159, data_center_concentration: 0.879866666666667, base_score: 360067.0, mult: 8.29524690779326, avg_score: 2986845.0 }
  has 6722.68, should_have 0.00, to balance -unstake 6722.68
 -------------------------------------------------------------
-944) #685 Validator 9QU2QSxhb24FUX3Tu2FpczXjpK3VYrvRudywSZaM29mF, marinade-staked 7595.66 SOL, score-pct:0.0000%
+944) #685 Validator 9QU2QSxhb24FUX3Tu2FpczXjpK3VYrvRudywSZaM29mF, marinade-staked 7610.77 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "everstake", name: "Everstake", vote_address: "9QU2QSxhb24FUX3Tu2FpczXjpK3VYrvRudywSZaM29mF", score: 0, average_position: 51.4851136149505, commission: 7, epoch_credits: 411277, data_center_concentration: 4.77636666666667, base_score: 323554.0, mult: 2.48511361495054, avg_score: 0.0 }
- has 7595.66, should_have 0.00, to balance -unstake 7595.66
+ has 7610.77, should_have 0.00, to balance -unstake 7610.77
 -------------------------------------------------------------
 945) #571 Validator 4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN, marinade-staked 8347.61 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 571, pct: 0.0, epoch: 239, keybase_id: "stakin", name: "Stakin", vote_address: "4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN", score: 0, average_position: 55.1569533383108, commission: 0, epoch_credits: 412045, data_center_concentration: 5.29226666666667, base_score: 346629.0, mult: 6.15695333831084, avg_score: 2134179.0 }
@@ -4195,7 +4195,7 @@ ValidatorScoreRecord { rank: 571, pct: 0.0, epoch: 239, keybase_id: "stakin", na
 -------------------------------------------------------------
 946) #148 Validator 6WL8sgtssHtvrV4enkyXge7w2u7P5NAGHHKRvtgd7cjJ, marinade-staked 41388.90 SOL, score-pct:0.4494%
 ValidatorScoreRecord { rank: 148, pct: 0.44941760526616, epoch: 239, keybase_id: "0xsoless", name: "0xsoless, a Solana eco dev", vote_address: "6WL8sgtssHtvrV4enkyXge7w2u7P5NAGHHKRvtgd7cjJ", score: 3338838, average_position: 58.1385868103667, commission: 3, epoch_credits: 401460, data_center_concentration: 1.75443333333333, base_score: 365356.0, mult: 9.13858681036667, avg_score: 3338838.0 }
- has 41388.90, should_have 32556.00, to balance -unstake 8832.90
+ has 41388.90, should_have 32556.13, to balance -unstake 8832.76
 -------------------------------------------------------------
 947) #482 Validator CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN, marinade-staked 9713.72 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 482, pct: 0.0, epoch: 239, keybase_id: "", name: "Olala", vote_address: "CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN", score: 0, average_position: 55.5714788323552, commission: 10, epoch_credits: 412193, data_center_concentration: 1.75796666666667, base_score: 349235.0, mult: 6.57147883235521, avg_score: 2294990.0 }
@@ -4499,7 +4499,7 @@ ValidatorScoreRecord { rank: 645, pct: 0.0, epoch: 239, keybase_id: "agx10k", na
 -------------------------------------------------------------
 1021) #6 Validator 9cEQH7KWA74Dktk3ZQhaWi6MirzcyH8mzA3iBTxyRHsE, marinade-staked 97965.27 SOL, score-pct:0.8527%
 ValidatorScoreRecord { rank: 6, pct: 0.852653864074786, epoch: 239, keybase_id: "softgatelimited", name: "Softgate Limited | JP", vote_address: "9cEQH7KWA74Dktk3ZQhaWi6MirzcyH8mzA3iBTxyRHsE", score: 6334583, average_position: 64.6027680924682, commission: 1, epoch_credits: 412336, data_center_concentration: 0.1795, base_score: 405991.0, mult: 15.6027680924682, avg_score: 6334583.0 }
- has 97965.27, should_have 61766.60, to balance -unstake 36198.67
+ has 97965.27, should_have 61766.86, to balance -unstake 36198.41
 -------------------------------------------------------------
 1022) #685 Validator HwC6mKFj23wRYeoqjx5p94FKuRKyzfCPmx2wAV3AAR3t, marinade-staked 50479.49 SOL, score-pct:0.0000%
 ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "", name: "T-Bone Stake", vote_address: "HwC6mKFj23wRYeoqjx5p94FKuRKyzfCPmx2wAV3AAR3t", score: 0, average_position: 61.2548792677615, commission: 1, epoch_credits: 390046, data_center_concentration: 0.105133333333333, base_score: 384912.0, mult: 12.2548792677615, avg_score: 0.0 }
@@ -4515,7 +4515,7 @@ ValidatorScoreRecord { rank: 685, pct: 0.0, epoch: 239, keybase_id: "zantetsu", 
 -------------------------------------------------------------
 1025) #5 Validator GBU4potq4TjsmXCUSJXbXwnkYZP8725ZEaeDrLrdQhbA, marinade-staked 134573.66 SOL, score-pct:0.8589%
 ValidatorScoreRecord { rank: 5, pct: 0.858944400592134, epoch: 239, keybase_id: "parrotfi", name: "Parrot.fi", vote_address: "GBU4potq4TjsmXCUSJXbXwnkYZP8725ZEaeDrLrdQhbA", score: 6381317, average_position: 64.695378206135, commission: 1, epoch_credits: 412238, data_center_concentration: 0.1244, base_score: 406573.0, mult: 15.695378206135, avg_score: 6381317.0 }
- has 134573.66, should_have 62222.29, to balance -unstake 72351.37
+ has 134573.66, should_have 62222.55, to balance -unstake 72351.11
 --------------------------
  439 validators with stake
 --

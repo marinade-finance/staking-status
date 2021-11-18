@@ -1,12 +1,12 @@
 ---
 <pre>
-[2021-11-18][08:19:33][marinade][INFO] Cluster: Other, commitment: processed
-[2021-11-18][08:19:33][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-11-18][08:19:33][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-11-18][08:19:35][marinade::show][INFO] Epoch EpochInfo { epoch: 248, slot_index: 348731, slots_in_epoch: 432000, absolute_slot: 107484731, block_height: 96759700, transaction_count: Some(40037307634) }
-[2021-11-18][08:19:35][marinade::show][INFO] Stake Withdraw Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
-[2021-11-18][08:19:35][marinade::show][INFO] Staking CAPPED TVL 11000000 SOL
-[2021-11-18][08:19:35][marinade::show][INFO] Liquidity CAPPED TVL 1100000 SOL
+[2021-11-18][08:20:09][marinade][INFO] Cluster: Other, commitment: processed
+[2021-11-18][08:20:09][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-11-18][08:20:09][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-11-18][08:20:10][marinade::show][INFO] Epoch EpochInfo { epoch: 248, slot_index: 348803, slots_in_epoch: 432000, absolute_slot: 107484803, block_height: 96759764, transaction_count: Some(40037390777) }
+[2021-11-18][08:20:10][marinade::show][INFO] Stake Withdraw Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
+[2021-11-18][08:20:10][marinade::show][INFO] Staking CAPPED TVL 11000000 SOL
+[2021-11-18][08:20:10][marinade::show][INFO] Liquidity CAPPED TVL 1100000 SOL
 -- Treasury ---------------
 reserve 42203.223001948 SOL (PDA) Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
 treasury mSOL account 178.050338405 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
@@ -33,7 +33,7 @@ cooling down: 0
 Circulating ticket accounts: 20761.336096549 (400 tickets)
 stake-delta: 21441.884866119
 validator_manager_authority VaLV7StdK6A3KfqyePbHyaBefjeibq9gakECFtXNM4m
-[2021-11-18][08:19:36][marinade::show][INFO] reading scores from ./avg.csv
+[2021-11-18][08:20:12][marinade::show][INFO] reading scores from ./avg.csv
 -----------------
 -- Validators ---
 Total staked: 6641327.489052954 SOL

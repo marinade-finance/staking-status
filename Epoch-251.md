@@ -1,14 +1,14 @@
 ---
 <pre>
-[2021-11-24][07:38:04][marinade][INFO] Cluster: Other, commitment: processed
-[2021-11-24][07:38:04][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
-[2021-11-24][07:38:04][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
-[2021-11-24][07:38:05][marinade::show][INFO] Epoch EpochInfo { epoch: 251, slot_index: 33043, slots_in_epoch: 432000, absolute_slot: 108465043, block_height: 97673909, transaction_count: Some(41252570623) }
-[2021-11-24][07:38:05][marinade::show][INFO] Stake Withdraw Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
-[2021-11-24][07:38:05][marinade::show][INFO] Staking CAPPED TVL 11000000 SOL
-[2021-11-24][07:38:05][marinade::show][INFO] Liquidity CAPPED TVL 1100000 SOL
+[2021-11-24][07:41:30][marinade][INFO] Cluster: Other, commitment: processed
+[2021-11-24][07:41:30][marinade][INFO] ProgramId: MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD
+[2021-11-24][07:41:30][marinade][INFO] Instance : Pubkey(8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC)
+[2021-11-24][07:41:31][marinade::show][INFO] Epoch EpochInfo { epoch: 251, slot_index: 33451, slots_in_epoch: 432000, absolute_slot: 108465451, block_height: 97674294, transaction_count: Some(41253108459) }
+[2021-11-24][07:41:31][marinade::show][INFO] Stake Withdraw Auth (PDA): 9eG63CdHjsfhHmobHgLtESGC8GabbmRcaSpHAZrtmhco
+[2021-11-24][07:41:31][marinade::show][INFO] Staking CAPPED TVL 11000000 SOL
+[2021-11-24][07:41:31][marinade::show][INFO] Liquidity CAPPED TVL 1100000 SOL
 -- Treasury ---------------
-reserve 28833.013392334 SOL (PDA) Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
+reserve 28831.012467658 SOL (PDA) Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN
 treasury mSOL account 556.504262896 mSOL Bcr3rbZq1g7FsPz8tawDzT6fCzN1pvADthcv3CtTpd3b
 -- Config ---------------
 rent_exempt_for_token_acc 2039280
@@ -28,12 +28,12 @@ Current-fee: 0.3%
 Min-Max-Fee: 0.3%-3%
 Treasury cut: 25%
 --------------------------
-reserve balance: 28833.013392334
+reserve balance: 28831.012467658
 cooling down: 0
-Circulating ticket accounts: 21804.067819868 (374 tickets)
+Circulating ticket accounts: 21802.066895192 (373 tickets)
 stake-delta: 7028.943533186
 validator_manager_authority VaLV7StdK6A3KfqyePbHyaBefjeibq9gakECFtXNM4m
-[2021-11-24][07:38:06][marinade::show][INFO] reading scores from ./avg.csv
+[2021-11-24][07:41:33][marinade::show][INFO] reading scores from ./avg.csv
 -----------------
 -- Validators ---
 Total staked: 6680474.559841108 SOL

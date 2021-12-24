@@ -15,7 +15,7 @@ export VALIDATORS_APP_TOKEN=[your-validators.app-API-token]
 ```
 
 you should also grab `scores.sqlite3` from this repo and store as `repos/stake-o-matic/db/score-sqlite3.db`
-so you start with historical data. Marinade requires at least 3 epochs in the scores database to average
+so you start with historical data. Marinade requires at least 5 epochs in the scores database to average
 
 #### Nice to have:
 
@@ -34,10 +34,6 @@ $ bash clean-score-all-mainnet.sh
 `clean-score-all-mainnet.sh` will run the base Solana's Foundation stake-o-matic scoring, 
 getting additional information from Validators.App (name, keybase_id, data center)
 
-After that, a SQL script will import the base score into the database at `stake-o-matic/db/score-sqlite3.db` and create the AVG table containing the final scores & percentages for the epoch.
+After that, a SQL script will import the base score into the database at `stake-o-matic/db/score-sqlite3.db` and create the AVG table containing the stake-o-matic data for the epoch.
 
-The AVG table is the base data for updating scores on-chain, and scores on-chain determine the staking bot behavior.
-
-
-
-
+The AVG table is then processed by the `score-post-process` rust/cli program generating final scores and then updated on-chain, the final scores are stored as table `scores2` in the sqlite database. Scores on-chain determine the staking bot behavior.
